@@ -10,6 +10,7 @@ TLBEntry tlb[TLB_SIZE];
 //we add frames in 0, 1, 2... 127 -- thus we don't need a specific queue
 //we can use next_free_frame to tell us how to start
 int framesFilled = 0; //how many have been placed into the table
+bool frameWrite[128]; //if we've written to this frame
 
 int tlb_index = 0;
 int next_free_frame = 0;
@@ -29,8 +30,7 @@ int translate_address(uint32_t addr) {
         tlb_hits++;
     } else {
         if (!page_table[page_number].valid) {
-            int curFrame = next_free_frame; //since NFF will be incremented
-            frame_number = handle_page_fault(page_number);
+            frame_number = handle_page_fault(page_number); //same as 
             
             page_faults++;
             framesFilled++;
