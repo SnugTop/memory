@@ -54,6 +54,9 @@ int translate_address(uint32_t addr) {
         page_table[page_number].dirty = 1;
         printf(" | [DIRTY]");
     }
+    else {
+        frameWrite[frame_number] = false;
+    }
     printf("\n");
 
     return physical_address;
