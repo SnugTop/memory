@@ -49,13 +49,10 @@ int translate_address(uint32_t addr) {
     printf("Logical: 0x%04X | Physical: 0x%04X | Value: %d", addr & 0xFFFF, physical_address, value);
 
     if (write_bit) {
-        frameWrite[frame_number] = true;
+        frameWrite[frame_number] = true; //false by default; now true
         physical_memory[physical_address]++;
         page_table[page_number].dirty = 1;
         printf(" | [DIRTY]");
-    }
-    else {
-        frameWrite[frame_number] = false;
     }
     printf("\n");
 
