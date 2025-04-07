@@ -12,6 +12,7 @@ int framesUsed [128]; //holds values of next_free_frame used for writing
 bool frameWrite [128]; //for each frame number, determines whether it's been written to
 int curFrame = 0; //which index to add into
 int framesFilled = 0; //how many have been written to
+//note that these only include those written to; those not written to can be replaced w/o much fanfare
 
 int tlb_index = 0;
 int next_free_frame = 0;
