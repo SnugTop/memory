@@ -13,6 +13,7 @@ int handle_page_fault(int page_number) {
     bool full = false;
     if (framesFilled == 128 && frameWrite[next_free_frame]) {
         fwrite(physical_memory + (next_free_frame * FRAME_SIZE), sizeof(char), FRAME_SIZE, bs);
+        frameWrite[next_free_frame] = false; //since now not necessarily written
     } //something written
 
     fseek(bs, page_number * FRAME_SIZE, SEEK_SET);
