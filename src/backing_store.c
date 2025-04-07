@@ -12,9 +12,11 @@ int handle_page_fault(int page_number) {
 
     bool TLBreplace = false;
     int locTLB = 0;
-    if (framesFilled == 128 && frameWrite[next_free_frame]) {
-        fwrite(physical_memory + (next_free_frame * FRAME_SIZE), sizeof(char), FRAME_SIZE, bs);
-        frameWrite[next_free_frame] = false; //since now not necessarily written
+    if (framesFilled == 128) {
+        if (frameWrite[next_free_frame]) {
+            fwrite(physical_memory + (next_free_frame * FRAME_SIZE), sizeof(char), FRAME_SIZE, bs);
+            frameWrite[next_free_frame] = false; //since now not necessarily written
+        }
         page_table[framesToPages[next_free_frame]].valid = 0; //to show that it's invalid
         //and just in case in TLB...
         locTLB = search_tlb(framesToPages[next_free_frame]);
