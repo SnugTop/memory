@@ -11,6 +11,7 @@ TLBEntry tlb[TLB_SIZE];
 //we can use next_free_frame to tell us how to start
 int framesFilled = 0; //how many have been placed into the table
 bool frameWrite[128]; //if we've written to this frame
+int framesToPages[128]; //reverse page table
 
 int tlb_index = 0;
 int next_free_frame = 0;
@@ -50,6 +51,7 @@ int translate_address(uint32_t addr) {
 
     if (write_bit) {
         frameWrite[frame_number] = true; //false by default; now true
+        framesToPages[frame_number] = page_number;
         physical_memory[physical_address]++;
         page_table[page_number].dirty = 1;
         printf(" | [DIRTY]");
