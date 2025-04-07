@@ -51,6 +51,9 @@ int translate_address(uint32_t addr) {
             pagesUsed[curFrame] = page_number;
             frameWrite[frame_number] = true;
             curFrame++;
+            if (curFrame > 127) {
+                curFrame = curFrame-128;
+            }
         }
         physical_memory[physical_address]++;
         page_table[page_number].dirty = 1;
