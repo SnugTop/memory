@@ -7,6 +7,7 @@ PageTableEntry page_table[PAGE_TABLE_SIZE];
 TLBEntry tlb[TLB_SIZE];
 
 //to help with page replacement -- acts as a queue
+int pagesUsed [128];
 int framesUsed [128]; //holds values of next_free_frame used for writing
 bool frameWrite [128]; //for each frame number, determines whether it's been written to
 int curFrame = 0; //which index to add into
@@ -44,10 +45,13 @@ int translate_address(uint32_t addr) {
     printf("Logical: 0x%04X | Physical: 0x%04X | Value: %d", addr & 0xFFFF, physical_address, value);
 
     if (write_bit) {
-        if (frameWrite[frame_number]) {
+        if (frameWrite[frame_number] == false) { //adding in new "dirty" page
             framesUsed[curFrame] = frame_number;
+            framesFilled++;
+            pagesUsed[curFrame] = page_number;
+            frameWrite[frame_number] = true;
+            curFrame++;
         }
-        frameWrite[frame_number] = true;
         physical_memory[physical_address]++;
         page_table[page_number].dirty = 1;
         printf(" | [DIRTY]");
