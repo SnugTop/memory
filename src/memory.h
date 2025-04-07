@@ -5,7 +5,7 @@
 #define PAGE_TABLE_SIZE 256
 #define TLB_SIZE 16
 #define FRAME_SIZE 256
-#define PHYSICAL_MEMORY_SIZE 65536
+#define PHYSICAL_MEMORY_SIZE 32768
 #define BACKING_STORE "BACKING_STORE.bin"
 
 typedef struct {
