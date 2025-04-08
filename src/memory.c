@@ -10,8 +10,9 @@ TLBEntry tlb[TLB_SIZE];
 //we add frames in 0, 1, 2... 127 -- thus we don't need a specific queue
 //we can use next_free_frame to tell us how to start
 int framesFilled = 0; //how many have been placed into the table
-bool frameWrite[128]; //if we've written to this frame
-int framesToPages[128]; //reverse page table
+bool frameWrite[256]; //if we've written to this frame
+int framesToPages[256]; //reverse page table
+//if "limit" is true, only first 128 will be used in both of these
 
 int tlb_index = 0;
 int next_free_frame = 0;
