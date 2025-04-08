@@ -20,6 +20,18 @@ int main(int argc, char *argv[]) {
         page_table[i].dirty = 0;
     }
 
+    //allows user to set to 128 or 256 physical frames
+    string mode = "";
+    scanf("%s", mode);
+    if (mode == "2") {
+        limit = true;
+        //set to mode limit = true with 128 frames in physical
+    }
+    else {
+        limit = false;
+        //set to mode limit = false with 256 frames in physical
+    }
+
     uint32_t logical_address;
     while (fscanf(fp, "%u", &logical_address) == 1) {
         translate_address(logical_address);
