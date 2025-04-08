@@ -20,6 +20,8 @@ int total_addresses = 0;
 int page_faults = 0;
 int tlb_hits = 0;
 
+bool limit = false; //default
+
 int translate_address(uint32_t addr) {
     uint8_t page_number = get_page_number(addr);
     uint8_t offset = get_offset(addr);
