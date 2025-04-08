@@ -12,7 +12,7 @@ int handle_page_fault(int page_number) {
 
     bool TLBreplace = false;
     int locTLB = 0;
-    if (framesFilled == 128) {
+    if (limit && framesFilled == 128) {
         if (frameWrite[next_free_frame]) {
             fwrite(physical_memory + (next_free_frame * FRAME_SIZE), sizeof(char), FRAME_SIZE, bs);
             frameWrite[next_free_frame] = false; //since now not necessarily written
@@ -29,7 +29,7 @@ int handle_page_fault(int page_number) {
     fread(physical_memory + (next_free_frame * FRAME_SIZE), sizeof(char), FRAME_SIZE, bs);
     fclose(bs);
 
-    if (TLBreplace) {
+    if (TLBreplace) { //requires limit to be true
         tlb[locTLB].page_number = page_number;
     }
 
