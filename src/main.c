@@ -25,8 +25,8 @@ int main(int argc, char *argv[]) {
     scanf("%s", mode);
     if (mode == "2") {
         limit = true;
-        physical_memory = (int*)realloc(physical_memory, 32768*sizeof(int)); //is this line necessary?
         //set to mode limit = true with 128 frames in physical
+        //physical_memory keeps its original size; we just never use half of it 
     }
     else {
         limit = false;
