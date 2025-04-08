@@ -37,7 +37,7 @@ int translate_address(uint32_t addr) {
             
             page_faults++;
             framesFilled++;
-            if (next_free_frame == 128) {
+            if (limit && next_free_frame == 128) {
                 next_free_frame = 0;
             }
         } else {
