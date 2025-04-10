@@ -25,36 +25,45 @@ int tlb_hits = 0;
 bool limit = false; //default
 
 int translate_address(uint32_t addr) {
+    // Get the page number, offset, and write flag from the logical address.
     uint8_t page_number = get_page_number(addr);
     uint8_t offset = get_offset(addr);
     uint8_t write_bit = get_write_bit(addr);
 
+    // Look for the page number in the TLB.
     int frame_number = search_tlb(page_number);
-
     if (frame_number != -1) {
+        // TLB hit: count the hit.
         tlb_hits++;
     } else {
+        // TLB miss: check the page table.
         if (!page_table[page_number].valid) {
-            frame_number = handle_page_fault(page_number); //same as 
-            
+            // Page fault: load the page from the backing store.
+            frame_number = handle_page_fault(page_number);
             page_faults++;
             framesFilled++;
+            // In limited-memory mode, wrap around after frame 127.
             if (limit && next_free_frame == 128) {
                 next_free_frame = 0;
             }
         } else {
+            // Page already in physical memory.
             frame_number = page_table[page_number].frame_number;
         }
+        // Insert this page/frame pair into the TLB.
         insert_tlb(page_number, frame_number);
     }
 
+    // Calculate the physical address.
     int physical_address = (frame_number * FRAME_SIZE) + offset;
     signed char value = physical_memory[physical_address];
 
+    // Print the mapping result.
     printf("Logical: 0x%04X | Physical: 0x%04X | Value: %d", addr & 0xFFFF, physical_address, value);
 
+    // If the write bit is set, update memory and mark the page as dirty.
     if (write_bit) {
-        frameWrite[frame_number] = true; //false by default; now true
+        frameWrite[frame_number] = true;  // Mark frame as modified.
         framesToPages[frame_number] = page_number;
         physical_memory[physical_address]++;
         page_table[page_number].dirty = 1;
