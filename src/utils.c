@@ -1,3 +1,4 @@
+//utils.c
 #include <stdint.h>
 #include "memory.h"
 
@@ -23,7 +24,9 @@ int search_tlb(int page_number) {
 }
 
 void insert_tlb(int page_number, int frame_number) {
-    tlb[tlb_index % TLB_SIZE].page_number = page_number;
-    tlb[tlb_index % TLB_SIZE].frame_number = frame_number;
+    tlb_index = tlb_index % TLB_SIZE; //this way we only do the operation once
+    tlb[tlb_index].page_number = page_number;
+    tlb[tlb_index].frame_number = frame_number;
     tlb_index++;
 }
+

@@ -1,0 +1,3954 @@
+Enter mode (2 for limited physical memory, anything else for full memory): Searching TLB for page: 66
+TLB MISS: Page 66 not found in TLB
+Inserting page 66 -> frame 0 into TLB slot 0
+Logical: 0x4214 | Physical: 0x0014 | Value: 0
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 1
+Logical: 0xF41D | Physical: 0x011D | Value: 0
+Searching TLB for page: 117
+TLB MISS: Page 117 not found in TLB
+Inserting page 117 -> frame 2 into TLB slot 2
+Logical: 0x75F6 | Physical: 0x02F6 | Value: 29
+Searching TLB for page: 209
+TLB MISS: Page 209 not found in TLB
+Inserting page 209 -> frame 3 into TLB slot 3
+Logical: 0xD1B3 | Physical: 0x03B3 | Value: 108
+Searching TLB for page: 156
+TLB MISS: Page 156 not found in TLB
+Inserting page 156 -> frame 4 into TLB slot 4
+Logical: 0x9CF9 | Physical: 0x04F9 | Value: 0
+Searching TLB for page: 112
+TLB MISS: Page 112 not found in TLB
+Inserting page 112 -> frame 5 into TLB slot 5
+Logical: 0x706D | Physical: 0x056D | Value: 0
+Searching TLB for page: 95
+TLB MISS: Page 95 not found in TLB
+Inserting page 95 -> frame 6 into TLB slot 6
+Logical: 0x5F8E | Physical: 0x068E | Value: 23
+Searching TLB for page: 189
+TLB MISS: Page 189 not found in TLB
+Inserting page 189 -> frame 7 into TLB slot 7
+Logical: 0xBD0F | Physical: 0x070F | Value: 67
+Searching TLB for page: 253
+TLB MISS: Page 253 not found in TLB
+Inserting page 253 -> frame 8 into TLB slot 8
+Logical: 0xFD2F | Physical: 0x082F | Value: 75
+Searching TLB for page: 71
+TLB MISS: Page 71 not found in TLB
+Inserting page 71 -> frame 9 into TLB slot 9
+Logical: 0x4777 | Physical: 0x0977 | Value: -35
+Searching TLB for page: 47
+TLB MISS: Page 47 not found in TLB
+Inserting page 47 -> frame 10 into TLB slot 10
+Logical: 0x2FBA | Physical: 0x0ABA | Value: 11
+Searching TLB for page: 88
+TLB MISS: Page 88 not found in TLB
+Inserting page 88 -> frame 11 into TLB slot 11
+Logical: 0x58E8 | Physical: 0x0BE8 | Value: 0
+Searching TLB for page: 226
+TLB MISS: Page 226 not found in TLB
+Inserting page 226 -> frame 12 into TLB slot 12
+Logical: 0xE27E | Physical: 0x0C7E | Value: 56
+Searching TLB for page: 109
+TLB MISS: Page 109 not found in TLB
+Inserting page 109 -> frame 13 into TLB slot 13
+Logical: 0x6D3E | Physical: 0x0D3E | Value: 27
+Searching TLB for page: 214
+TLB MISS: Page 214 not found in TLB
+Inserting page 214 -> frame 14 into TLB slot 14
+Logical: 0xD66E | Physical: 0x0E6E | Value: 53
+Searching TLB for page: 152
+TLB MISS: Page 152 not found in TLB
+Inserting page 152 -> frame 15 into TLB slot 15
+Logical: 0x9811 | Physical: 0x0F11 | Value: 0
+Searching TLB for page: 128
+TLB MISS: Page 128 not found in TLB
+Inserting page 128 -> frame 16 into TLB slot 0
+Logical: 0x8061 | Physical: 0x1061 | Value: 0
+Searching TLB for page: 250
+TLB MISS: Page 250 not found in TLB
+Inserting page 250 -> frame 17 into TLB slot 1
+Logical: 0xFAF3 | Physical: 0x11F3 | Value: -68
+Searching TLB for page: 9
+TLB MISS: Page 9 not found in TLB
+Inserting page 9 -> frame 18 into TLB slot 2
+Logical: 0x090B | Physical: 0x120B | Value: 66
+Searching TLB for page: 251
+TLB MISS: Page 251 not found in TLB
+Inserting page 251 -> frame 19 into TLB slot 3
+Logical: 0xFBC6 | Physical: 0x13C6 | Value: 62
+Searching TLB for page: 215
+TLB MISS: Page 215 not found in TLB
+Inserting page 215 -> frame 20 into TLB slot 4
+Logical: 0xD701 | Physical: 0x1401 | Value: 0
+Searching TLB for page: 72
+TLB MISS: Page 72 not found in TLB
+Inserting page 72 -> frame 21 into TLB slot 5
+Logical: 0x48C9 | Physical: 0x15C9 | Value: 0
+Searching TLB for page: 56
+TLB MISS: Page 56 not found in TLB
+Inserting page 56 -> frame 22 into TLB slot 6
+Logical: 0x38DD | Physical: 0x16DD | Value: 0
+Searching TLB for page: 238
+TLB MISS: Page 238 not found in TLB
+Inserting page 238 -> frame 23 into TLB slot 7
+Logical: 0xEE4E | Physical: 0x174E | Value: 59
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 8
+Logical: 0xF497 | Physical: 0x0197 | Value: 37
+Searching TLB for page: 29
+TLB MISS: Page 29 not found in TLB
+Inserting page 29 -> frame 24 into TLB slot 9
+Logical: 0x1DA7 | Physical: 0x18A7 | Value: 105
+Searching TLB for page: 252
+TLB MISS: Page 252 not found in TLB
+Inserting page 252 -> frame 25 into TLB slot 10
+Logical: 0xFCEB | Physical: 0x19EB | Value: 58
+Searching TLB for page: 26
+TLB MISS: Page 26 not found in TLB
+Inserting page 26 -> frame 26 into TLB slot 11
+Logical: 0x1A47 | Physical: 0x1A47 | Value: -111
+Searching TLB for page: 126
+TLB MISS: Page 126 not found in TLB
+Inserting page 126 -> frame 27 into TLB slot 12
+Logical: 0x7E3B | Physical: 0x1B3B | Value: -114
+Searching TLB for page: 236
+TLB MISS: Page 236 not found in TLB
+Inserting page 236 -> frame 28 into TLB slot 13
+Logical: 0xECE5 | Physical: 0x1CE5 | Value: 0 | [DIRTY]
+Searching TLB for page: 24
+TLB MISS: Page 24 not found in TLB
+Inserting page 24 -> frame 29 into TLB slot 14
+Logical: 0x18A4 | Physical: 0x1DA4 | Value: 0
+Searching TLB for page: 178
+TLB MISS: Page 178 not found in TLB
+Inserting page 178 -> frame 30 into TLB slot 15
+Logical: 0xB278 | Physical: 0x1E78 | Value: 0
+Searching TLB for page: 3
+TLB MISS: Page 3 not found in TLB
+Inserting page 3 -> frame 31 into TLB slot 0
+Logical: 0x03C9 | Physical: 0x1FC9 | Value: 0
+Searching TLB for page: 159
+TLB MISS: Page 159 not found in TLB
+Inserting page 159 -> frame 32 into TLB slot 1
+Logical: 0x9FBB | Physical: 0x20BB | Value: -18
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 2
+Logical: 0xC08E | Physical: 0x218E | Value: 48
+Searching TLB for page: 160
+TLB MISS: Page 160 not found in TLB
+Inserting page 160 -> frame 34 into TLB slot 3
+Logical: 0xA09E | Physical: 0x229E | Value: 40
+Searching TLB for page: 83
+TLB MISS: Page 83 not found in TLB
+Inserting page 83 -> frame 35 into TLB slot 4
+Logical: 0x5393 | Physical: 0x2393 | Value: -28
+Searching TLB for page: 23
+TLB MISS: Page 23 not found in TLB
+Inserting page 23 -> frame 36 into TLB slot 5
+Logical: 0x17CB | Physical: 0x24CB | Value: -14
+Searching TLB for page: 127
+TLB MISS: Page 127 not found in TLB
+Inserting page 127 -> frame 37 into TLB slot 6
+Logical: 0x7F1D | Physical: 0x251D | Value: 0
+Searching TLB for page: 69
+TLB MISS: Page 69 not found in TLB
+Inserting page 69 -> frame 38 into TLB slot 7
+Logical: 0x4501 | Physical: 0x2601 | Value: 0
+Searching TLB for page: 14
+TLB MISS: Page 14 not found in TLB
+Inserting page 14 -> frame 39 into TLB slot 8
+Logical: 0x0EC8 | Physical: 0x27C8 | Value: 0
+Searching TLB for page: 112
+TLB MISS: Page 112 not found in TLB
+Inserting page 112 -> frame 5 into TLB slot 9
+Logical: 0x702E | Physical: 0x052E | Value: 28
+Searching TLB for page: 231
+TLB MISS: Page 231 not found in TLB
+Inserting page 231 -> frame 40 into TLB slot 10
+Logical: 0xE768 | Physical: 0x2868 | Value: 0
+Searching TLB for page: 156
+TLB MISS: Page 156 not found in TLB
+Inserting page 156 -> frame 4 into TLB slot 11
+Logical: 0x9CF2 | Physical: 0x04F2 | Value: 39
+Searching TLB for page: 234
+TLB MISS: Page 234 not found in TLB
+Inserting page 234 -> frame 41 into TLB slot 12
+Logical: 0xEAB6 | Physical: 0x29B6 | Value: 58
+Searching TLB for page: 165
+TLB MISS: Page 165 not found in TLB
+Inserting page 165 -> frame 42 into TLB slot 13
+Logical: 0xA50C | Physical: 0x2A0C | Value: 0
+Searching TLB for page: 174
+TLB MISS: Page 174 not found in TLB
+Inserting page 174 -> frame 43 into TLB slot 14
+Logical: 0xAEE2 | Physical: 0x2BE2 | Value: 43
+Searching TLB for page: 87
+TLB MISS: Page 87 not found in TLB
+Inserting page 87 -> frame 44 into TLB slot 15
+Logical: 0x57F2 | Physical: 0x2CF2 | Value: 21
+Searching TLB for page: 11
+TLB MISS: Page 11 not found in TLB
+Inserting page 11 -> frame 45 into TLB slot 0
+Logical: 0x0BFB | Physical: 0x2DFB | Value: -2
+Searching TLB for page: 61
+TLB MISS: Page 61 not found in TLB
+Inserting page 61 -> frame 46 into TLB slot 1
+Logical: 0x3D8D | Physical: 0x2E8D | Value: 0
+Searching TLB for page: 123
+TLB MISS: Page 123 not found in TLB
+Inserting page 123 -> frame 47 into TLB slot 2
+Logical: 0x7BA1 | Physical: 0x2FA1 | Value: 0
+Searching TLB for page: 42
+TLB MISS: Page 42 not found in TLB
+Inserting page 42 -> frame 48 into TLB slot 3
+Logical: 0x2A5A | Physical: 0x305A | Value: 10
+Searching TLB for page: 170
+TLB MISS: Page 170 not found in TLB
+Inserting page 170 -> frame 49 into TLB slot 4
+Logical: 0xAAF5 | Physical: 0x31F5 | Value: 0
+Searching TLB for page: 130
+TLB MISS: Page 130 not found in TLB
+Inserting page 130 -> frame 50 into TLB slot 5
+Logical: 0x827D | Physical: 0x327D | Value: 0
+Searching TLB for page: 175
+TLB MISS: Page 175 not found in TLB
+Inserting page 175 -> frame 51 into TLB slot 6
+Logical: 0xAF9A | Physical: 0x339A | Value: 43
+Searching TLB for page: 221
+TLB MISS: Page 221 not found in TLB
+Inserting page 221 -> frame 52 into TLB slot 7
+Logical: 0xDD51 | Physical: 0x3451 | Value: 0
+Searching TLB for page: 19
+TLB MISS: Page 19 not found in TLB
+Inserting page 19 -> frame 53 into TLB slot 8
+Logical: 0x138B | Physical: 0x358B | Value: -30
+Searching TLB for page: 196
+TLB MISS: Page 196 not found in TLB
+Inserting page 196 -> frame 54 into TLB slot 9
+Logical: 0xC433 | Physical: 0x3633 | Value: 12
+Searching TLB for page: 75
+TLB MISS: Page 75 not found in TLB
+Inserting page 75 -> frame 55 into TLB slot 10
+Logical: 0x4B9E | Physical: 0x379E | Value: 18
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 11
+Logical: 0x8EB1 | Physical: 0x38B1 | Value: 0
+Searching TLB for page: 40
+TLB MISS: Page 40 not found in TLB
+Inserting page 40 -> frame 57 into TLB slot 12
+Logical: 0x2898 | Physical: 0x3998 | Value: 0
+Searching TLB for page: 230
+TLB MISS: Page 230 not found in TLB
+Inserting page 230 -> frame 58 into TLB slot 13
+Logical: 0xE602 | Physical: 0x3A02 | Value: 57
+Searching TLB for page: 20
+TLB MISS: Page 20 not found in TLB
+Inserting page 20 -> frame 59 into TLB slot 14
+Logical: 0x1409 | Physical: 0x3B09 | Value: 0
+Searching TLB for page: 228
+TLB MISS: Page 228 not found in TLB
+Inserting page 228 -> frame 60 into TLB slot 15
+Logical: 0xE4BA | Physical: 0x3CBA | Value: 57
+Searching TLB for page: 228
+TLB HIT: Found page 228 in TLB slot 15 with frame 60
+Logical: 0xE4D8 | Physical: 0x3CD8 | Value: 0
+Searching TLB for page: 107
+TLB MISS: Page 107 not found in TLB
+Inserting page 107 -> frame 61 into TLB slot 0
+Logical: 0x6B34 | Physical: 0x3D34 | Value: 0
+Searching TLB for page: 230
+TLB HIT: Found page 230 in TLB slot 13 with frame 58
+Logical: 0xE666 | Physical: 0x3A66 | Value: 57
+Searching TLB for page: 201
+TLB MISS: Page 201 not found in TLB
+Inserting page 201 -> frame 62 into TLB slot 1
+Logical: 0xC914 | Physical: 0x3E14 | Value: 0
+Searching TLB for page: 26
+TLB MISS: Page 26 not found in TLB
+Inserting page 26 -> frame 26 into TLB slot 2
+Logical: 0x1A8C | Physical: 0x1A8C | Value: 0
+Searching TLB for page: 83
+TLB MISS: Page 83 not found in TLB
+Inserting page 83 -> frame 35 into TLB slot 3
+Logical: 0x533F | Physical: 0x233F | Value: -49
+Searching TLB for page: 119
+TLB MISS: Page 119 not found in TLB
+Inserting page 119 -> frame 63 into TLB slot 4
+Logical: 0x77F1 | Physical: 0x3FF1 | Value: 0
+Searching TLB for page: 113
+TLB MISS: Page 113 not found in TLB
+Inserting page 113 -> frame 64 into TLB slot 5
+Logical: 0x7124 | Physical: 0x4024 | Value: 0
+Searching TLB for page: 160
+TLB MISS: Page 160 not found in TLB
+Inserting page 160 -> frame 34 into TLB slot 6
+Logical: 0xA02B | Physical: 0x222B | Value: 10
+Searching TLB for page: 79
+TLB MISS: Page 79 not found in TLB
+Inserting page 79 -> frame 65 into TLB slot 7
+Logical: 0x4F23 | Physical: 0x4123 | Value: -56
+Searching TLB for page: 226
+TLB MISS: Page 226 not found in TLB
+Inserting page 226 -> frame 12 into TLB slot 8
+Logical: 0xE201 | Physical: 0x0C01 | Value: 0
+Searching TLB for page: 247
+TLB MISS: Page 247 not found in TLB
+Inserting page 247 -> frame 66 into TLB slot 9
+Logical: 0xF71A | Physical: 0x421A | Value: 61
+Searching TLB for page: 142
+TLB HIT: Found page 142 in TLB slot 11 with frame 56
+Logical: 0x8E16 | Physical: 0x3816 | Value: 35
+Searching TLB for page: 2
+TLB MISS: Page 2 not found in TLB
+Inserting page 2 -> frame 67 into TLB slot 10
+Logical: 0x02B4 | Physical: 0x43B4 | Value: 0
+Searching TLB for page: 168
+TLB MISS: Page 168 not found in TLB
+Inserting page 168 -> frame 68 into TLB slot 11
+Logical: 0xA871 | Physical: 0x4471 | Value: 0
+Searching TLB for page: 188
+TLB MISS: Page 188 not found in TLB
+Inserting page 188 -> frame 69 into TLB slot 12
+Logical: 0xBC00 | Physical: 0x4500 | Value: 0
+Searching TLB for page: 135
+TLB MISS: Page 135 not found in TLB
+Inserting page 135 -> frame 70 into TLB slot 13
+Logical: 0x8701 | Physical: 0x4601 | Value: 0
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 14
+Logical: 0xC03D | Physical: 0x213D | Value: 0
+Searching TLB for page: 144
+TLB MISS: Page 144 not found in TLB
+Inserting page 144 -> frame 71 into TLB slot 15
+Logical: 0x903A | Physical: 0x473A | Value: 36
+Searching TLB for page: 231
+TLB MISS: Page 231 not found in TLB
+Inserting page 231 -> frame 40 into TLB slot 0
+Logical: 0xE71A | Physical: 0x281A | Value: 57
+Searching TLB for page: 197
+TLB MISS: Page 197 not found in TLB
+Inserting page 197 -> frame 72 into TLB slot 1
+Logical: 0xC578 | Physical: 0x4878 | Value: 0
+Searching TLB for page: 69
+TLB MISS: Page 69 not found in TLB
+Inserting page 69 -> frame 38 into TLB slot 2
+Logical: 0x45CA | Physical: 0x26CA | Value: 17
+Searching TLB for page: 70
+TLB MISS: Page 70 not found in TLB
+Inserting page 70 -> frame 73 into TLB slot 3
+Logical: 0x46E1 | Physical: 0x49E1 | Value: 0
+Searching TLB for page: 15
+TLB MISS: Page 15 not found in TLB
+Inserting page 15 -> frame 74 into TLB slot 4
+Logical: 0x0F2C | Physical: 0x4A2C | Value: 0
+Searching TLB for page: 212
+TLB MISS: Page 212 not found in TLB
+Inserting page 212 -> frame 75 into TLB slot 5
+Logical: 0xD474 | Physical: 0x4B74 | Value: 0
+Searching TLB for page: 167
+TLB MISS: Page 167 not found in TLB
+Inserting page 167 -> frame 76 into TLB slot 6
+Logical: 0xA7B4 | Physical: 0x4CB4 | Value: 0
+Searching TLB for page: 183
+TLB MISS: Page 183 not found in TLB
+Inserting page 183 -> frame 77 into TLB slot 7
+Logical: 0xB747 | Physical: 0x4D47 | Value: -47
+Searching TLB for page: 230
+TLB MISS: Page 230 not found in TLB
+Inserting page 230 -> frame 58 into TLB slot 8
+Logical: 0xE60C | Physical: 0x3A0C | Value: 0
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 9
+Logical: 0x21AC | Physical: 0x4EAC | Value: 0
+Searching TLB for page: 149
+TLB MISS: Page 149 not found in TLB
+Inserting page 149 -> frame 79 into TLB slot 10
+Logical: 0x95C0 | Physical: 0x4FC0 | Value: 0
+Searching TLB for page: 251
+TLB MISS: Page 251 not found in TLB
+Inserting page 251 -> frame 19 into TLB slot 11
+Logical: 0xFB65 | Physical: 0x1365 | Value: 0
+Searching TLB for page: 91
+TLB MISS: Page 91 not found in TLB
+Inserting page 91 -> frame 80 into TLB slot 12
+Logical: 0x5B5B | Physical: 0x505B | Value: -42
+Searching TLB for page: 166
+TLB MISS: Page 166 not found in TLB
+Inserting page 166 -> frame 81 into TLB slot 13
+Logical: 0xA688 | Physical: 0x5188 | Value: 0
+Searching TLB for page: 62
+TLB MISS: Page 62 not found in TLB
+Inserting page 62 -> frame 82 into TLB slot 14
+Logical: 0x3E29 | Physical: 0x5229 | Value: 0
+Searching TLB for page: 61
+TLB MISS: Page 61 not found in TLB
+Inserting page 61 -> frame 46 into TLB slot 15
+Logical: 0x3D3F | Physical: 0x2E3F | Value: 79
+Searching TLB for page: 87
+TLB MISS: Page 87 not found in TLB
+Inserting page 87 -> frame 44 into TLB slot 0
+Logical: 0x57E5 | Physical: 0x2CE5 | Value: 0
+Searching TLB for page: 146
+TLB MISS: Page 146 not found in TLB
+Inserting page 146 -> frame 83 into TLB slot 1
+Logical: 0x92A4 | Physical: 0x53A4 | Value: 0
+Searching TLB for page: 21
+TLB MISS: Page 21 not found in TLB
+Inserting page 21 -> frame 84 into TLB slot 2
+Logical: 0x1597 | Physical: 0x5497 | Value: 101
+Searching TLB for page: 249
+TLB MISS: Page 249 not found in TLB
+Inserting page 249 -> frame 85 into TLB slot 3
+Logical: 0xF9B1 | Physical: 0x55B1 | Value: 0
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 4
+Logical: 0xF4FC | Physical: 0x01FC | Value: 0
+Searching TLB for page: 128
+TLB MISS: Page 128 not found in TLB
+Inserting page 128 -> frame 16 into TLB slot 5
+Logical: 0x806A | Physical: 0x106A | Value: 32
+Searching TLB for page: 251
+TLB HIT: Found page 251 in TLB slot 11 with frame 19
+Logical: 0xFB86 | Physical: 0x1386 | Value: 62
+Searching TLB for page: 246
+TLB MISS: Page 246 not found in TLB
+Inserting page 246 -> frame 86 into TLB slot 6
+Logical: 0xF67D | Physical: 0x567D | Value: 0
+Searching TLB for page: 241
+TLB MISS: Page 241 not found in TLB
+Inserting page 241 -> frame 87 into TLB slot 7
+Logical: 0xF16A | Physical: 0x576A | Value: 60
+Searching TLB for page: 76
+TLB MISS: Page 76 not found in TLB
+Inserting page 76 -> frame 88 into TLB slot 8
+Logical: 0x4CC0 | Physical: 0x58C0 | Value: 0
+Searching TLB for page: 113
+TLB MISS: Page 113 not found in TLB
+Inserting page 113 -> frame 64 into TLB slot 9
+Logical: 0x7167 | Physical: 0x4067 | Value: 89
+Searching TLB for page: 175
+TLB MISS: Page 175 not found in TLB
+Inserting page 175 -> frame 51 into TLB slot 10
+Logical: 0xAFB5 | Physical: 0x33B5 | Value: 0
+Searching TLB for page: 109
+TLB MISS: Page 109 not found in TLB
+Inserting page 109 -> frame 13 into TLB slot 11
+Logical: 0x6DBC | Physical: 0x0DBC | Value: 0
+Searching TLB for page: 36
+TLB MISS: Page 36 not found in TLB
+Inserting page 36 -> frame 89 into TLB slot 12
+Logical: 0x24E8 | Physical: 0x59E8 | Value: 0
+Searching TLB for page: 174
+TLB MISS: Page 174 not found in TLB
+Inserting page 174 -> frame 43 into TLB slot 13
+Logical: 0xAEC8 | Physical: 0x2BC8 | Value: 0
+Searching TLB for page: 240
+TLB MISS: Page 240 not found in TLB
+Inserting page 240 -> frame 90 into TLB slot 14
+Logical: 0xF038 | Physical: 0x5A38 | Value: 0
+Searching TLB for page: 122
+TLB MISS: Page 122 not found in TLB
+Inserting page 122 -> frame 91 into TLB slot 15
+Logical: 0x7ADD | Physical: 0x5BDD | Value: 0
+Searching TLB for page: 237
+TLB MISS: Page 237 not found in TLB
+Inserting page 237 -> frame 92 into TLB slot 0
+Logical: 0xED4A | Physical: 0x5C4A | Value: 59
+Searching TLB for page: 47
+TLB MISS: Page 47 not found in TLB
+Inserting page 47 -> frame 10 into TLB slot 1
+Logical: 0x2FA7 | Physical: 0x0AA7 | Value: -23
+Searching TLB for page: 243
+TLB MISS: Page 243 not found in TLB
+Inserting page 243 -> frame 93 into TLB slot 2
+Logical: 0xF32F | Physical: 0x5D2F | Value: -53
+Searching TLB for page: 85
+TLB MISS: Page 85 not found in TLB
+Inserting page 85 -> frame 94 into TLB slot 3
+Logical: 0x5521 | Physical: 0x5E21 | Value: 0
+Searching TLB for page: 103
+TLB MISS: Page 103 not found in TLB
+Inserting page 103 -> frame 95 into TLB slot 4
+Logical: 0x67B0 | Physical: 0x5FB0 | Value: 0
+Searching TLB for page: 58
+TLB MISS: Page 58 not found in TLB
+Inserting page 58 -> frame 96 into TLB slot 5
+Logical: 0x3A74 | Physical: 0x6074 | Value: 0
+Searching TLB for page: 161
+TLB MISS: Page 161 not found in TLB
+Inserting page 161 -> frame 97 into TLB slot 6
+Logical: 0xA1F6 | Physical: 0x61F6 | Value: 40
+Searching TLB for page: 219
+TLB MISS: Page 219 not found in TLB
+Inserting page 219 -> frame 98 into TLB slot 7
+Logical: 0xDB19 | Physical: 0x6219 | Value: 0
+Searching TLB for page: 203
+TLB MISS: Page 203 not found in TLB
+Inserting page 203 -> frame 99 into TLB slot 8
+Logical: 0xCB46 | Physical: 0x6346 | Value: 50
+Searching TLB for page: 187
+TLB MISS: Page 187 not found in TLB
+Inserting page 187 -> frame 100 into TLB slot 9
+Logical: 0xBB6E | Physical: 0x646E | Value: 46
+Searching TLB for page: 232
+TLB MISS: Page 232 not found in TLB
+Inserting page 232 -> frame 101 into TLB slot 10
+Logical: 0xE85C | Physical: 0x655C | Value: 0
+Searching TLB for page: 198
+TLB MISS: Page 198 not found in TLB
+Inserting page 198 -> frame 102 into TLB slot 11
+Logical: 0xC6EC | Physical: 0x66EC | Value: 0
+Searching TLB for page: 27
+TLB MISS: Page 27 not found in TLB
+Inserting page 27 -> frame 103 into TLB slot 12
+Logical: 0x1B1E | Physical: 0x671E | Value: 6
+Searching TLB for page: 136
+TLB MISS: Page 136 not found in TLB
+Inserting page 136 -> frame 104 into TLB slot 13
+Logical: 0x88B6 | Physical: 0x68B6 | Value: 34
+Searching TLB for page: 105
+TLB MISS: Page 105 not found in TLB
+Inserting page 105 -> frame 105 into TLB slot 14
+Logical: 0x69BD | Physical: 0x69BD | Value: 0
+Searching TLB for page: 202
+TLB MISS: Page 202 not found in TLB
+Inserting page 202 -> frame 106 into TLB slot 15
+Logical: 0xCAD6 | Physical: 0x6AD6 | Value: 50
+Searching TLB for page: 236
+TLB MISS: Page 236 not found in TLB
+Inserting page 236 -> frame 28 into TLB slot 0
+Logical: 0xECE5 | Physical: 0x1CE5 | Value: 1
+Searching TLB for page: 168
+TLB MISS: Page 168 not found in TLB
+Inserting page 168 -> frame 68 into TLB slot 1
+Logical: 0xA8AD | Physical: 0x44AD | Value: 0
+Searching TLB for page: 41
+TLB MISS: Page 41 not found in TLB
+Inserting page 41 -> frame 107 into TLB slot 2
+Logical: 0x293F | Physical: 0x6B3F | Value: 79
+Searching TLB for page: 18
+TLB MISS: Page 18 not found in TLB
+Inserting page 18 -> frame 108 into TLB slot 3
+Logical: 0x1238 | Physical: 0x6C38 | Value: 0
+Searching TLB for page: 111
+TLB MISS: Page 111 not found in TLB
+Inserting page 111 -> frame 109 into TLB slot 4
+Logical: 0x6FA2 | Physical: 0x6DA2 | Value: 27
+Searching TLB for page: 232
+TLB HIT: Found page 232 in TLB slot 10 with frame 101
+Logical: 0xE87C | Physical: 0x657C | Value: 0
+Searching TLB for page: 152
+TLB MISS: Page 152 not found in TLB
+Inserting page 152 -> frame 15 into TLB slot 5
+Logical: 0x9800 | Physical: 0x0F00 | Value: 0
+Searching TLB for page: 248
+TLB MISS: Page 248 not found in TLB
+Inserting page 248 -> frame 110 into TLB slot 6
+Logical: 0xF84A | Physical: 0x6E4A | Value: 62
+Searching TLB for page: 253
+TLB MISS: Page 253 not found in TLB
+Inserting page 253 -> frame 8 into TLB slot 7
+Logical: 0xFD4E | Physical: 0x084E | Value: 63
+Searching TLB for page: 245
+TLB MISS: Page 245 not found in TLB
+Inserting page 245 -> frame 111 into TLB slot 8
+Logical: 0xF5DA | Physical: 0x6FDA | Value: 61
+Searching TLB for page: 106
+TLB MISS: Page 106 not found in TLB
+Inserting page 106 -> frame 112 into TLB slot 9
+Logical: 0x6A3A | Physical: 0x703A | Value: 26
+Searching TLB for page: 112
+TLB MISS: Page 112 not found in TLB
+Inserting page 112 -> frame 5 into TLB slot 10
+Logical: 0x7084 | Physical: 0x0584 | Value: 0
+Searching TLB for page: 241
+TLB MISS: Page 241 not found in TLB
+Inserting page 241 -> frame 87 into TLB slot 11
+Logical: 0xF107 | Physical: 0x5707 | Value: 65
+Searching TLB for page: 42
+TLB MISS: Page 42 not found in TLB
+Inserting page 42 -> frame 48 into TLB slot 12
+Logical: 0x2AF6 | Physical: 0x30F6 | Value: 10
+Searching TLB for page: 25
+TLB MISS: Page 25 not found in TLB
+Inserting page 25 -> frame 113 into TLB slot 13
+Logical: 0x19C4 | Physical: 0x71C4 | Value: 0
+Searching TLB for page: 147
+TLB MISS: Page 147 not found in TLB
+Inserting page 147 -> frame 114 into TLB slot 14
+Logical: 0x9359 | Physical: 0x7259 | Value: 0
+Searching TLB for page: 169
+TLB MISS: Page 169 not found in TLB
+Inserting page 169 -> frame 115 into TLB slot 15
+Logical: 0xA9A6 | Physical: 0x73A6 | Value: 42
+Searching TLB for page: 88
+TLB MISS: Page 88 not found in TLB
+Inserting page 88 -> frame 11 into TLB slot 0
+Logical: 0x58A4 | Physical: 0x0BA4 | Value: 0
+Searching TLB for page: 245
+TLB HIT: Found page 245 in TLB slot 8 with frame 111
+Logical: 0xF5FB | Physical: 0x6FFB | Value: 126
+Searching TLB for page: 184
+TLB MISS: Page 184 not found in TLB
+Inserting page 184 -> frame 116 into TLB slot 1
+Logical: 0xB815 | Physical: 0x7415 | Value: 0
+Searching TLB for page: 205
+TLB MISS: Page 205 not found in TLB
+Inserting page 205 -> frame 117 into TLB slot 2
+Logical: 0xCD29 | Physical: 0x7529 | Value: 0
+Searching TLB for page: 135
+TLB MISS: Page 135 not found in TLB
+Inserting page 135 -> frame 70 into TLB slot 3
+Logical: 0x8756 | Physical: 0x4656 | Value: 33
+Searching TLB for page: 128
+TLB MISS: Page 128 not found in TLB
+Inserting page 128 -> frame 16 into TLB slot 4
+Logical: 0x8079 | Physical: 0x1079 | Value: 0
+Searching TLB for page: 50
+TLB MISS: Page 50 not found in TLB
+Inserting page 50 -> frame 118 into TLB slot 5
+Logical: 0x32FF | Physical: 0x76FF | Value: -65
+Searching TLB for page: 255
+TLB MISS: Page 255 not found in TLB
+Inserting page 255 -> frame 119 into TLB slot 6
+Logical: 0xFF88 | Physical: 0x7788 | Value: 0
+Searching TLB for page: 245
+TLB HIT: Found page 245 in TLB slot 8 with frame 111
+Logical: 0xF595 | Physical: 0x6F95 | Value: 0
+Searching TLB for page: 223
+TLB MISS: Page 223 not found in TLB
+Inserting page 223 -> frame 120 into TLB slot 7
+Logical: 0xDFE2 | Physical: 0x78E2 | Value: 55
+Searching TLB for page: 49
+TLB MISS: Page 49 not found in TLB
+Inserting page 49 -> frame 121 into TLB slot 8
+Logical: 0x3173 | Physical: 0x7973 | Value: 92
+Searching TLB for page: 54
+TLB MISS: Page 54 not found in TLB
+Inserting page 54 -> frame 122 into TLB slot 9
+Logical: 0x36E4 | Physical: 0x7AE4 | Value: 0
+Searching TLB for page: 128
+TLB HIT: Found page 128 in TLB slot 4 with frame 16
+Logical: 0x80BC | Physical: 0x10BC | Value: 0
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 10
+Logical: 0xC079 | Physical: 0x2179 | Value: 0
+Searching TLB for page: 196
+TLB MISS: Page 196 not found in TLB
+Inserting page 196 -> frame 54 into TLB slot 11
+Logical: 0xC4B0 | Physical: 0x36B0 | Value: 0
+Searching TLB for page: 194
+TLB MISS: Page 194 not found in TLB
+Inserting page 194 -> frame 123 into TLB slot 12
+Logical: 0xC249 | Physical: 0x7B49 | Value: 0
+Searching TLB for page: 60
+TLB MISS: Page 60 not found in TLB
+Inserting page 60 -> frame 124 into TLB slot 13
+Logical: 0x3CC3 | Physical: 0x7CC3 | Value: 48
+Searching TLB for page: 185
+TLB MISS: Page 185 not found in TLB
+Inserting page 185 -> frame 125 into TLB slot 14
+Logical: 0xB973 | Physical: 0x7D73 | Value: 92
+Searching TLB for page: 59
+TLB MISS: Page 59 not found in TLB
+Inserting page 59 -> frame 126 into TLB slot 15
+Logical: 0x3BE0 | Physical: 0x7EE0 | Value: 0
+Searching TLB for page: 135
+TLB HIT: Found page 135 in TLB slot 3 with frame 70
+Logical: 0x873D | Physical: 0x463D | Value: 0
+Searching TLB for page: 200
+TLB MISS: Page 200 not found in TLB
+Inserting page 200 -> frame 127 into TLB slot 0
+Logical: 0xC8A5 | Physical: 0x7FA5 | Value: 0
+Searching TLB for page: 128
+TLB HIT: Found page 128 in TLB slot 4 with frame 16
+Logical: 0x8034 | Physical: 0x1034 | Value: 0
+Searching TLB for page: 190
+TLB MISS: Page 190 not found in TLB
+Inserting page 190 -> frame 128 into TLB slot 1
+Logical: 0xBED7 | Physical: 0x80D7 | Value: -75
+Searching TLB for page: 47
+TLB MISS: Page 47 not found in TLB
+Inserting page 47 -> frame 10 into TLB slot 2
+Logical: 0x2FC0 | Physical: 0x0AC0 | Value: 0
+Searching TLB for page: 7
+TLB MISS: Page 7 not found in TLB
+Inserting page 7 -> frame 129 into TLB slot 3
+Logical: 0x07F3 | Physical: 0x81F3 | Value: -4
+Searching TLB for page: 236
+TLB MISS: Page 236 not found in TLB
+Inserting page 236 -> frame 28 into TLB slot 4
+Logical: 0xEC7B | Physical: 0x1C7B | Value: 30
+Searching TLB for page: 57
+TLB MISS: Page 57 not found in TLB
+Inserting page 57 -> frame 130 into TLB slot 5
+Logical: 0x3903 | Physical: 0x8203 | Value: 64
+Searching TLB for page: 54
+TLB HIT: Found page 54 in TLB slot 9 with frame 122
+Logical: 0x361D | Physical: 0x7A1D | Value: 0
+Searching TLB for page: 94
+TLB MISS: Page 94 not found in TLB
+Inserting page 94 -> frame 131 into TLB slot 6
+Logical: 0x5E4F | Physical: 0x834F | Value: -109
+Searching TLB for page: 59
+TLB HIT: Found page 59 in TLB slot 15 with frame 126
+Logical: 0x3B70 | Physical: 0x7E70 | Value: 0
+Searching TLB for page: 31
+TLB MISS: Page 31 not found in TLB
+Inserting page 31 -> frame 132 into TLB slot 7
+Logical: 0x1FB1 | Physical: 0x84B1 | Value: 0
+Searching TLB for page: 88
+TLB MISS: Page 88 not found in TLB
+Inserting page 88 -> frame 11 into TLB slot 8
+Logical: 0x5870 | Physical: 0x0B70 | Value: 0
+Searching TLB for page: 128
+TLB MISS: Page 128 not found in TLB
+Inserting page 128 -> frame 16 into TLB slot 9
+Logical: 0x80D2 | Physical: 0x10D2 | Value: 32
+Searching TLB for page: 152
+TLB MISS: Page 152 not found in TLB
+Inserting page 152 -> frame 15 into TLB slot 10
+Logical: 0x98EF | Physical: 0x0FEF | Value: 59
+Searching TLB for page: 76
+TLB MISS: Page 76 not found in TLB
+Inserting page 76 -> frame 88 into TLB slot 11
+Logical: 0x4C40 | Physical: 0x5840 | Value: 0
+Searching TLB for page: 227
+TLB MISS: Page 227 not found in TLB
+Inserting page 227 -> frame 133 into TLB slot 12
+Logical: 0xE31D | Physical: 0x851D | Value: 0
+Searching TLB for page: 249
+TLB MISS: Page 249 not found in TLB
+Inserting page 249 -> frame 85 into TLB slot 13
+Logical: 0xF9D7 | Physical: 0x55D7 | Value: 117
+Searching TLB for page: 207
+TLB MISS: Page 207 not found in TLB
+Inserting page 207 -> frame 134 into TLB slot 14
+Logical: 0xCF30 | Physical: 0x8630 | Value: 0
+Searching TLB for page: 218
+TLB MISS: Page 218 not found in TLB
+Inserting page 218 -> frame 135 into TLB slot 15
+Logical: 0xDA22 | Physical: 0x8722 | Value: 54
+Searching TLB for page: 2
+TLB MISS: Page 2 not found in TLB
+Inserting page 2 -> frame 67 into TLB slot 0
+Logical: 0x0249 | Physical: 0x4349 | Value: 0
+Searching TLB for page: 200
+TLB MISS: Page 200 not found in TLB
+Inserting page 200 -> frame 127 into TLB slot 1
+Logical: 0xC81D | Physical: 0x7F1D | Value: 0
+Searching TLB for page: 250
+TLB MISS: Page 250 not found in TLB
+Inserting page 250 -> frame 17 into TLB slot 2
+Logical: 0xFAB5 | Physical: 0x11B5 | Value: 0
+Searching TLB for page: 214
+TLB MISS: Page 214 not found in TLB
+Inserting page 214 -> frame 14 into TLB slot 3
+Logical: 0xD65F | Physical: 0x0E5F | Value: -105
+Searching TLB for page: 110
+TLB MISS: Page 110 not found in TLB
+Inserting page 110 -> frame 136 into TLB slot 4
+Logical: 0x6E32 | Physical: 0x8832 | Value: 27
+Searching TLB for page: 40
+TLB MISS: Page 40 not found in TLB
+Inserting page 40 -> frame 57 into TLB slot 5
+Logical: 0x281C | Physical: 0x391C | Value: 0
+Searching TLB for page: 60
+TLB MISS: Page 60 not found in TLB
+Inserting page 60 -> frame 124 into TLB slot 6
+Logical: 0x3C23 | Physical: 0x7C23 | Value: 8
+Searching TLB for page: 50
+TLB MISS: Page 50 not found in TLB
+Inserting page 50 -> frame 118 into TLB slot 7
+Logical: 0x3254 | Physical: 0x7654 | Value: 0
+Searching TLB for page: 8
+TLB MISS: Page 8 not found in TLB
+Inserting page 8 -> frame 137 into TLB slot 8
+Logical: 0x0865 | Physical: 0x8965 | Value: 0
+Searching TLB for page: 208
+TLB MISS: Page 208 not found in TLB
+Inserting page 208 -> frame 138 into TLB slot 9
+Logical: 0xD0EB | Physical: 0x8AEB | Value: 58
+Searching TLB for page: 232
+TLB MISS: Page 232 not found in TLB
+Inserting page 232 -> frame 101 into TLB slot 10
+Logical: 0xE8D6 | Physical: 0x65D6 | Value: 58
+Searching TLB for page: 58
+TLB MISS: Page 58 not found in TLB
+Inserting page 58 -> frame 96 into TLB slot 11
+Logical: 0x3A85 | Physical: 0x6085 | Value: 0
+Searching TLB for page: 143
+TLB MISS: Page 143 not found in TLB
+Inserting page 143 -> frame 139 into TLB slot 12
+Logical: 0x8F40 | Physical: 0x8B40 | Value: 0
+Searching TLB for page: 90
+TLB MISS: Page 90 not found in TLB
+Inserting page 90 -> frame 140 into TLB slot 13
+Logical: 0x5A9D | Physical: 0x8C9D | Value: 0
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 14
+Logical: 0x8EA6 | Physical: 0x38A6 | Value: 35
+Searching TLB for page: 52
+TLB MISS: Page 52 not found in TLB
+Inserting page 52 -> frame 141 into TLB slot 15
+Logical: 0x3431 | Physical: 0x8D31 | Value: 0
+Searching TLB for page: 77
+TLB MISS: Page 77 not found in TLB
+Inserting page 77 -> frame 142 into TLB slot 0
+Logical: 0x4D62 | Physical: 0x8E62 | Value: 19
+Searching TLB for page: 101
+TLB MISS: Page 101 not found in TLB
+Inserting page 101 -> frame 143 into TLB slot 1
+Logical: 0x6563 | Physical: 0x8F63 | Value: 88
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 2
+Logical: 0xF4D6 | Physical: 0x01D6 | Value: 61
+Searching TLB for page: 101
+TLB HIT: Found page 101 in TLB slot 1 with frame 143
+Logical: 0x65A5 | Physical: 0x8FA5 | Value: 0
+Searching TLB for page: 114
+TLB MISS: Page 114 not found in TLB
+Inserting page 114 -> frame 144 into TLB slot 3
+Logical: 0x72E1 | Physical: 0x90E1 | Value: 0
+Searching TLB for page: 148
+TLB MISS: Page 148 not found in TLB
+Inserting page 148 -> frame 145 into TLB slot 4
+Logical: 0x94DF | Physical: 0x91DF | Value: 55
+Searching TLB for page: 228
+TLB MISS: Page 228 not found in TLB
+Inserting page 228 -> frame 60 into TLB slot 5
+Logical: 0xE4CD | Physical: 0x3CCD | Value: 0
+Searching TLB for page: 222
+TLB MISS: Page 222 not found in TLB
+Inserting page 222 -> frame 146 into TLB slot 6
+Logical: 0xDE08 | Physical: 0x9208 | Value: 0
+Searching TLB for page: 161
+TLB MISS: Page 161 not found in TLB
+Inserting page 161 -> frame 97 into TLB slot 7
+Logical: 0xA15A | Physical: 0x615A | Value: 40
+Searching TLB for page: 212
+TLB MISS: Page 212 not found in TLB
+Inserting page 212 -> frame 75 into TLB slot 8
+Logical: 0xD49A | Physical: 0x4B9A | Value: 53
+Searching TLB for page: 14
+TLB MISS: Page 14 not found in TLB
+Inserting page 14 -> frame 39 into TLB slot 9
+Logical: 0x0E21 | Physical: 0x2721 | Value: 0
+Searching TLB for page: 197
+TLB MISS: Page 197 not found in TLB
+Inserting page 197 -> frame 72 into TLB slot 10
+Logical: 0xC5DC | Physical: 0x48DC | Value: 0
+Searching TLB for page: 161
+TLB HIT: Found page 161 in TLB slot 7 with frame 97
+Logical: 0xA1EC | Physical: 0x61EC | Value: 0
+Searching TLB for page: 79
+TLB MISS: Page 79 not found in TLB
+Inserting page 79 -> frame 65 into TLB slot 11
+Logical: 0x4F11 | Physical: 0x4111 | Value: 0
+Searching TLB for page: 123
+TLB MISS: Page 123 not found in TLB
+Inserting page 123 -> frame 47 into TLB slot 12
+Logical: 0x7BEB | Physical: 0x2FEB | Value: -6
+Searching TLB for page: 209
+TLB MISS: Page 209 not found in TLB
+Inserting page 209 -> frame 3 into TLB slot 13
+Logical: 0xD1F3 | Physical: 0x03F3 | Value: 124
+Searching TLB for page: 111
+TLB MISS: Page 111 not found in TLB
+Inserting page 111 -> frame 109 into TLB slot 14
+Logical: 0x6F86 | Physical: 0x6D86 | Value: 27
+Searching TLB for page: 91
+TLB MISS: Page 91 not found in TLB
+Inserting page 91 -> frame 80 into TLB slot 15
+Logical: 0x5B6A | Physical: 0x506A | Value: 22
+Searching TLB for page: 82
+TLB MISS: Page 82 not found in TLB
+Inserting page 82 -> frame 147 into TLB slot 0
+Logical: 0x52D5 | Physical: 0x93D5 | Value: 0
+Searching TLB for page: 219
+TLB MISS: Page 219 not found in TLB
+Inserting page 219 -> frame 98 into TLB slot 1
+Logical: 0xDB75 | Physical: 0x6275 | Value: 0
+Searching TLB for page: 224
+TLB MISS: Page 224 not found in TLB
+Inserting page 224 -> frame 148 into TLB slot 2
+Logical: 0xE07E | Physical: 0x947E | Value: 56
+Searching TLB for page: 155
+TLB MISS: Page 155 not found in TLB
+Inserting page 155 -> frame 149 into TLB slot 3
+Logical: 0x9BFD | Physical: 0x95FD | Value: 0
+Searching TLB for page: 136
+TLB MISS: Page 136 not found in TLB
+Inserting page 136 -> frame 104 into TLB slot 4
+Logical: 0x8894 | Physical: 0x6894 | Value: 0
+Searching TLB for page: 96
+TLB MISS: Page 96 not found in TLB
+Inserting page 96 -> frame 150 into TLB slot 5
+Logical: 0x60CD | Physical: 0x96CD | Value: 0
+Searching TLB for page: 163
+TLB MISS: Page 163 not found in TLB
+Inserting page 163 -> frame 151 into TLB slot 6
+Logical: 0xA313 | Physical: 0x9713 | Value: -60
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 7
+Logical: 0xF464 | Physical: 0x0164 | Value: 0
+Searching TLB for page: 228
+TLB MISS: Page 228 not found in TLB
+Inserting page 228 -> frame 60 into TLB slot 8
+Logical: 0xE45D | Physical: 0x3C5D | Value: 0
+Searching TLB for page: 81
+TLB MISS: Page 81 not found in TLB
+Inserting page 81 -> frame 152 into TLB slot 9
+Logical: 0x517A | Physical: 0x987A | Value: 20
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 10
+Logical: 0xC095 | Physical: 0x2195 | Value: 0
+Searching TLB for page: 158
+TLB MISS: Page 158 not found in TLB
+Inserting page 158 -> frame 153 into TLB slot 11
+Logical: 0x9E7C | Physical: 0x997C | Value: 0
+Searching TLB for page: 93
+TLB MISS: Page 93 not found in TLB
+Inserting page 93 -> frame 154 into TLB slot 12
+Logical: 0x5D20 | Physical: 0x9A20 | Value: 0
+Searching TLB for page: 137
+TLB MISS: Page 137 not found in TLB
+Inserting page 137 -> frame 155 into TLB slot 13
+Logical: 0x89CE | Physical: 0x9BCE | Value: 34
+Searching TLB for page: 245
+TLB MISS: Page 245 not found in TLB
+Inserting page 245 -> frame 111 into TLB slot 14
+Logical: 0xF5B9 | Physical: 0x6FB9 | Value: 0
+Searching TLB for page: 221
+TLB MISS: Page 221 not found in TLB
+Inserting page 221 -> frame 52 into TLB slot 15
+Logical: 0xDD4A | Physical: 0x344A | Value: 55
+Searching TLB for page: 43
+TLB MISS: Page 43 not found in TLB
+Inserting page 43 -> frame 156 into TLB slot 0
+Logical: 0x2B8D | Physical: 0x9C8D | Value: 0
+Searching TLB for page: 152
+TLB MISS: Page 152 not found in TLB
+Inserting page 152 -> frame 15 into TLB slot 1
+Logical: 0x9808 | Physical: 0x0F08 | Value: 0
+Searching TLB for page: 91
+TLB MISS: Page 91 not found in TLB
+Inserting page 91 -> frame 80 into TLB slot 2
+Logical: 0x5B86 | Physical: 0x5086 | Value: 22
+Searching TLB for page: 224
+TLB MISS: Page 224 not found in TLB
+Inserting page 224 -> frame 148 into TLB slot 3
+Logical: 0xE0F8 | Physical: 0x94F8 | Value: 0
+Searching TLB for page: 12
+TLB MISS: Page 12 not found in TLB
+Inserting page 12 -> frame 157 into TLB slot 4
+Logical: 0x0C08 | Physical: 0x9D08 | Value: 0
+Searching TLB for page: 26
+TLB MISS: Page 26 not found in TLB
+Inserting page 26 -> frame 26 into TLB slot 5
+Logical: 0x1A15 | Physical: 0x1A15 | Value: 0
+Searching TLB for page: 198
+TLB MISS: Page 198 not found in TLB
+Inserting page 198 -> frame 102 into TLB slot 6
+Logical: 0xC610 | Physical: 0x6610 | Value: 0
+Searching TLB for page: 202
+TLB MISS: Page 202 not found in TLB
+Inserting page 202 -> frame 106 into TLB slot 7
+Logical: 0xCAAB | Physical: 0x6AAB | Value: -86
+Searching TLB for page: 245
+TLB HIT: Found page 245 in TLB slot 14 with frame 111
+Logical: 0xF54F | Physical: 0x6F4F | Value: 83
+Searching TLB for page: 78
+TLB MISS: Page 78 not found in TLB
+Inserting page 78 -> frame 158 into TLB slot 8
+Logical: 0x4EDC | Physical: 0x9EDC | Value: 0
+Searching TLB for page: 4
+TLB MISS: Page 4 not found in TLB
+Inserting page 4 -> frame 159 into TLB slot 9
+Logical: 0x04DD | Physical: 0x9FDD | Value: 0
+Searching TLB for page: 47
+TLB MISS: Page 47 not found in TLB
+Inserting page 47 -> frame 10 into TLB slot 10
+Logical: 0x2FBC | Physical: 0x0ABC | Value: 0
+Searching TLB for page: 68
+TLB MISS: Page 68 not found in TLB
+Inserting page 68 -> frame 160 into TLB slot 11
+Logical: 0x44C2 | Physical: 0xA0C2 | Value: 17
+Searching TLB for page: 111
+TLB MISS: Page 111 not found in TLB
+Inserting page 111 -> frame 109 into TLB slot 12
+Logical: 0x6FC1 | Physical: 0x6DC1 | Value: 0
+Searching TLB for page: 166
+TLB MISS: Page 166 not found in TLB
+Inserting page 166 -> frame 81 into TLB slot 13
+Logical: 0xA6C6 | Physical: 0x51C6 | Value: 41
+Searching TLB for page: 116
+TLB MISS: Page 116 not found in TLB
+Inserting page 116 -> frame 161 into TLB slot 14
+Logical: 0x7482 | Physical: 0xA182 | Value: 29
+Searching TLB for page: 54
+TLB MISS: Page 54 not found in TLB
+Inserting page 54 -> frame 122 into TLB slot 15
+Logical: 0x3603 | Physical: 0x7A03 | Value: -128
+Searching TLB for page: 106
+TLB MISS: Page 106 not found in TLB
+Inserting page 106 -> frame 112 into TLB slot 0
+Logical: 0x6AC8 | Physical: 0x70C8 | Value: 0
+Searching TLB for page: 208
+TLB MISS: Page 208 not found in TLB
+Inserting page 208 -> frame 138 into TLB slot 1
+Logical: 0xD05F | Physical: 0x8A5F | Value: 23
+Searching TLB for page: 45
+TLB MISS: Page 45 not found in TLB
+Inserting page 45 -> frame 162 into TLB slot 2
+Logical: 0x2D0D | Physical: 0xA20D | Value: 0
+Searching TLB for page: 162
+TLB MISS: Page 162 not found in TLB
+Inserting page 162 -> frame 163 into TLB slot 3
+Logical: 0xA2F1 | Physical: 0xA3F1 | Value: 0
+Searching TLB for page: 132
+TLB MISS: Page 132 not found in TLB
+Inserting page 132 -> frame 164 into TLB slot 4
+Logical: 0x8462 | Physical: 0xA462 | Value: 33
+Searching TLB for page: 19
+TLB MISS: Page 19 not found in TLB
+Inserting page 19 -> frame 53 into TLB slot 5
+Logical: 0x131E | Physical: 0x351E | Value: 4
+Searching TLB for page: 224
+TLB MISS: Page 224 not found in TLB
+Inserting page 224 -> frame 148 into TLB slot 6
+Logical: 0xE0FF | Physical: 0x94FF | Value: 63
+Searching TLB for page: 15
+TLB MISS: Page 15 not found in TLB
+Inserting page 15 -> frame 74 into TLB slot 7
+Logical: 0x0F1E | Physical: 0x4A1E | Value: 3
+Searching TLB for page: 228
+TLB MISS: Page 228 not found in TLB
+Inserting page 228 -> frame 60 into TLB slot 8
+Logical: 0xE4FE | Physical: 0x3CFE | Value: 57
+Searching TLB for page: 116
+TLB HIT: Found page 116 in TLB slot 14 with frame 161
+Logical: 0x7454 | Physical: 0xA154 | Value: 0
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 9
+Logical: 0xF459 | Physical: 0x0159 | Value: 0
+Searching TLB for page: 8
+TLB MISS: Page 8 not found in TLB
+Inserting page 8 -> frame 137 into TLB slot 10
+Logical: 0x08FF | Physical: 0x89FF | Value: 63
+Searching TLB for page: 202
+TLB MISS: Page 202 not found in TLB
+Inserting page 202 -> frame 106 into TLB slot 11
+Logical: 0xCACB | Physical: 0x6ACB | Value: -78
+Searching TLB for page: 24
+TLB MISS: Page 24 not found in TLB
+Inserting page 24 -> frame 29 into TLB slot 12
+Logical: 0x186B | Physical: 0x1D6B | Value: 26
+Searching TLB for page: 148
+TLB MISS: Page 148 not found in TLB
+Inserting page 148 -> frame 145 into TLB slot 13
+Logical: 0x94DB | Physical: 0x91DB | Value: 54
+Searching TLB for page: 231
+TLB MISS: Page 231 not found in TLB
+Inserting page 231 -> frame 40 into TLB slot 14
+Logical: 0xE7BD | Physical: 0x28BD | Value: 0
+Searching TLB for page: 239
+TLB MISS: Page 239 not found in TLB
+Inserting page 239 -> frame 165 into TLB slot 15
+Logical: 0xEF6F | Physical: 0xA56F | Value: -37
+Searching TLB for page: 104
+TLB MISS: Page 104 not found in TLB
+Inserting page 104 -> frame 166 into TLB slot 0
+Logical: 0x684B | Physical: 0xA64B | Value: 18
+Searching TLB for page: 199
+TLB MISS: Page 199 not found in TLB
+Inserting page 199 -> frame 167 into TLB slot 1
+Logical: 0xC7F4 | Physical: 0xA7F4 | Value: 0
+Searching TLB for page: 232
+TLB MISS: Page 232 not found in TLB
+Inserting page 232 -> frame 101 into TLB slot 2
+Logical: 0xE87F | Physical: 0x657F | Value: 31
+Searching TLB for page: 28
+TLB MISS: Page 28 not found in TLB
+Inserting page 28 -> frame 168 into TLB slot 3
+Logical: 0x1CB1 | Physical: 0xA8B1 | Value: 0
+Searching TLB for page: 79
+TLB MISS: Page 79 not found in TLB
+Inserting page 79 -> frame 65 into TLB slot 4
+Logical: 0x4F65 | Physical: 0x4165 | Value: 0
+Searching TLB for page: 154
+TLB MISS: Page 154 not found in TLB
+Inserting page 154 -> frame 169 into TLB slot 5
+Logical: 0x9AD1 | Physical: 0xA9D1 | Value: 0
+Searching TLB for page: 6
+TLB MISS: Page 6 not found in TLB
+Inserting page 6 -> frame 170 into TLB slot 6
+Logical: 0x061A | Physical: 0xAA1A | Value: 1
+Searching TLB for page: 29
+TLB MISS: Page 29 not found in TLB
+Inserting page 29 -> frame 24 into TLB slot 7
+Logical: 0x1D9C | Physical: 0x189C | Value: 0
+Searching TLB for page: 31
+TLB MISS: Page 31 not found in TLB
+Inserting page 31 -> frame 132 into TLB slot 8
+Logical: 0x1FEA | Physical: 0x84EA | Value: 7
+Searching TLB for page: 243
+TLB MISS: Page 243 not found in TLB
+Inserting page 243 -> frame 93 into TLB slot 9
+Logical: 0xF330 | Physical: 0x5D30 | Value: 0
+Searching TLB for page: 139
+TLB MISS: Page 139 not found in TLB
+Inserting page 139 -> frame 171 into TLB slot 10
+Logical: 0x8BEF | Physical: 0xABEF | Value: -5
+Searching TLB for page: 108
+TLB MISS: Page 108 not found in TLB
+Inserting page 108 -> frame 172 into TLB slot 11
+Logical: 0x6C8E | Physical: 0xAC8E | Value: 27
+Searching TLB for page: 51
+TLB MISS: Page 51 not found in TLB
+Inserting page 51 -> frame 173 into TLB slot 12
+Logical: 0x3387 | Physical: 0xAD87 | Value: -31
+Searching TLB for page: 38
+TLB MISS: Page 38 not found in TLB
+Inserting page 38 -> frame 174 into TLB slot 13
+Logical: 0x262C | Physical: 0xAE2C | Value: 0
+Searching TLB for page: 29
+TLB HIT: Found page 29 in TLB slot 7 with frame 24
+Logical: 0x1D35 | Physical: 0x1835 | Value: 0
+Searching TLB for page: 173
+TLB MISS: Page 173 not found in TLB
+Inserting page 173 -> frame 175 into TLB slot 14
+Logical: 0xADA7 | Physical: 0xAFA7 | Value: 105
+Searching TLB for page: 232
+TLB HIT: Found page 232 in TLB slot 2 with frame 101
+Logical: 0xE89A | Physical: 0x659A | Value: 58
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 15
+Logical: 0xC0C3 | Physical: 0x21C3 | Value: 48
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 0
+Logical: 0x8EBB | Physical: 0x38BB | Value: -82
+Searching TLB for page: 48
+TLB MISS: Page 48 not found in TLB
+Inserting page 48 -> frame 176 into TLB slot 1
+Logical: 0x30A5 | Physical: 0xB0A5 | Value: 0
+Searching TLB for page: 193
+TLB MISS: Page 193 not found in TLB
+Inserting page 193 -> frame 177 into TLB slot 2
+Logical: 0xC1E8 | Physical: 0xB1E8 | Value: 0
+Searching TLB for page: 110
+TLB MISS: Page 110 not found in TLB
+Inserting page 110 -> frame 136 into TLB slot 3
+Logical: 0x6E82 | Physical: 0x8882 | Value: 27
+Searching TLB for page: 175
+TLB MISS: Page 175 not found in TLB
+Inserting page 175 -> frame 51 into TLB slot 4
+Logical: 0xAF11 | Physical: 0x3311 | Value: 0
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 5
+Logical: 0x2175 | Physical: 0x4E75 | Value: 0
+Searching TLB for page: 64
+TLB MISS: Page 64 not found in TLB
+Inserting page 64 -> frame 178 into TLB slot 6
+Logical: 0x400F | Physical: 0xB20F | Value: 3
+Searching TLB for page: 163
+TLB MISS: Page 163 not found in TLB
+Inserting page 163 -> frame 151 into TLB slot 7
+Logical: 0xA3CE | Physical: 0x97CE | Value: 40
+Searching TLB for page: 177
+TLB MISS: Page 177 not found in TLB
+Inserting page 177 -> frame 179 into TLB slot 8
+Logical: 0xB191 | Physical: 0xB391 | Value: 0
+Searching TLB for page: 132
+TLB MISS: Page 132 not found in TLB
+Inserting page 132 -> frame 164 into TLB slot 9
+Logical: 0x8440 | Physical: 0xA440 | Value: 0
+Searching TLB for page: 76
+TLB MISS: Page 76 not found in TLB
+Inserting page 76 -> frame 88 into TLB slot 10
+Logical: 0x4C2A | Physical: 0x582A | Value: 19
+Searching TLB for page: 68
+TLB MISS: Page 68 not found in TLB
+Inserting page 68 -> frame 160 into TLB slot 11
+Logical: 0x44FD | Physical: 0xA0FD | Value: 0
+Searching TLB for page: 249
+TLB MISS: Page 249 not found in TLB
+Inserting page 249 -> frame 85 into TLB slot 12
+Logical: 0xF955 | Physical: 0x5555 | Value: 0
+Searching TLB for page: 164
+TLB MISS: Page 164 not found in TLB
+Inserting page 164 -> frame 180 into TLB slot 13
+Logical: 0xA432 | Physical: 0xB432 | Value: 41
+Searching TLB for page: 113
+TLB MISS: Page 113 not found in TLB
+Inserting page 113 -> frame 64 into TLB slot 14
+Logical: 0x7100 | Physical: 0x4000 | Value: 0
+Searching TLB for page: 119
+TLB MISS: Page 119 not found in TLB
+Inserting page 119 -> frame 63 into TLB slot 15
+Logical: 0x77F7 | Physical: 0x3FF7 | Value: -3
+Searching TLB for page: 34
+TLB MISS: Page 34 not found in TLB
+Inserting page 34 -> frame 181 into TLB slot 0
+Logical: 0x2260 | Physical: 0xB560 | Value: 0
+Searching TLB for page: 204
+TLB MISS: Page 204 not found in TLB
+Inserting page 204 -> frame 182 into TLB slot 1
+Logical: 0xCC6F | Physical: 0xB66F | Value: 27
+Searching TLB for page: 151
+TLB MISS: Page 151 not found in TLB
+Inserting page 151 -> frame 183 into TLB slot 2
+Logical: 0x9777 | Physical: 0xB777 | Value: -35
+Searching TLB for page: 205
+TLB MISS: Page 205 not found in TLB
+Inserting page 205 -> frame 117 into TLB slot 3
+Logical: 0xCDE0 | Physical: 0x75E0 | Value: 0
+Searching TLB for page: 95
+TLB MISS: Page 95 not found in TLB
+Inserting page 95 -> frame 6 into TLB slot 4
+Logical: 0x5F3C | Physical: 0x063C | Value: 0
+Searching TLB for page: 76
+TLB HIT: Found page 76 in TLB slot 10 with frame 88
+Logical: 0x4C92 | Physical: 0x5892 | Value: 19
+Searching TLB for page: 226
+TLB MISS: Page 226 not found in TLB
+Inserting page 226 -> frame 12 into TLB slot 5
+Logical: 0xE28E | Physical: 0x0C8E | Value: 56
+Searching TLB for page: 11
+TLB MISS: Page 11 not found in TLB
+Inserting page 11 -> frame 45 into TLB slot 6
+Logical: 0x0B67 | Physical: 0x2D67 | Value: -39
+Searching TLB for page: 32
+TLB MISS: Page 32 not found in TLB
+Inserting page 32 -> frame 184 into TLB slot 7
+Logical: 0x20AA | Physical: 0xB8AA | Value: 8
+Searching TLB for page: 69
+TLB MISS: Page 69 not found in TLB
+Inserting page 69 -> frame 38 into TLB slot 8
+Logical: 0x45DC | Physical: 0x26DC | Value: 0
+Searching TLB for page: 178
+TLB MISS: Page 178 not found in TLB
+Inserting page 178 -> frame 30 into TLB slot 9
+Logical: 0xB2A9 | Physical: 0x1EA9 | Value: 0
+Searching TLB for page: 187
+TLB MISS: Page 187 not found in TLB
+Inserting page 187 -> frame 100 into TLB slot 10
+Logical: 0xBB16 | Physical: 0x6416 | Value: 46
+Searching TLB for page: 233
+TLB MISS: Page 233 not found in TLB
+Inserting page 233 -> frame 185 into TLB slot 11
+Logical: 0xE913 | Physical: 0xB913 | Value: 68
+Searching TLB for page: 40
+TLB MISS: Page 40 not found in TLB
+Inserting page 40 -> frame 57 into TLB slot 12
+Logical: 0x2891 | Physical: 0x3991 | Value: 0
+Searching TLB for page: 206
+TLB MISS: Page 206 not found in TLB
+Inserting page 206 -> frame 186 into TLB slot 13
+Logical: 0xCE2E | Physical: 0xBA2E | Value: 51
+Searching TLB for page: 251
+TLB MISS: Page 251 not found in TLB
+Inserting page 251 -> frame 19 into TLB slot 14
+Logical: 0xFBA0 | Physical: 0x13A0 | Value: 0
+Searching TLB for page: 159
+TLB MISS: Page 159 not found in TLB
+Inserting page 159 -> frame 32 into TLB slot 15
+Logical: 0x9FF2 | Physical: 0x20F2 | Value: 39
+Searching TLB for page: 65
+TLB MISS: Page 65 not found in TLB
+Inserting page 65 -> frame 187 into TLB slot 0
+Logical: 0x418A | Physical: 0xBB8A | Value: 16
+Searching TLB for page: 106
+TLB MISS: Page 106 not found in TLB
+Inserting page 106 -> frame 112 into TLB slot 1
+Logical: 0x6A17 | Physical: 0x7017 | Value: -123
+Searching TLB for page: 95
+TLB HIT: Found page 95 in TLB slot 4 with frame 6
+Logical: 0x5F04 | Physical: 0x0604 | Value: 0
+Searching TLB for page: 126
+TLB MISS: Page 126 not found in TLB
+Inserting page 126 -> frame 27 into TLB slot 2
+Logical: 0x7EC2 | Physical: 0x1BC2 | Value: 31
+Searching TLB for page: 35
+TLB MISS: Page 35 not found in TLB
+Inserting page 35 -> frame 188 into TLB slot 3
+Logical: 0x2394 | Physical: 0xBC94 | Value: 0
+Searching TLB for page: 255
+TLB MISS: Page 255 not found in TLB
+Inserting page 255 -> frame 119 into TLB slot 4
+Logical: 0xFF19 | Physical: 0x7719 | Value: 0
+Searching TLB for page: 76
+TLB MISS: Page 76 not found in TLB
+Inserting page 76 -> frame 88 into TLB slot 5
+Logical: 0x4C77 | Physical: 0x5877 | Value: 29
+Searching TLB for page: 43
+TLB MISS: Page 43 not found in TLB
+Inserting page 43 -> frame 156 into TLB slot 6
+Logical: 0x2B6D | Physical: 0x9C6D | Value: 0
+Searching TLB for page: 254
+TLB MISS: Page 254 not found in TLB
+Inserting page 254 -> frame 189 into TLB slot 7
+Logical: 0xFE92 | Physical: 0xBD92 | Value: 63
+Searching TLB for page: 226
+TLB MISS: Page 226 not found in TLB
+Inserting page 226 -> frame 12 into TLB slot 8
+Logical: 0xE29D | Physical: 0x0C9D | Value: 0
+Searching TLB for page: 240
+TLB MISS: Page 240 not found in TLB
+Inserting page 240 -> frame 90 into TLB slot 9
+Logical: 0xF0EC | Physical: 0x5AEC | Value: 0
+Searching TLB for page: 248
+TLB MISS: Page 248 not found in TLB
+Inserting page 248 -> frame 110 into TLB slot 10
+Logical: 0xF816 | Physical: 0x6E16 | Value: 62
+Searching TLB for page: 68
+TLB MISS: Page 68 not found in TLB
+Inserting page 68 -> frame 160 into TLB slot 11
+Logical: 0x4432 | Physical: 0xA032 | Value: 17
+Searching TLB for page: 213
+TLB MISS: Page 213 not found in TLB
+Inserting page 213 -> frame 190 into TLB slot 12
+Logical: 0xD593 | Physical: 0xBE93 | Value: 100
+Searching TLB for page: 6
+TLB MISS: Page 6 not found in TLB
+Inserting page 6 -> frame 170 into TLB slot 13
+Logical: 0x06B1 | Physical: 0xAAB1 | Value: 0
+Searching TLB for page: 215
+TLB MISS: Page 215 not found in TLB
+Inserting page 215 -> frame 20 into TLB slot 14
+Logical: 0xD741 | Physical: 0x1441 | Value: 0
+Searching TLB for page: 255
+TLB HIT: Found page 255 in TLB slot 4 with frame 119
+Logical: 0xFF29 | Physical: 0x7729 | Value: 0
+Searching TLB for page: 176
+TLB MISS: Page 176 not found in TLB
+Inserting page 176 -> frame 191 into TLB slot 15
+Logical: 0xB0DE | Physical: 0xBFDE | Value: 44
+Searching TLB for page: 102
+TLB MISS: Page 102 not found in TLB
+Inserting page 102 -> frame 192 into TLB slot 0
+Logical: 0x6690 | Physical: 0xC090 | Value: 0
+Searching TLB for page: 250
+TLB MISS: Page 250 not found in TLB
+Inserting page 250 -> frame 17 into TLB slot 1
+Logical: 0xFAC6 | Physical: 0x11C6 | Value: 62
+Searching TLB for page: 115
+TLB MISS: Page 115 not found in TLB
+Inserting page 115 -> frame 193 into TLB slot 2
+Logical: 0x7301 | Physical: 0xC101 | Value: 0
+Searching TLB for page: 7
+TLB MISS: Page 7 not found in TLB
+Inserting page 7 -> frame 129 into TLB slot 3
+Logical: 0x0788 | Physical: 0x8188 | Value: 0
+Searching TLB for page: 154
+TLB MISS: Page 154 not found in TLB
+Inserting page 154 -> frame 169 into TLB slot 4
+Logical: 0x9A01 | Physical: 0xA901 | Value: 0
+Searching TLB for page: 125
+TLB MISS: Page 125 not found in TLB
+Inserting page 125 -> frame 194 into TLB slot 5
+Logical: 0x7D00 | Physical: 0xC200 | Value: 0
+Searching TLB for page: 111
+TLB MISS: Page 111 not found in TLB
+Inserting page 111 -> frame 109 into TLB slot 6
+Logical: 0x6F85 | Physical: 0x6D85 | Value: 0
+Searching TLB for page: 180
+TLB MISS: Page 180 not found in TLB
+Inserting page 180 -> frame 195 into TLB slot 7
+Logical: 0xB4D7 | Physical: 0xC3D7 | Value: 53
+Searching TLB for page: 88
+TLB MISS: Page 88 not found in TLB
+Inserting page 88 -> frame 11 into TLB slot 8
+Logical: 0x58F4 | Physical: 0x0BF4 | Value: 0
+Searching TLB for page: 227
+TLB MISS: Page 227 not found in TLB
+Inserting page 227 -> frame 133 into TLB slot 9
+Logical: 0xE374 | Physical: 0x8574 | Value: 0
+Searching TLB for page: 248
+TLB HIT: Found page 248 in TLB slot 10 with frame 110
+Logical: 0xF825 | Physical: 0x6E25 | Value: 0
+Searching TLB for page: 127
+TLB MISS: Page 127 not found in TLB
+Inserting page 127 -> frame 37 into TLB slot 10
+Logical: 0x7F5A | Physical: 0x255A | Value: 31
+Searching TLB for page: 180
+TLB HIT: Found page 180 in TLB slot 7 with frame 195
+Logical: 0xB473 | Physical: 0xC373 | Value: 28
+Searching TLB for page: 218
+TLB MISS: Page 218 not found in TLB
+Inserting page 218 -> frame 135 into TLB slot 11
+Logical: 0xDA29 | Physical: 0x8729 | Value: 0
+Searching TLB for page: 181
+TLB MISS: Page 181 not found in TLB
+Inserting page 181 -> frame 196 into TLB slot 12
+Logical: 0xB576 | Physical: 0xC476 | Value: 45
+Searching TLB for page: 29
+TLB MISS: Page 29 not found in TLB
+Inserting page 29 -> frame 24 into TLB slot 13
+Logical: 0x1D3F | Physical: 0x183F | Value: 79
+Searching TLB for page: 132
+TLB MISS: Page 132 not found in TLB
+Inserting page 132 -> frame 164 into TLB slot 14
+Logical: 0x8457 | Physical: 0xA457 | Value: 21
+Searching TLB for page: 164
+TLB MISS: Page 164 not found in TLB
+Inserting page 164 -> frame 180 into TLB slot 15
+Logical: 0xA414 | Physical: 0xB414 | Value: 0
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 0
+Logical: 0x2197 | Physical: 0x4E97 | Value: 101
+Searching TLB for page: 72
+TLB MISS: Page 72 not found in TLB
+Inserting page 72 -> frame 21 into TLB slot 1
+Logical: 0x48D1 | Physical: 0x15D1 | Value: 0
+Searching TLB for page: 191
+TLB MISS: Page 191 not found in TLB
+Inserting page 191 -> frame 197 into TLB slot 2
+Logical: 0xBF77 | Physical: 0xC577 | Value: -35
+Searching TLB for page: 104
+TLB MISS: Page 104 not found in TLB
+Inserting page 104 -> frame 166 into TLB slot 3
+Logical: 0x68CE | Physical: 0xA6CE | Value: 26
+Searching TLB for page: 135
+TLB MISS: Page 135 not found in TLB
+Inserting page 135 -> frame 70 into TLB slot 4
+Logical: 0x87C2 | Physical: 0x46C2 | Value: 33
+Searching TLB for page: 57
+TLB MISS: Page 57 not found in TLB
+Inserting page 57 -> frame 130 into TLB slot 5
+Logical: 0x394C | Physical: 0x824C | Value: 0
+Searching TLB for page: 149
+TLB MISS: Page 149 not found in TLB
+Inserting page 149 -> frame 79 into TLB slot 6
+Logical: 0x95DA | Physical: 0x4FDA | Value: 37
+Searching TLB for page: 151
+TLB MISS: Page 151 not found in TLB
+Inserting page 151 -> frame 183 into TLB slot 7
+Logical: 0x9787 | Physical: 0xB787 | Value: -31
+Searching TLB for page: 16
+TLB MISS: Page 16 not found in TLB
+Inserting page 16 -> frame 198 into TLB slot 8
+Logical: 0x104B | Physical: 0xC64B | Value: 18
+Searching TLB for page: 179
+TLB MISS: Page 179 not found in TLB
+Inserting page 179 -> frame 199 into TLB slot 9
+Logical: 0xB397 | Physical: 0xC797 | Value: -27
+Searching TLB for page: 57
+TLB HIT: Found page 57 in TLB slot 5 with frame 130
+Logical: 0x391F | Physical: 0x821F | Value: 71
+Searching TLB for page: 243
+TLB MISS: Page 243 not found in TLB
+Inserting page 243 -> frame 93 into TLB slot 10
+Logical: 0xF3B9 | Physical: 0x5DB9 | Value: 0
+Searching TLB for page: 252
+TLB MISS: Page 252 not found in TLB
+Inserting page 252 -> frame 25 into TLB slot 11
+Logical: 0xFC92 | Physical: 0x1992 | Value: 63
+Searching TLB for page: 42
+TLB MISS: Page 42 not found in TLB
+Inserting page 42 -> frame 48 into TLB slot 12
+Logical: 0x2AD3 | Physical: 0x30D3 | Value: -76
+Searching TLB for page: 35
+TLB MISS: Page 35 not found in TLB
+Inserting page 35 -> frame 188 into TLB slot 13
+Logical: 0x2362 | Physical: 0xBC62 | Value: 8
+Searching TLB for page: 199
+TLB MISS: Page 199 not found in TLB
+Inserting page 199 -> frame 167 into TLB slot 14
+Logical: 0xC757 | Physical: 0xA757 | Value: -43
+Searching TLB for page: 126
+TLB MISS: Page 126 not found in TLB
+Inserting page 126 -> frame 27 into TLB slot 15
+Logical: 0x7EA9 | Physical: 0x1BA9 | Value: 0
+Searching TLB for page: 177
+TLB MISS: Page 177 not found in TLB
+Inserting page 177 -> frame 179 into TLB slot 0
+Logical: 0xB1AB | Physical: 0xB3AB | Value: 106
+Searching TLB for page: 174
+TLB MISS: Page 174 not found in TLB
+Inserting page 174 -> frame 43 into TLB slot 1
+Logical: 0xAE43 | Physical: 0x2B43 | Value: -112
+Searching TLB for page: 248
+TLB MISS: Page 248 not found in TLB
+Inserting page 248 -> frame 110 into TLB slot 2
+Logical: 0xF8B0 | Physical: 0x6EB0 | Value: 0
+Searching TLB for page: 214
+TLB MISS: Page 214 not found in TLB
+Inserting page 214 -> frame 14 into TLB slot 3
+Logical: 0xD688 | Physical: 0x0E88 | Value: 0
+Searching TLB for page: 29
+TLB MISS: Page 29 not found in TLB
+Inserting page 29 -> frame 24 into TLB slot 4
+Logical: 0x1DEF | Physical: 0x18EF | Value: 123
+Searching TLB for page: 220
+TLB MISS: Page 220 not found in TLB
+Inserting page 220 -> frame 200 into TLB slot 5
+Logical: 0xDCA0 | Physical: 0xC8A0 | Value: 0
+Searching TLB for page: 5
+TLB MISS: Page 5 not found in TLB
+Inserting page 5 -> frame 201 into TLB slot 6
+Logical: 0x05D1 | Physical: 0xC9D1 | Value: 0
+Searching TLB for page: 111
+TLB MISS: Page 111 not found in TLB
+Inserting page 111 -> frame 109 into TLB slot 7
+Logical: 0x6F16 | Physical: 0x6D16 | Value: 27
+Searching TLB for page: 255
+TLB MISS: Page 255 not found in TLB
+Inserting page 255 -> frame 119 into TLB slot 8
+Logical: 0xFFA9 | Physical: 0x77A9 | Value: 0
+Searching TLB for page: 48
+TLB MISS: Page 48 not found in TLB
+Inserting page 48 -> frame 176 into TLB slot 9
+Logical: 0x3099 | Physical: 0xB099 | Value: 0
+Searching TLB for page: 228
+TLB MISS: Page 228 not found in TLB
+Inserting page 228 -> frame 60 into TLB slot 10
+Logical: 0xE4A2 | Physical: 0x3CA2 | Value: 57
+Searching TLB for page: 248
+TLB HIT: Found page 248 in TLB slot 2 with frame 110
+Logical: 0xF852 | Physical: 0x6E52 | Value: 62
+Searching TLB for page: 102
+TLB MISS: Page 102 not found in TLB
+Inserting page 102 -> frame 192 into TLB slot 11
+Logical: 0x668B | Physical: 0xC08B | Value: -94
+Searching TLB for page: 62
+TLB MISS: Page 62 not found in TLB
+Inserting page 62 -> frame 82 into TLB slot 12
+Logical: 0x3E64 | Physical: 0x5264 | Value: 0
+Searching TLB for page: 139
+TLB MISS: Page 139 not found in TLB
+Inserting page 139 -> frame 171 into TLB slot 13
+Logical: 0x8BF2 | Physical: 0xABF2 | Value: 34
+Searching TLB for page: 21
+TLB MISS: Page 21 not found in TLB
+Inserting page 21 -> frame 84 into TLB slot 14
+Logical: 0x1573 | Physical: 0x5473 | Value: 92
+Searching TLB for page: 211
+TLB MISS: Page 211 not found in TLB
+Inserting page 211 -> frame 202 into TLB slot 15
+Logical: 0xD3ED | Physical: 0xCAED | Value: 0
+Searching TLB for page: 193
+TLB MISS: Page 193 not found in TLB
+Inserting page 193 -> frame 177 into TLB slot 0
+Logical: 0xC1F7 | Physical: 0xB1F7 | Value: 125
+Searching TLB for page: 22
+TLB MISS: Page 22 not found in TLB
+Inserting page 22 -> frame 203 into TLB slot 1
+Logical: 0x16EC | Physical: 0xCBEC | Value: 0
+Searching TLB for page: 78
+TLB MISS: Page 78 not found in TLB
+Inserting page 78 -> frame 158 into TLB slot 2
+Logical: 0x4EC3 | Physical: 0x9EC3 | Value: -80
+Searching TLB for page: 199
+TLB MISS: Page 199 not found in TLB
+Inserting page 199 -> frame 167 into TLB slot 3
+Logical: 0xC787 | Physical: 0xA787 | Value: -31
+Searching TLB for page: 83
+TLB MISS: Page 83 not found in TLB
+Inserting page 83 -> frame 35 into TLB slot 4
+Logical: 0x5396 | Physical: 0x2396 | Value: 20 | [DIRTY]
+Searching TLB for page: 127
+TLB MISS: Page 127 not found in TLB
+Inserting page 127 -> frame 37 into TLB slot 5
+Logical: 0x7FF4 | Physical: 0x25F4 | Value: 0
+Searching TLB for page: 250
+TLB MISS: Page 250 not found in TLB
+Inserting page 250 -> frame 17 into TLB slot 6
+Logical: 0xFAC4 | Physical: 0x11C4 | Value: 0
+Searching TLB for page: 168
+TLB MISS: Page 168 not found in TLB
+Inserting page 168 -> frame 68 into TLB slot 7
+Logical: 0xA8D2 | Physical: 0x44D2 | Value: 42
+Searching TLB for page: 84
+TLB MISS: Page 84 not found in TLB
+Inserting page 84 -> frame 204 into TLB slot 8
+Logical: 0x544F | Physical: 0xCC4F | Value: 19
+Searching TLB for page: 97
+TLB MISS: Page 97 not found in TLB
+Inserting page 97 -> frame 205 into TLB slot 9
+Logical: 0x61FE | Physical: 0xCDFE | Value: 24
+Searching TLB for page: 177
+TLB MISS: Page 177 not found in TLB
+Inserting page 177 -> frame 179 into TLB slot 10
+Logical: 0xB1CB | Physical: 0xB3CB | Value: 114
+Searching TLB for page: 50
+TLB MISS: Page 50 not found in TLB
+Inserting page 50 -> frame 118 into TLB slot 11
+Logical: 0x325D | Physical: 0x765D | Value: 0
+Searching TLB for page: 89
+TLB MISS: Page 89 not found in TLB
+Inserting page 89 -> frame 206 into TLB slot 12
+Logical: 0x5982 | Physical: 0xCE82 | Value: 22
+Searching TLB for page: 230
+TLB MISS: Page 230 not found in TLB
+Inserting page 230 -> frame 58 into TLB slot 13
+Logical: 0xE659 | Physical: 0x3A59 | Value: 0
+Searching TLB for page: 78
+TLB HIT: Found page 78 in TLB slot 2 with frame 158
+Logical: 0x4E7E | Physical: 0x9E7E | Value: 19
+Searching TLB for page: 53
+TLB MISS: Page 53 not found in TLB
+Inserting page 53 -> frame 207 into TLB slot 14
+Logical: 0x35A2 | Physical: 0xCFA2 | Value: 13
+Searching TLB for page: 172
+TLB MISS: Page 172 not found in TLB
+Inserting page 172 -> frame 208 into TLB slot 15
+Logical: 0xAC1B | Physical: 0xD01B | Value: 6
+Searching TLB for page: 113
+TLB MISS: Page 113 not found in TLB
+Inserting page 113 -> frame 64 into TLB slot 0
+Logical: 0x7103 | Physical: 0x4003 | Value: 64
+Searching TLB for page: 52
+TLB MISS: Page 52 not found in TLB
+Inserting page 52 -> frame 141 into TLB slot 1
+Logical: 0x34DD | Physical: 0x8DDD | Value: 0
+Searching TLB for page: 129
+TLB MISS: Page 129 not found in TLB
+Inserting page 129 -> frame 209 into TLB slot 2
+Logical: 0x816E | Physical: 0xD16E | Value: 32
+Searching TLB for page: 111
+TLB MISS: Page 111 not found in TLB
+Inserting page 111 -> frame 109 into TLB slot 3
+Logical: 0x6F43 | Physical: 0x6D43 | Value: -48
+Searching TLB for page: 4
+TLB MISS: Page 4 not found in TLB
+Inserting page 4 -> frame 159 into TLB slot 4
+Logical: 0x04C4 | Physical: 0x9FC4 | Value: 0
+Searching TLB for page: 149
+TLB MISS: Page 149 not found in TLB
+Inserting page 149 -> frame 79 into TLB slot 5
+Logical: 0x951E | Physical: 0x4F1E | Value: 37
+Searching TLB for page: 208
+TLB MISS: Page 208 not found in TLB
+Inserting page 208 -> frame 138 into TLB slot 6
+Logical: 0xD0FE | Physical: 0x8AFE | Value: 52
+Searching TLB for page: 169
+TLB MISS: Page 169 not found in TLB
+Inserting page 169 -> frame 115 into TLB slot 7
+Logical: 0xA940 | Physical: 0x7340 | Value: 0
+Searching TLB for page: 19
+TLB MISS: Page 19 not found in TLB
+Inserting page 19 -> frame 53 into TLB slot 8
+Logical: 0x136A | Physical: 0x356A | Value: 4
+Searching TLB for page: 31
+TLB MISS: Page 31 not found in TLB
+Inserting page 31 -> frame 132 into TLB slot 9
+Logical: 0x1F9A | Physical: 0x849A | Value: 7
+Searching TLB for page: 10
+TLB MISS: Page 10 not found in TLB
+Inserting page 10 -> frame 210 into TLB slot 10
+Logical: 0x0A65 | Physical: 0xD265 | Value: 0
+Searching TLB for page: 210
+TLB MISS: Page 210 not found in TLB
+Inserting page 210 -> frame 211 into TLB slot 11
+Logical: 0xD28F | Physical: 0xD38F | Value: -93
+Searching TLB for page: 43
+TLB MISS: Page 43 not found in TLB
+Inserting page 43 -> frame 156 into TLB slot 12
+Logical: 0x2B11 | Physical: 0x9C11 | Value: 0
+Searching TLB for page: 104
+TLB MISS: Page 104 not found in TLB
+Inserting page 104 -> frame 166 into TLB slot 13
+Logical: 0x6803 | Physical: 0xA603 | Value: 0
+Searching TLB for page: 70
+TLB MISS: Page 70 not found in TLB
+Inserting page 70 -> frame 73 into TLB slot 14
+Logical: 0x46C5 | Physical: 0x49C5 | Value: 0
+Searching TLB for page: 56
+TLB MISS: Page 56 not found in TLB
+Inserting page 56 -> frame 22 into TLB slot 15
+Logical: 0x38A9 | Physical: 0x16A9 | Value: 0
+Searching TLB for page: 240
+TLB MISS: Page 240 not found in TLB
+Inserting page 240 -> frame 90 into TLB slot 0
+Logical: 0xF058 | Physical: 0x5A58 | Value: 0
+Searching TLB for page: 79
+TLB MISS: Page 79 not found in TLB
+Inserting page 79 -> frame 65 into TLB slot 1
+Logical: 0x4FC7 | Physical: 0x41C7 | Value: -15
+Searching TLB for page: 105
+TLB MISS: Page 105 not found in TLB
+Inserting page 105 -> frame 105 into TLB slot 2
+Logical: 0x6952 | Physical: 0x6952 | Value: 26
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 3
+Logical: 0x8E28 | Physical: 0x3828 | Value: 0
+Searching TLB for page: 44
+TLB MISS: Page 44 not found in TLB
+Inserting page 44 -> frame 212 into TLB slot 4
+Logical: 0x2C65 | Physical: 0xD465 | Value: 0
+Searching TLB for page: 198
+TLB MISS: Page 198 not found in TLB
+Inserting page 198 -> frame 102 into TLB slot 5
+Logical: 0xC6C2 | Physical: 0x66C2 | Value: 49
+Searching TLB for page: 162
+TLB MISS: Page 162 not found in TLB
+Inserting page 162 -> frame 163 into TLB slot 6
+Logical: 0xA2C4 | Physical: 0xA3C4 | Value: 0
+Searching TLB for page: 119
+TLB MISS: Page 119 not found in TLB
+Inserting page 119 -> frame 63 into TLB slot 7
+Logical: 0x7721 | Physical: 0x3F21 | Value: 0
+Searching TLB for page: 141
+TLB MISS: Page 141 not found in TLB
+Inserting page 141 -> frame 213 into TLB slot 8
+Logical: 0x8D78 | Physical: 0xD578 | Value: 0
+Searching TLB for page: 21
+TLB MISS: Page 21 not found in TLB
+Inserting page 21 -> frame 84 into TLB slot 9
+Logical: 0x15F3 | Physical: 0x54F3 | Value: 124
+Searching TLB for page: 144
+TLB MISS: Page 144 not found in TLB
+Inserting page 144 -> frame 71 into TLB slot 10
+Logical: 0x9077 | Physical: 0x4777 | Value: 29
+Searching TLB for page: 232
+TLB MISS: Page 232 not found in TLB
+Inserting page 232 -> frame 101 into TLB slot 11
+Logical: 0xE8A5 | Physical: 0x65A5 | Value: 0
+Searching TLB for page: 143
+TLB MISS: Page 143 not found in TLB
+Inserting page 143 -> frame 139 into TLB slot 12
+Logical: 0x8F37 | Physical: 0x8B37 | Value: -51
+Searching TLB for page: 142
+TLB HIT: Found page 142 in TLB slot 3 with frame 56
+Logical: 0x8E54 | Physical: 0x3854 | Value: 0
+Searching TLB for page: 144
+TLB HIT: Found page 144 in TLB slot 10 with frame 71
+Logical: 0x90C1 | Physical: 0x47C1 | Value: 0
+Searching TLB for page: 92
+TLB MISS: Page 92 not found in TLB
+Inserting page 92 -> frame 214 into TLB slot 13
+Logical: 0x5C21 | Physical: 0xD621 | Value: 0
+Searching TLB for page: 229
+TLB MISS: Page 229 not found in TLB
+Inserting page 229 -> frame 215 into TLB slot 14
+Logical: 0xE5A7 | Physical: 0xD7A7 | Value: 105
+Searching TLB for page: 182
+TLB MISS: Page 182 not found in TLB
+Inserting page 182 -> frame 216 into TLB slot 15
+Logical: 0xB64A | Physical: 0xD84A | Value: 45
+Searching TLB for page: 251
+TLB MISS: Page 251 not found in TLB
+Inserting page 251 -> frame 19 into TLB slot 0
+Logical: 0xFBDB | Physical: 0x13DB | Value: -10
+Searching TLB for page: 84
+TLB MISS: Page 84 not found in TLB
+Inserting page 84 -> frame 204 into TLB slot 1
+Logical: 0x546F | Physical: 0xCC6F | Value: 27
+Searching TLB for page: 160
+TLB MISS: Page 160 not found in TLB
+Inserting page 160 -> frame 34 into TLB slot 2
+Logical: 0xA082 | Physical: 0x2282 | Value: 40
+Searching TLB for page: 6
+TLB MISS: Page 6 not found in TLB
+Inserting page 6 -> frame 170 into TLB slot 3
+Logical: 0x06EB | Physical: 0xAAEB | Value: -70
+Searching TLB for page: 185
+TLB MISS: Page 185 not found in TLB
+Inserting page 185 -> frame 125 into TLB slot 4
+Logical: 0xB999 | Physical: 0x7D99 | Value: 0
+Searching TLB for page: 153
+TLB MISS: Page 153 not found in TLB
+Inserting page 153 -> frame 217 into TLB slot 5
+Logical: 0x99AA | Physical: 0xD9AA | Value: 38
+Searching TLB for page: 5
+TLB MISS: Page 5 not found in TLB
+Inserting page 5 -> frame 201 into TLB slot 6
+Logical: 0x056E | Physical: 0xC96E | Value: 1
+Searching TLB for page: 151
+TLB MISS: Page 151 not found in TLB
+Inserting page 151 -> frame 183 into TLB slot 7
+Logical: 0x9774 | Physical: 0xB774 | Value: 0
+Searching TLB for page: 227
+TLB MISS: Page 227 not found in TLB
+Inserting page 227 -> frame 133 into TLB slot 8
+Logical: 0xE325 | Physical: 0x8525 | Value: 0
+Searching TLB for page: 28
+TLB MISS: Page 28 not found in TLB
+Inserting page 28 -> frame 168 into TLB slot 9
+Logical: 0x1C1C | Physical: 0xA81C | Value: 0
+Searching TLB for page: 35
+TLB MISS: Page 35 not found in TLB
+Inserting page 35 -> frame 188 into TLB slot 10
+Logical: 0x23A3 | Physical: 0xBCA3 | Value: -24
+Searching TLB for page: 29
+TLB MISS: Page 29 not found in TLB
+Inserting page 29 -> frame 24 into TLB slot 11
+Logical: 0x1D43 | Physical: 0x1843 | Value: 80
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 12
+Logical: 0xF498 | Physical: 0x0198 | Value: 0
+Searching TLB for page: 60
+TLB MISS: Page 60 not found in TLB
+Inserting page 60 -> frame 124 into TLB slot 13
+Logical: 0x3C4C | Physical: 0x7C4C | Value: 0
+Searching TLB for page: 68
+TLB MISS: Page 68 not found in TLB
+Inserting page 68 -> frame 160 into TLB slot 14
+Logical: 0x4453 | Physical: 0xA053 | Value: 20
+Searching TLB for page: 209
+TLB MISS: Page 209 not found in TLB
+Inserting page 209 -> frame 3 into TLB slot 15
+Logical: 0xD198 | Physical: 0x0398 | Value: 0
+Searching TLB for page: 103
+TLB MISS: Page 103 not found in TLB
+Inserting page 103 -> frame 95 into TLB slot 0
+Logical: 0x6751 | Physical: 0x5F51 | Value: 0
+Searching TLB for page: 136
+TLB MISS: Page 136 not found in TLB
+Inserting page 136 -> frame 104 into TLB slot 1
+Logical: 0x8877 | Physical: 0x6877 | Value: 29
+Searching TLB for page: 77
+TLB MISS: Page 77 not found in TLB
+Inserting page 77 -> frame 142 into TLB slot 2
+Logical: 0x4D98 | Physical: 0x8E98 | Value: 0
+Searching TLB for page: 200
+TLB MISS: Page 200 not found in TLB
+Inserting page 200 -> frame 127 into TLB slot 3
+Logical: 0xC8BC | Physical: 0x7FBC | Value: 0
+Searching TLB for page: 59
+TLB MISS: Page 59 not found in TLB
+Inserting page 59 -> frame 126 into TLB slot 4
+Logical: 0x3B33 | Physical: 0x7E33 | Value: -52
+Searching TLB for page: 253
+TLB MISS: Page 253 not found in TLB
+Inserting page 253 -> frame 8 into TLB slot 5
+Logical: 0xFD07 | Physical: 0x0807 | Value: 65
+Searching TLB for page: 187
+TLB MISS: Page 187 not found in TLB
+Inserting page 187 -> frame 100 into TLB slot 6
+Logical: 0xBB61 | Physical: 0x6461 | Value: 0
+Searching TLB for page: 63
+TLB MISS: Page 63 not found in TLB
+Inserting page 63 -> frame 218 into TLB slot 7
+Logical: 0x3FBB | Physical: 0xDABB | Value: -18
+Searching TLB for page: 5
+TLB MISS: Page 5 not found in TLB
+Inserting page 5 -> frame 201 into TLB slot 8
+Logical: 0x053E | Physical: 0xC93E | Value: 1
+Searching TLB for page: 199
+TLB MISS: Page 199 not found in TLB
+Inserting page 199 -> frame 167 into TLB slot 9
+Logical: 0xC7F1 | Physical: 0xA7F1 | Value: 0
+Searching TLB for page: 23
+TLB MISS: Page 23 not found in TLB
+Inserting page 23 -> frame 36 into TLB slot 10
+Logical: 0x179B | Physical: 0x249B | Value: -26
+Searching TLB for page: 83
+TLB MISS: Page 83 not found in TLB
+Inserting page 83 -> frame 35 into TLB slot 11
+Logical: 0x5396 | Physical: 0x2396 | Value: 21
+Searching TLB for page: 12
+TLB MISS: Page 12 not found in TLB
+Inserting page 12 -> frame 157 into TLB slot 12
+Logical: 0x0CC9 | Physical: 0x9DC9 | Value: 0
+Searching TLB for page: 36
+TLB MISS: Page 36 not found in TLB
+Inserting page 36 -> frame 89 into TLB slot 13
+Logical: 0x249A | Physical: 0x599A | Value: 9
+Searching TLB for page: 138
+TLB MISS: Page 138 not found in TLB
+Inserting page 138 -> frame 219 into TLB slot 14
+Logical: 0x8A87 | Physical: 0xDB87 | Value: -95
+Searching TLB for page: 110
+TLB MISS: Page 110 not found in TLB
+Inserting page 110 -> frame 136 into TLB slot 15
+Logical: 0x6E2D | Physical: 0x882D | Value: 0
+Searching TLB for page: 9
+TLB MISS: Page 9 not found in TLB
+Inserting page 9 -> frame 18 into TLB slot 0
+Logical: 0x092F | Physical: 0x122F | Value: 75
+Searching TLB for page: 113
+TLB MISS: Page 113 not found in TLB
+Inserting page 113 -> frame 64 into TLB slot 1
+Logical: 0x7147 | Physical: 0x4047 | Value: 81
+Searching TLB for page: 186
+TLB MISS: Page 186 not found in TLB
+Inserting page 186 -> frame 220 into TLB slot 2
+Logical: 0xBA53 | Physical: 0xDC53 | Value: -108
+Searching TLB for page: 183
+TLB MISS: Page 183 not found in TLB
+Inserting page 183 -> frame 77 into TLB slot 3
+Logical: 0xB716 | Physical: 0x4D16 | Value: 45
+Searching TLB for page: 87
+TLB MISS: Page 87 not found in TLB
+Inserting page 87 -> frame 44 into TLB slot 4
+Logical: 0x5727 | Physical: 0x2C27 | Value: -55
+Searching TLB for page: 86
+TLB MISS: Page 86 not found in TLB
+Inserting page 86 -> frame 221 into TLB slot 5
+Logical: 0x566C | Physical: 0xDD6C | Value: 0
+Searching TLB for page: 87
+TLB HIT: Found page 87 in TLB slot 4 with frame 44
+Logical: 0x579B | Physical: 0x2C9B | Value: -26 | [DIRTY]
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 6
+Logical: 0xC0C0 | Physical: 0x21C0 | Value: 0
+Searching TLB for page: 90
+TLB MISS: Page 90 not found in TLB
+Inserting page 90 -> frame 140 into TLB slot 7
+Logical: 0x5AB8 | Physical: 0x8CB8 | Value: 0
+Searching TLB for page: 21
+TLB MISS: Page 21 not found in TLB
+Inserting page 21 -> frame 84 into TLB slot 8
+Logical: 0x158A | Physical: 0x548A | Value: 5
+Searching TLB for page: 80
+TLB MISS: Page 80 not found in TLB
+Inserting page 80 -> frame 222 into TLB slot 9
+Logical: 0x5018 | Physical: 0xDE18 | Value: 0
+Searching TLB for page: 1
+TLB MISS: Page 1 not found in TLB
+Inserting page 1 -> frame 223 into TLB slot 10
+Logical: 0x0178 | Physical: 0xDF78 | Value: 0
+Searching TLB for page: 7
+TLB MISS: Page 7 not found in TLB
+Inserting page 7 -> frame 129 into TLB slot 11
+Logical: 0x07DE | Physical: 0x81DE | Value: 1
+Searching TLB for page: 151
+TLB MISS: Page 151 not found in TLB
+Inserting page 151 -> frame 183 into TLB slot 12
+Logical: 0x972C | Physical: 0xB72C | Value: 0
+Searching TLB for page: 51
+TLB MISS: Page 51 not found in TLB
+Inserting page 51 -> frame 173 into TLB slot 13
+Logical: 0x332A | Physical: 0xAD2A | Value: 12
+Searching TLB for page: 243
+TLB MISS: Page 243 not found in TLB
+Inserting page 243 -> frame 93 into TLB slot 14
+Logical: 0xF3E3 | Physical: 0x5DE3 | Value: -8
+Searching TLB for page: 187
+TLB MISS: Page 187 not found in TLB
+Inserting page 187 -> frame 100 into TLB slot 15
+Logical: 0xBBAE | Physical: 0x64AE | Value: 46
+Searching TLB for page: 247
+TLB MISS: Page 247 not found in TLB
+Inserting page 247 -> frame 66 into TLB slot 0
+Logical: 0xF7E8 | Physical: 0x42E8 | Value: 0
+Searching TLB for page: 49
+TLB MISS: Page 49 not found in TLB
+Inserting page 49 -> frame 121 into TLB slot 1
+Logical: 0x31FE | Physical: 0x79FE | Value: 12
+Searching TLB for page: 199
+TLB MISS: Page 199 not found in TLB
+Inserting page 199 -> frame 167 into TLB slot 2
+Logical: 0xC7EA | Physical: 0xA7EA | Value: 49
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 3
+Logical: 0x21B3 | Physical: 0x4EB3 | Value: 108
+Searching TLB for page: 105
+TLB MISS: Page 105 not found in TLB
+Inserting page 105 -> frame 105 into TLB slot 4
+Logical: 0x69CB | Physical: 0x69CB | Value: 114
+Searching TLB for page: 184
+TLB MISS: Page 184 not found in TLB
+Inserting page 184 -> frame 116 into TLB slot 5
+Logical: 0xB85E | Physical: 0x745E | Value: 46
+Searching TLB for page: 171
+TLB MISS: Page 171 not found in TLB
+Inserting page 171 -> frame 224 into TLB slot 6
+Logical: 0xABF5 | Physical: 0xE0F5 | Value: 0
+Searching TLB for page: 128
+TLB MISS: Page 128 not found in TLB
+Inserting page 128 -> frame 16 into TLB slot 7
+Logical: 0x8018 | Physical: 0x1018 | Value: 0
+Searching TLB for page: 171
+TLB HIT: Found page 171 in TLB slot 6 with frame 224
+Logical: 0xABDC | Physical: 0xE0DC | Value: 0
+Searching TLB for page: 160
+TLB MISS: Page 160 not found in TLB
+Inserting page 160 -> frame 34 into TLB slot 8
+Logical: 0xA0A6 | Physical: 0x22A6 | Value: 40
+Searching TLB for page: 250
+TLB MISS: Page 250 not found in TLB
+Inserting page 250 -> frame 17 into TLB slot 9
+Logical: 0xFAF4 | Physical: 0x11F4 | Value: 0
+Searching TLB for page: 144
+TLB MISS: Page 144 not found in TLB
+Inserting page 144 -> frame 71 into TLB slot 10
+Logical: 0x90B7 | Physical: 0x47B7 | Value: 45
+Searching TLB for page: 235
+TLB MISS: Page 235 not found in TLB
+Inserting page 235 -> frame 225 into TLB slot 11
+Logical: 0xEB79 | Physical: 0xE179 | Value: 0
+Searching TLB for page: 206
+TLB MISS: Page 206 not found in TLB
+Inserting page 206 -> frame 186 into TLB slot 12
+Logical: 0xCEA8 | Physical: 0xBAA8 | Value: 0
+Searching TLB for page: 30
+TLB MISS: Page 30 not found in TLB
+Inserting page 30 -> frame 226 into TLB slot 13
+Logical: 0x1E58 | Physical: 0xE258 | Value: 0
+Searching TLB for page: 216
+TLB MISS: Page 216 not found in TLB
+Inserting page 216 -> frame 227 into TLB slot 14
+Logical: 0xD83F | Physical: 0xE33F | Value: 15
+Searching TLB for page: 12
+TLB MISS: Page 12 not found in TLB
+Inserting page 12 -> frame 157 into TLB slot 15
+Logical: 0x0C9E | Physical: 0x9D9E | Value: 3
+Searching TLB for page: 175
+TLB MISS: Page 175 not found in TLB
+Inserting page 175 -> frame 51 into TLB slot 0
+Logical: 0xAF0D | Physical: 0x330D | Value: 0
+Searching TLB for page: 16
+TLB MISS: Page 16 not found in TLB
+Inserting page 16 -> frame 198 into TLB slot 1
+Logical: 0x1014 | Physical: 0xC614 | Value: 0
+Searching TLB for page: 254
+TLB MISS: Page 254 not found in TLB
+Inserting page 254 -> frame 189 into TLB slot 2
+Logical: 0xFEC6 | Physical: 0xBDC6 | Value: 63
+Searching TLB for page: 109
+TLB MISS: Page 109 not found in TLB
+Inserting page 109 -> frame 13 into TLB slot 3
+Logical: 0x6DB3 | Physical: 0x0DB3 | Value: 108
+Searching TLB for page: 236
+TLB MISS: Page 236 not found in TLB
+Inserting page 236 -> frame 28 into TLB slot 4
+Logical: 0xECF4 | Physical: 0x1CF4 | Value: 0
+Searching TLB for page: 0
+TLB MISS: Page 0 not found in TLB
+Inserting page 0 -> frame 228 into TLB slot 5
+Logical: 0x0027 | Physical: 0xE427 | Value: 9
+Searching TLB for page: 1
+TLB MISS: Page 1 not found in TLB
+Inserting page 1 -> frame 223 into TLB slot 6
+Logical: 0x0148 | Physical: 0xDF48 | Value: 0
+Searching TLB for page: 186
+TLB MISS: Page 186 not found in TLB
+Inserting page 186 -> frame 220 into TLB slot 7
+Logical: 0xBAFC | Physical: 0xDCFC | Value: 0
+Searching TLB for page: 50
+TLB MISS: Page 50 not found in TLB
+Inserting page 50 -> frame 118 into TLB slot 8
+Logical: 0x32D1 | Physical: 0x76D1 | Value: 0
+Searching TLB for page: 87
+TLB MISS: Page 87 not found in TLB
+Inserting page 87 -> frame 44 into TLB slot 9
+Logical: 0x576A | Physical: 0x2C6A | Value: 21
+Searching TLB for page: 153
+TLB MISS: Page 153 not found in TLB
+Inserting page 153 -> frame 217 into TLB slot 10
+Logical: 0x9988 | Physical: 0xD988 | Value: 0
+Searching TLB for page: 43
+TLB MISS: Page 43 not found in TLB
+Inserting page 43 -> frame 156 into TLB slot 11
+Logical: 0x2BA3 | Physical: 0x9CA3 | Value: -24
+Searching TLB for page: 31
+TLB MISS: Page 31 not found in TLB
+Inserting page 31 -> frame 132 into TLB slot 12
+Logical: 0x1F8F | Physical: 0x848F | Value: -29
+Searching TLB for page: 206
+TLB MISS: Page 206 not found in TLB
+Inserting page 206 -> frame 186 into TLB slot 13
+Logical: 0xCE8F | Physical: 0xBA8F | Value: -93
+Searching TLB for page: 20
+TLB MISS: Page 20 not found in TLB
+Inserting page 20 -> frame 59 into TLB slot 14
+Logical: 0x1403 | Physical: 0x3B03 | Value: 0
+Searching TLB for page: 17
+TLB MISS: Page 17 not found in TLB
+Inserting page 17 -> frame 229 into TLB slot 15
+Logical: 0x1104 | Physical: 0xE504 | Value: 0
+Searching TLB for page: 178
+TLB MISS: Page 178 not found in TLB
+Inserting page 178 -> frame 30 into TLB slot 0
+Logical: 0xB2B1 | Physical: 0x1EB1 | Value: 0
+Searching TLB for page: 128
+TLB MISS: Page 128 not found in TLB
+Inserting page 128 -> frame 16 into TLB slot 1
+Logical: 0x80B8 | Physical: 0x10B8 | Value: 0
+Searching TLB for page: 18
+TLB MISS: Page 18 not found in TLB
+Inserting page 18 -> frame 108 into TLB slot 2
+Logical: 0x1231 | Physical: 0x6C31 | Value: 0
+Searching TLB for page: 94
+TLB MISS: Page 94 not found in TLB
+Inserting page 94 -> frame 131 into TLB slot 3
+Logical: 0x5E4E | Physical: 0x834E | Value: 23
+Searching TLB for page: 91
+TLB MISS: Page 91 not found in TLB
+Inserting page 91 -> frame 80 into TLB slot 4
+Logical: 0x5B17 | Physical: 0x5017 | Value: -59
+Searching TLB for page: 53
+TLB MISS: Page 53 not found in TLB
+Inserting page 53 -> frame 207 into TLB slot 5
+Logical: 0x3527 | Physical: 0xCF27 | Value: 73
+Searching TLB for page: 180
+TLB MISS: Page 180 not found in TLB
+Inserting page 180 -> frame 195 into TLB slot 6
+Logical: 0xB4E0 | Physical: 0xC3E0 | Value: 0
+Searching TLB for page: 69
+TLB MISS: Page 69 not found in TLB
+Inserting page 69 -> frame 38 into TLB slot 7
+Logical: 0x450D | Physical: 0x260D | Value: 0
+Searching TLB for page: 233
+TLB MISS: Page 233 not found in TLB
+Inserting page 233 -> frame 185 into TLB slot 8
+Logical: 0xE92B | Physical: 0xB92B | Value: 74
+Searching TLB for page: 199
+TLB MISS: Page 199 not found in TLB
+Inserting page 199 -> frame 167 into TLB slot 9
+Logical: 0xC717 | Physical: 0xA717 | Value: -59
+Searching TLB for page: 30
+TLB MISS: Page 30 not found in TLB
+Inserting page 30 -> frame 226 into TLB slot 10
+Logical: 0x1E89 | Physical: 0xE289 | Value: 0
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 11
+Logical: 0x2161 | Physical: 0x4E61 | Value: 0
+Searching TLB for page: 216
+TLB MISS: Page 216 not found in TLB
+Inserting page 216 -> frame 227 into TLB slot 12
+Logical: 0xD801 | Physical: 0xE301 | Value: 0
+Searching TLB for page: 206
+TLB HIT: Found page 206 in TLB slot 13 with frame 186
+Logical: 0xCEDA | Physical: 0xBADA | Value: 51
+Searching TLB for page: 155
+TLB MISS: Page 155 not found in TLB
+Inserting page 155 -> frame 149 into TLB slot 13
+Logical: 0x9B28 | Physical: 0x9528 | Value: 0
+Searching TLB for page: 72
+TLB MISS: Page 72 not found in TLB
+Inserting page 72 -> frame 21 into TLB slot 14
+Logical: 0x4817 | Physical: 0x1517 | Value: 5
+Searching TLB for page: 118
+TLB MISS: Page 118 not found in TLB
+Inserting page 118 -> frame 230 into TLB slot 15
+Logical: 0x768D | Physical: 0xE68D | Value: 0
+Searching TLB for page: 247
+TLB MISS: Page 247 not found in TLB
+Inserting page 247 -> frame 66 into TLB slot 0
+Logical: 0xF726 | Physical: 0x4226 | Value: 61
+Searching TLB for page: 106
+TLB MISS: Page 106 not found in TLB
+Inserting page 106 -> frame 112 into TLB slot 1
+Logical: 0x6A14 | Physical: 0x7014 | Value: 0
+Searching TLB for page: 80
+TLB MISS: Page 80 not found in TLB
+Inserting page 80 -> frame 222 into TLB slot 2
+Logical: 0x5086 | Physical: 0xDE86 | Value: 20
+Searching TLB for page: 75
+TLB MISS: Page 75 not found in TLB
+Inserting page 75 -> frame 55 into TLB slot 3
+Logical: 0x4BAC | Physical: 0x37AC | Value: 0
+Searching TLB for page: 190
+TLB MISS: Page 190 not found in TLB
+Inserting page 190 -> frame 128 into TLB slot 4
+Logical: 0xBE31 | Physical: 0x8031 | Value: 0
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 5
+Logical: 0xC0EA | Physical: 0x21EA | Value: 48
+Searching TLB for page: 197
+TLB MISS: Page 197 not found in TLB
+Inserting page 197 -> frame 72 into TLB slot 6
+Logical: 0xC598 | Physical: 0x4898 | Value: 0
+Searching TLB for page: 202
+TLB MISS: Page 202 not found in TLB
+Inserting page 202 -> frame 106 into TLB slot 7
+Logical: 0xCAE0 | Physical: 0x6AE0 | Value: 0
+Searching TLB for page: 135
+TLB MISS: Page 135 not found in TLB
+Inserting page 135 -> frame 70 into TLB slot 8
+Logical: 0x8791 | Physical: 0x4691 | Value: 0
+Searching TLB for page: 53
+TLB MISS: Page 53 not found in TLB
+Inserting page 53 -> frame 207 into TLB slot 9
+Logical: 0x3555 | Physical: 0xCF55 | Value: 0
+Searching TLB for page: 195
+TLB MISS: Page 195 not found in TLB
+Inserting page 195 -> frame 231 into TLB slot 10
+Logical: 0xC39D | Physical: 0xE79D | Value: 0
+Searching TLB for page: 212
+TLB MISS: Page 212 not found in TLB
+Inserting page 212 -> frame 75 into TLB slot 11
+Logical: 0xD4F6 | Physical: 0x4BF6 | Value: 53
+Searching TLB for page: 162
+TLB MISS: Page 162 not found in TLB
+Inserting page 162 -> frame 163 into TLB slot 12
+Logical: 0xA20A | Physical: 0xA30A | Value: 40
+Searching TLB for page: 16
+TLB MISS: Page 16 not found in TLB
+Inserting page 16 -> frame 198 into TLB slot 13
+Logical: 0x1049 | Physical: 0xC649 | Value: 0
+Searching TLB for page: 141
+TLB MISS: Page 141 not found in TLB
+Inserting page 141 -> frame 213 into TLB slot 14
+Logical: 0x8D16 | Physical: 0xD516 | Value: 35
+Searching TLB for page: 37
+TLB MISS: Page 37 not found in TLB
+Inserting page 37 -> frame 232 into TLB slot 15
+Logical: 0x2570 | Physical: 0xE870 | Value: 0
+Searching TLB for page: 72
+TLB MISS: Page 72 not found in TLB
+Inserting page 72 -> frame 21 into TLB slot 0
+Logical: 0x483A | Physical: 0x153A | Value: 18
+Searching TLB for page: 216
+TLB MISS: Page 216 not found in TLB
+Inserting page 216 -> frame 227 into TLB slot 1
+Logical: 0xD87C | Physical: 0xE37C | Value: 0
+Searching TLB for page: 22
+TLB MISS: Page 22 not found in TLB
+Inserting page 22 -> frame 203 into TLB slot 2
+Logical: 0x164C | Physical: 0xCB4C | Value: 0
+Searching TLB for page: 91
+TLB MISS: Page 91 not found in TLB
+Inserting page 91 -> frame 80 into TLB slot 3
+Logical: 0x5BD2 | Physical: 0x50D2 | Value: 22
+Searching TLB for page: 60
+TLB MISS: Page 60 not found in TLB
+Inserting page 60 -> frame 124 into TLB slot 4
+Logical: 0x3C1F | Physical: 0x7C1F | Value: 7
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 5
+Logical: 0x8E10 | Physical: 0x3810 | Value: 0
+Searching TLB for page: 152
+TLB MISS: Page 152 not found in TLB
+Inserting page 152 -> frame 15 into TLB slot 6
+Logical: 0x9840 | Physical: 0x0F40 | Value: 0
+Searching TLB for page: 196
+TLB MISS: Page 196 not found in TLB
+Inserting page 196 -> frame 54 into TLB slot 7
+Logical: 0xC4E6 | Physical: 0x36E6 | Value: 49
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 8
+Logical: 0xC054 | Physical: 0x2154 | Value: 0
+Searching TLB for page: 254
+TLB MISS: Page 254 not found in TLB
+Inserting page 254 -> frame 189 into TLB slot 9
+Logical: 0xFE0B | Physical: 0xBD0B | Value: -126
+Searching TLB for page: 117
+TLB MISS: Page 117 not found in TLB
+Inserting page 117 -> frame 2 into TLB slot 10
+Logical: 0x75A8 | Physical: 0x02A8 | Value: 0
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 11
+Logical: 0xF457 | Physical: 0x0157 | Value: 21
+Searching TLB for page: 182
+TLB MISS: Page 182 not found in TLB
+Inserting page 182 -> frame 216 into TLB slot 12
+Logical: 0xB6D9 | Physical: 0xD8D9 | Value: 0
+Searching TLB for page: 84
+TLB MISS: Page 84 not found in TLB
+Inserting page 84 -> frame 204 into TLB slot 13
+Logical: 0x54B7 | Physical: 0xCCB7 | Value: 45
+Searching TLB for page: 210
+TLB MISS: Page 210 not found in TLB
+Inserting page 210 -> frame 211 into TLB slot 14
+Logical: 0xD24F | Physical: 0xD34F | Value: -109
+Searching TLB for page: 8
+TLB MISS: Page 8 not found in TLB
+Inserting page 8 -> frame 137 into TLB slot 15
+Logical: 0x0832 | Physical: 0x8932 | Value: 2
+Searching TLB for page: 48
+TLB MISS: Page 48 not found in TLB
+Inserting page 48 -> frame 176 into TLB slot 0
+Logical: 0x304C | Physical: 0xB04C | Value: 0
+Searching TLB for page: 177
+TLB MISS: Page 177 not found in TLB
+Inserting page 177 -> frame 179 into TLB slot 1
+Logical: 0xB136 | Physical: 0xB336 | Value: 44
+Searching TLB for page: 197
+TLB MISS: Page 197 not found in TLB
+Inserting page 197 -> frame 72 into TLB slot 2
+Logical: 0xC505 | Physical: 0x4805 | Value: 0
+Searching TLB for page: 143
+TLB MISS: Page 143 not found in TLB
+Inserting page 143 -> frame 139 into TLB slot 3
+Logical: 0x8F43 | Physical: 0x8B43 | Value: -48
+Searching TLB for page: 216
+TLB MISS: Page 216 not found in TLB
+Inserting page 216 -> frame 227 into TLB slot 4
+Logical: 0xD856 | Physical: 0xE356 | Value: 54
+Searching TLB for page: 46
+TLB MISS: Page 46 not found in TLB
+Inserting page 46 -> frame 233 into TLB slot 5
+Logical: 0x2E46 | Physical: 0xE946 | Value: 11
+Searching TLB for page: 191
+TLB MISS: Page 191 not found in TLB
+Inserting page 191 -> frame 197 into TLB slot 6
+Logical: 0xBFE7 | Physical: 0xC5E7 | Value: -7
+Searching TLB for page: 77
+TLB MISS: Page 77 not found in TLB
+Inserting page 77 -> frame 142 into TLB slot 7
+Logical: 0x4DBC | Physical: 0x8EBC | Value: 0
+Searching TLB for page: 80
+TLB MISS: Page 80 not found in TLB
+Inserting page 80 -> frame 222 into TLB slot 8
+Logical: 0x504A | Physical: 0xDE4A | Value: 20
+Searching TLB for page: 75
+TLB MISS: Page 75 not found in TLB
+Inserting page 75 -> frame 55 into TLB slot 9
+Logical: 0x4B13 | Physical: 0x3713 | Value: -60
+Searching TLB for page: 201
+TLB MISS: Page 201 not found in TLB
+Inserting page 201 -> frame 62 into TLB slot 10
+Logical: 0xC91B | Physical: 0x3E1B | Value: 70
+Searching TLB for page: 226
+TLB MISS: Page 226 not found in TLB
+Inserting page 226 -> frame 12 into TLB slot 11
+Logical: 0xE2EA | Physical: 0x0CEA | Value: 56
+Searching TLB for page: 152
+TLB MISS: Page 152 not found in TLB
+Inserting page 152 -> frame 15 into TLB slot 12
+Logical: 0x98A2 | Physical: 0x0FA2 | Value: 38
+Searching TLB for page: 62
+TLB MISS: Page 62 not found in TLB
+Inserting page 62 -> frame 82 into TLB slot 13
+Logical: 0x3EBC | Physical: 0x52BC | Value: 0
+Searching TLB for page: 40
+TLB MISS: Page 40 not found in TLB
+Inserting page 40 -> frame 57 into TLB slot 14
+Logical: 0x28CF | Physical: 0x39CF | Value: 51
+Searching TLB for page: 211
+TLB MISS: Page 211 not found in TLB
+Inserting page 211 -> frame 202 into TLB slot 15
+Logical: 0xD399 | Physical: 0xCA99 | Value: 0
+Searching TLB for page: 80
+TLB HIT: Found page 80 in TLB slot 8 with frame 222
+Logical: 0x509A | Physical: 0xDE9A | Value: 20
+Searching TLB for page: 224
+TLB MISS: Page 224 not found in TLB
+Inserting page 224 -> frame 148 into TLB slot 0
+Logical: 0xE0D3 | Physical: 0x94D3 | Value: 52
+Searching TLB for page: 239
+TLB MISS: Page 239 not found in TLB
+Inserting page 239 -> frame 165 into TLB slot 1
+Logical: 0xEF1A | Physical: 0xA51A | Value: 59
+Searching TLB for page: 1
+TLB MISS: Page 1 not found in TLB
+Inserting page 1 -> frame 223 into TLB slot 2
+Logical: 0x010D | Physical: 0xDF0D | Value: 0
+Searching TLB for page: 129
+TLB MISS: Page 129 not found in TLB
+Inserting page 129 -> frame 209 into TLB slot 3
+Logical: 0x8182 | Physical: 0xD182 | Value: 32
+Searching TLB for page: 251
+TLB MISS: Page 251 not found in TLB
+Inserting page 251 -> frame 19 into TLB slot 4
+Logical: 0xFBE7 | Physical: 0x13E7 | Value: -7
+Searching TLB for page: 239
+TLB HIT: Found page 239 in TLB slot 1 with frame 165
+Logical: 0xEF27 | Physical: 0xA527 | Value: -55
+Searching TLB for page: 184
+TLB MISS: Page 184 not found in TLB
+Inserting page 184 -> frame 116 into TLB slot 5
+Logical: 0xB8BC | Physical: 0x74BC | Value: 0
+Searching TLB for page: 85
+TLB MISS: Page 85 not found in TLB
+Inserting page 85 -> frame 94 into TLB slot 6
+Logical: 0x555C | Physical: 0x5E5C | Value: 0
+Searching TLB for page: 20
+TLB MISS: Page 20 not found in TLB
+Inserting page 20 -> frame 59 into TLB slot 7
+Logical: 0x14A1 | Physical: 0x3BA1 | Value: 0
+Searching TLB for page: 179
+TLB MISS: Page 179 not found in TLB
+Inserting page 179 -> frame 199 into TLB slot 8
+Logical: 0xB358 | Physical: 0xC758 | Value: 0
+Searching TLB for page: 127
+TLB MISS: Page 127 not found in TLB
+Inserting page 127 -> frame 37 into TLB slot 9
+Logical: 0x7F14 | Physical: 0x2514 | Value: 0
+Searching TLB for page: 246
+TLB MISS: Page 246 not found in TLB
+Inserting page 246 -> frame 86 into TLB slot 10
+Logical: 0xF65B | Physical: 0x565B | Value: -106
+Searching TLB for page: 162
+TLB MISS: Page 162 not found in TLB
+Inserting page 162 -> frame 163 into TLB slot 11
+Logical: 0xA2D3 | Physical: 0xA3D3 | Value: -76
+Searching TLB for page: 81
+TLB MISS: Page 81 not found in TLB
+Inserting page 81 -> frame 152 into TLB slot 12
+Logical: 0x51F5 | Physical: 0x98F5 | Value: 0
+Searching TLB for page: 132
+TLB MISS: Page 132 not found in TLB
+Inserting page 132 -> frame 164 into TLB slot 13
+Logical: 0x8459 | Physical: 0xA459 | Value: 0
+Searching TLB for page: 163
+TLB MISS: Page 163 not found in TLB
+Inserting page 163 -> frame 151 into TLB slot 14
+Logical: 0xA339 | Physical: 0x9739 | Value: 0
+Searching TLB for page: 17
+TLB MISS: Page 17 not found in TLB
+Inserting page 17 -> frame 229 into TLB slot 15
+Logical: 0x11E4 | Physical: 0xE5E4 | Value: 0
+Searching TLB for page: 161
+TLB MISS: Page 161 not found in TLB
+Inserting page 161 -> frame 97 into TLB slot 0
+Logical: 0xA1AD | Physical: 0x61AD | Value: 0
+Searching TLB for page: 111
+TLB MISS: Page 111 not found in TLB
+Inserting page 111 -> frame 109 into TLB slot 1
+Logical: 0x6F9C | Physical: 0x6D9C | Value: 0
+Searching TLB for page: 3
+TLB MISS: Page 3 not found in TLB
+Inserting page 3 -> frame 31 into TLB slot 2
+Logical: 0x030E | Physical: 0x1F0E | Value: 0
+Searching TLB for page: 118
+TLB MISS: Page 118 not found in TLB
+Inserting page 118 -> frame 230 into TLB slot 3
+Logical: 0x7641 | Physical: 0xE641 | Value: 0 | [DIRTY]
+Searching TLB for page: 243
+TLB MISS: Page 243 not found in TLB
+Inserting page 243 -> frame 93 into TLB slot 4
+Logical: 0xF33B | Physical: 0x5D3B | Value: -50
+Searching TLB for page: 70
+TLB MISS: Page 70 not found in TLB
+Inserting page 70 -> frame 73 into TLB slot 5
+Logical: 0x4602 | Physical: 0x4902 | Value: 17
+Searching TLB for page: 247
+TLB MISS: Page 247 not found in TLB
+Inserting page 247 -> frame 66 into TLB slot 6
+Logical: 0xF706 | Physical: 0x4206 | Value: 61
+Searching TLB for page: 12
+TLB MISS: Page 12 not found in TLB
+Inserting page 12 -> frame 157 into TLB slot 7
+Logical: 0x0CEC | Physical: 0x9DEC | Value: 0
+Searching TLB for page: 103
+TLB MISS: Page 103 not found in TLB
+Inserting page 103 -> frame 95 into TLB slot 8
+Logical: 0x67B1 | Physical: 0x5FB1 | Value: 0
+Searching TLB for page: 173
+TLB MISS: Page 173 not found in TLB
+Inserting page 173 -> frame 175 into TLB slot 9
+Logical: 0xAD6B | Physical: 0xAF6B | Value: 90
+Searching TLB for page: 152
+TLB MISS: Page 152 not found in TLB
+Inserting page 152 -> frame 15 into TLB slot 10
+Logical: 0x98D0 | Physical: 0x0FD0 | Value: 0
+Searching TLB for page: 84
+TLB MISS: Page 84 not found in TLB
+Inserting page 84 -> frame 204 into TLB slot 11
+Logical: 0x54CA | Physical: 0xCCCA | Value: 21
+Searching TLB for page: 27
+TLB MISS: Page 27 not found in TLB
+Inserting page 27 -> frame 103 into TLB slot 12
+Logical: 0x1BE8 | Physical: 0x67E8 | Value: 0
+Searching TLB for page: 118
+TLB HIT: Found page 118 in TLB slot 3 with frame 230
+Logical: 0x7624 | Physical: 0xE624 | Value: 0
+Searching TLB for page: 14
+TLB MISS: Page 14 not found in TLB
+Inserting page 14 -> frame 39 into TLB slot 13
+Logical: 0x0E8D | Physical: 0x278D | Value: 0
+Searching TLB for page: 213
+TLB MISS: Page 213 not found in TLB
+Inserting page 213 -> frame 190 into TLB slot 14
+Logical: 0xD568 | Physical: 0xBE68 | Value: 0
+Searching TLB for page: 119
+TLB MISS: Page 119 not found in TLB
+Inserting page 119 -> frame 63 into TLB slot 15
+Logical: 0x776E | Physical: 0x3F6E | Value: 29
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 0
+Logical: 0x2119 | Physical: 0x4E19 | Value: 0
+Searching TLB for page: 48
+TLB MISS: Page 48 not found in TLB
+Inserting page 48 -> frame 176 into TLB slot 1
+Logical: 0x3062 | Physical: 0xB062 | Value: 12
+Searching TLB for page: 160
+TLB MISS: Page 160 not found in TLB
+Inserting page 160 -> frame 34 into TLB slot 2
+Logical: 0xA09A | Physical: 0x229A | Value: 40
+Searching TLB for page: 226
+TLB MISS: Page 226 not found in TLB
+Inserting page 226 -> frame 12 into TLB slot 3
+Logical: 0xE24A | Physical: 0x0C4A | Value: 56
+Searching TLB for page: 59
+TLB MISS: Page 59 not found in TLB
+Inserting page 59 -> frame 126 into TLB slot 4
+Logical: 0x3BED | Physical: 0x7EED | Value: 0
+Searching TLB for page: 60
+TLB MISS: Page 60 not found in TLB
+Inserting page 60 -> frame 124 into TLB slot 5
+Logical: 0x3CEE | Physical: 0x7CEE | Value: 15
+Searching TLB for page: 234
+TLB MISS: Page 234 not found in TLB
+Inserting page 234 -> frame 41 into TLB slot 6
+Logical: 0xEA12 | Physical: 0x2912 | Value: 58
+Searching TLB for page: 71
+TLB MISS: Page 71 not found in TLB
+Inserting page 71 -> frame 9 into TLB slot 7
+Logical: 0x4732 | Physical: 0x0932 | Value: 17
+Searching TLB for page: 188
+TLB MISS: Page 188 not found in TLB
+Inserting page 188 -> frame 69 into TLB slot 8
+Logical: 0xBC22 | Physical: 0x4522 | Value: 47
+Searching TLB for page: 161
+TLB MISS: Page 161 not found in TLB
+Inserting page 161 -> frame 97 into TLB slot 9
+Logical: 0xA122 | Physical: 0x6122 | Value: 40
+Searching TLB for page: 5
+TLB MISS: Page 5 not found in TLB
+Inserting page 5 -> frame 201 into TLB slot 10
+Logical: 0x05E8 | Physical: 0xC9E8 | Value: 0
+Searching TLB for page: 9
+TLB MISS: Page 9 not found in TLB
+Inserting page 9 -> frame 18 into TLB slot 11
+Logical: 0x09F2 | Physical: 0x12F2 | Value: 2
+Searching TLB for page: 162
+TLB MISS: Page 162 not found in TLB
+Inserting page 162 -> frame 163 into TLB slot 12
+Logical: 0xA2D2 | Physical: 0xA3D2 | Value: 40
+Searching TLB for page: 1
+TLB MISS: Page 1 not found in TLB
+Inserting page 1 -> frame 223 into TLB slot 13
+Logical: 0x0142 | Physical: 0xDF42 | Value: 0
+Searching TLB for page: 3
+TLB MISS: Page 3 not found in TLB
+Inserting page 3 -> frame 31 into TLB slot 14
+Logical: 0x0370 | Physical: 0x1F70 | Value: 0
+Searching TLB for page: 81
+TLB MISS: Page 81 not found in TLB
+Inserting page 81 -> frame 152 into TLB slot 15
+Logical: 0x519B | Physical: 0x989B | Value: 102
+Searching TLB for page: 221
+TLB MISS: Page 221 not found in TLB
+Inserting page 221 -> frame 52 into TLB slot 0
+Logical: 0xDD1C | Physical: 0x341C | Value: 0
+Searching TLB for page: 156
+TLB MISS: Page 156 not found in TLB
+Inserting page 156 -> frame 4 into TLB slot 1
+Logical: 0x9CE6 | Physical: 0x04E6 | Value: 39
+Searching TLB for page: 104
+TLB MISS: Page 104 not found in TLB
+Inserting page 104 -> frame 166 into TLB slot 2
+Logical: 0x68A7 | Physical: 0xA6A7 | Value: 41
+Searching TLB for page: 174
+TLB MISS: Page 174 not found in TLB
+Inserting page 174 -> frame 43 into TLB slot 3
+Logical: 0xAE10 | Physical: 0x2B10 | Value: 0
+Searching TLB for page: 151
+TLB MISS: Page 151 not found in TLB
+Inserting page 151 -> frame 183 into TLB slot 4
+Logical: 0x972A | Physical: 0xB72A | Value: 37
+Searching TLB for page: 250
+TLB MISS: Page 250 not found in TLB
+Inserting page 250 -> frame 17 into TLB slot 5
+Logical: 0xFA7F | Physical: 0x117F | Value: -97
+Searching TLB for page: 58
+TLB MISS: Page 58 not found in TLB
+Inserting page 58 -> frame 96 into TLB slot 6
+Logical: 0x3AB4 | Physical: 0x60B4 | Value: 0
+Searching TLB for page: 151
+TLB HIT: Found page 151 in TLB slot 4 with frame 183
+Logical: 0x970D | Physical: 0xB70D | Value: 0
+Searching TLB for page: 178
+TLB MISS: Page 178 not found in TLB
+Inserting page 178 -> frame 30 into TLB slot 7
+Logical: 0xB245 | Physical: 0x1E45 | Value: 0
+Searching TLB for page: 168
+TLB MISS: Page 168 not found in TLB
+Inserting page 168 -> frame 68 into TLB slot 8
+Logical: 0xA88F | Physical: 0x448F | Value: 35
+Searching TLB for page: 36
+TLB MISS: Page 36 not found in TLB
+Inserting page 36 -> frame 89 into TLB slot 9
+Logical: 0x24F9 | Physical: 0x59F9 | Value: 0
+Searching TLB for page: 9
+TLB HIT: Found page 9 in TLB slot 11 with frame 18
+Logical: 0x09C2 | Physical: 0x12C2 | Value: 2
+Searching TLB for page: 54
+TLB MISS: Page 54 not found in TLB
+Inserting page 54 -> frame 122 into TLB slot 10
+Logical: 0x369A | Physical: 0x7A9A | Value: 13
+Searching TLB for page: 63
+TLB MISS: Page 63 not found in TLB
+Inserting page 63 -> frame 218 into TLB slot 11
+Logical: 0x3FC6 | Physical: 0xDAC6 | Value: 15
+Searching TLB for page: 200
+TLB MISS: Page 200 not found in TLB
+Inserting page 200 -> frame 127 into TLB slot 12
+Logical: 0xC8F2 | Physical: 0x7FF2 | Value: 50
+Searching TLB for page: 136
+TLB MISS: Page 136 not found in TLB
+Inserting page 136 -> frame 104 into TLB slot 13
+Logical: 0x881D | Physical: 0x681D | Value: 0
+Searching TLB for page: 248
+TLB MISS: Page 248 not found in TLB
+Inserting page 248 -> frame 110 into TLB slot 14
+Logical: 0xF8B3 | Physical: 0x6EB3 | Value: 44
+Searching TLB for page: 153
+TLB MISS: Page 153 not found in TLB
+Inserting page 153 -> frame 217 into TLB slot 15
+Logical: 0x99CA | Physical: 0xD9CA | Value: 38
+Searching TLB for page: 217
+TLB MISS: Page 217 not found in TLB
+Inserting page 217 -> frame 234 into TLB slot 0
+Logical: 0xD977 | Physical: 0xEA77 | Value: 93
+Searching TLB for page: 251
+TLB MISS: Page 251 not found in TLB
+Inserting page 251 -> frame 19 into TLB slot 1
+Logical: 0xFBF0 | Physical: 0x13F0 | Value: 0
+Searching TLB for page: 30
+TLB MISS: Page 30 not found in TLB
+Inserting page 30 -> frame 226 into TLB slot 2
+Logical: 0x1E57 | Physical: 0xE257 | Value: -107
+Searching TLB for page: 24
+TLB MISS: Page 24 not found in TLB
+Inserting page 24 -> frame 29 into TLB slot 3
+Logical: 0x188B | Physical: 0x1D8B | Value: 34
+Searching TLB for page: 218
+TLB MISS: Page 218 not found in TLB
+Inserting page 218 -> frame 135 into TLB slot 4
+Logical: 0xDA4C | Physical: 0x874C | Value: 0
+Searching TLB for page: 238
+TLB MISS: Page 238 not found in TLB
+Inserting page 238 -> frame 23 into TLB slot 5
+Logical: 0xEEAF | Physical: 0x17AF | Value: -85
+Searching TLB for page: 39
+TLB MISS: Page 39 not found in TLB
+Inserting page 39 -> frame 235 into TLB slot 6
+Logical: 0x27C8 | Physical: 0xEBC8 | Value: 0
+Searching TLB for page: 154
+TLB MISS: Page 154 not found in TLB
+Inserting page 154 -> frame 169 into TLB slot 7
+Logical: 0x9A77 | Physical: 0xA977 | Value: -99
+Searching TLB for page: 37
+TLB MISS: Page 37 not found in TLB
+Inserting page 37 -> frame 232 into TLB slot 8
+Logical: 0x2553 | Physical: 0xE853 | Value: 84
+Searching TLB for page: 54
+TLB HIT: Found page 54 in TLB slot 10 with frame 122
+Logical: 0x368B | Physical: 0x7A8B | Value: -94
+Searching TLB for page: 230
+TLB MISS: Page 230 not found in TLB
+Inserting page 230 -> frame 58 into TLB slot 9
+Logical: 0xE65F | Physical: 0x3A5F | Value: -105
+Searching TLB for page: 76
+TLB MISS: Page 76 not found in TLB
+Inserting page 76 -> frame 88 into TLB slot 10
+Logical: 0x4C51 | Physical: 0x5851 | Value: 0
+Searching TLB for page: 23
+TLB MISS: Page 23 not found in TLB
+Inserting page 23 -> frame 36 into TLB slot 11
+Logical: 0x17D5 | Physical: 0x24D5 | Value: 0
+Searching TLB for page: 161
+TLB MISS: Page 161 not found in TLB
+Inserting page 161 -> frame 97 into TLB slot 12
+Logical: 0xA1CD | Physical: 0x61CD | Value: 0
+Searching TLB for page: 177
+TLB MISS: Page 177 not found in TLB
+Inserting page 177 -> frame 179 into TLB slot 13
+Logical: 0xB1BE | Physical: 0xB3BE | Value: 44
+Searching TLB for page: 114
+TLB MISS: Page 114 not found in TLB
+Inserting page 114 -> frame 144 into TLB slot 14
+Logical: 0x7290 | Physical: 0x9090 | Value: 0
+Searching TLB for page: 31
+TLB MISS: Page 31 not found in TLB
+Inserting page 31 -> frame 132 into TLB slot 15
+Logical: 0x1FD5 | Physical: 0x84D5 | Value: 0
+Searching TLB for page: 99
+TLB MISS: Page 99 not found in TLB
+Inserting page 99 -> frame 236 into TLB slot 0
+Logical: 0x636A | Physical: 0xEC6A | Value: 24
+Searching TLB for page: 230
+TLB HIT: Found page 230 in TLB slot 9 with frame 58
+Logical: 0xE640 | Physical: 0x3A40 | Value: 0
+Searching TLB for page: 197
+TLB MISS: Page 197 not found in TLB
+Inserting page 197 -> frame 72 into TLB slot 1
+Logical: 0xC5EA | Physical: 0x48EA | Value: 49
+Searching TLB for page: 90
+TLB MISS: Page 90 not found in TLB
+Inserting page 90 -> frame 140 into TLB slot 2
+Logical: 0x5A2C | Physical: 0x8C2C | Value: 0
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 3
+Logical: 0x8E74 | Physical: 0x3874 | Value: 0
+Searching TLB for page: 131
+TLB MISS: Page 131 not found in TLB
+Inserting page 131 -> frame 237 into TLB slot 4
+Logical: 0x836D | Physical: 0xED6D | Value: 0
+Searching TLB for page: 97
+TLB MISS: Page 97 not found in TLB
+Inserting page 97 -> frame 205 into TLB slot 5
+Logical: 0x61AA | Physical: 0xCDAA | Value: 24
+Searching TLB for page: 209
+TLB MISS: Page 209 not found in TLB
+Inserting page 209 -> frame 3 into TLB slot 6
+Logical: 0xD1D3 | Physical: 0x03D3 | Value: 116
+Searching TLB for page: 235
+TLB MISS: Page 235 not found in TLB
+Inserting page 235 -> frame 225 into TLB slot 7
+Logical: 0xEB0D | Physical: 0xE10D | Value: 0
+Searching TLB for page: 181
+TLB MISS: Page 181 not found in TLB
+Inserting page 181 -> frame 196 into TLB slot 8
+Logical: 0xB512 | Physical: 0xC412 | Value: 45
+Searching TLB for page: 18
+TLB MISS: Page 18 not found in TLB
+Inserting page 18 -> frame 108 into TLB slot 9
+Logical: 0x1264 | Physical: 0x6C64 | Value: 0
+Searching TLB for page: 110
+TLB MISS: Page 110 not found in TLB
+Inserting page 110 -> frame 136 into TLB slot 10
+Logical: 0x6E30 | Physical: 0x8830 | Value: 0
+Searching TLB for page: 229
+TLB MISS: Page 229 not found in TLB
+Inserting page 229 -> frame 215 into TLB slot 11
+Logical: 0xE5DC | Physical: 0xD7DC | Value: 0
+Searching TLB for page: 86
+TLB MISS: Page 86 not found in TLB
+Inserting page 86 -> frame 221 into TLB slot 12
+Logical: 0x569D | Physical: 0xDD9D | Value: 0
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 13
+Logical: 0x2157 | Physical: 0x4E57 | Value: 85
+Searching TLB for page: 165
+TLB MISS: Page 165 not found in TLB
+Inserting page 165 -> frame 42 into TLB slot 14
+Logical: 0xA515 | Physical: 0x2A15 | Value: 0
+Searching TLB for page: 115
+TLB MISS: Page 115 not found in TLB
+Inserting page 115 -> frame 193 into TLB slot 15
+Logical: 0x73F7 | Physical: 0xC1F7 | Value: -3
+Searching TLB for page: 147
+TLB MISS: Page 147 not found in TLB
+Inserting page 147 -> frame 114 into TLB slot 0
+Logical: 0x93A7 | Physical: 0x72A7 | Value: -23
+Searching TLB for page: 88
+TLB MISS: Page 88 not found in TLB
+Inserting page 88 -> frame 11 into TLB slot 1
+Logical: 0x5826 | Physical: 0x0B26 | Value: 22
+Searching TLB for page: 244
+TLB MISS: Page 244 not found in TLB
+Inserting page 244 -> frame 1 into TLB slot 2
+Logical: 0xF438 | Physical: 0x0138 | Value: 0
+Searching TLB for page: 16
+TLB MISS: Page 16 not found in TLB
+Inserting page 16 -> frame 198 into TLB slot 3
+Logical: 0x1002 | Physical: 0xC602 | Value: 4
+Searching TLB for page: 187
+TLB MISS: Page 187 not found in TLB
+Inserting page 187 -> frame 100 into TLB slot 4
+Logical: 0xBB7F | Physical: 0x647F | Value: -33
+Searching TLB for page: 193
+TLB MISS: Page 193 not found in TLB
+Inserting page 193 -> frame 177 into TLB slot 5
+Logical: 0xC1FC | Physical: 0xB1FC | Value: 0
+Searching TLB for page: 144
+TLB MISS: Page 144 not found in TLB
+Inserting page 144 -> frame 71 into TLB slot 6
+Logical: 0x90C7 | Physical: 0x47C7 | Value: 49
+Searching TLB for page: 163
+TLB MISS: Page 163 not found in TLB
+Inserting page 163 -> frame 151 into TLB slot 7
+Logical: 0xA380 | Physical: 0x9780 | Value: 0
+Searching TLB for page: 21
+TLB MISS: Page 21 not found in TLB
+Inserting page 21 -> frame 84 into TLB slot 8
+Logical: 0x1529 | Physical: 0x5429 | Value: 0
+Searching TLB for page: 190
+TLB MISS: Page 190 not found in TLB
+Inserting page 190 -> frame 128 into TLB slot 9
+Logical: 0xBED8 | Physical: 0x80D8 | Value: 0
+Searching TLB for page: 41
+TLB MISS: Page 41 not found in TLB
+Inserting page 41 -> frame 107 into TLB slot 10
+Logical: 0x29BA | Physical: 0x6BBA | Value: 10
+Searching TLB for page: 87
+TLB MISS: Page 87 not found in TLB
+Inserting page 87 -> frame 44 into TLB slot 11
+Logical: 0x5762 | Physical: 0x2C62 | Value: 21
+Searching TLB for page: 247
+TLB MISS: Page 247 not found in TLB
+Inserting page 247 -> frame 66 into TLB slot 12
+Logical: 0xF731 | Physical: 0x4231 | Value: 0
+Searching TLB for page: 243
+TLB MISS: Page 243 not found in TLB
+Inserting page 243 -> frame 93 into TLB slot 13
+Logical: 0xF3F4 | Physical: 0x5DF4 | Value: 0
+Searching TLB for page: 197
+TLB MISS: Page 197 not found in TLB
+Inserting page 197 -> frame 72 into TLB slot 14
+Logical: 0xC564 | Physical: 0x4864 | Value: 0
+Searching TLB for page: 35
+TLB MISS: Page 35 not found in TLB
+Inserting page 35 -> frame 188 into TLB slot 15
+Logical: 0x233E | Physical: 0xBC3E | Value: 8
+Searching TLB for page: 231
+TLB MISS: Page 231 not found in TLB
+Inserting page 231 -> frame 40 into TLB slot 0
+Logical: 0xE7A4 | Physical: 0x28A4 | Value: 0
+Searching TLB for page: 229
+TLB MISS: Page 229 not found in TLB
+Inserting page 229 -> frame 215 into TLB slot 1
+Logical: 0xE524 | Physical: 0xD724 | Value: 0
+Searching TLB for page: 220
+TLB MISS: Page 220 not found in TLB
+Inserting page 220 -> frame 200 into TLB slot 2
+Logical: 0xDC51 | Physical: 0xC851 | Value: 0
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 3
+Logical: 0x2146 | Physical: 0x4E46 | Value: 8
+Searching TLB for page: 246
+TLB MISS: Page 246 not found in TLB
+Inserting page 246 -> frame 86 into TLB slot 4
+Logical: 0xF65A | Physical: 0x565A | Value: 61
+Searching TLB for page: 247
+TLB HIT: Found page 247 in TLB slot 12 with frame 66
+Logical: 0xF712 | Physical: 0x4212 | Value: 61
+Searching TLB for page: 189
+TLB MISS: Page 189 not found in TLB
+Inserting page 189 -> frame 7 into TLB slot 5
+Logical: 0xBDD0 | Physical: 0x07D0 | Value: 0
+Searching TLB for page: 112
+TLB MISS: Page 112 not found in TLB
+Inserting page 112 -> frame 5 into TLB slot 6
+Logical: 0x7063 | Physical: 0x0563 | Value: 24
+Searching TLB for page: 147
+TLB MISS: Page 147 not found in TLB
+Inserting page 147 -> frame 114 into TLB slot 7
+Logical: 0x9329 | Physical: 0x7229 | Value: 0
+Searching TLB for page: 237
+TLB MISS: Page 237 not found in TLB
+Inserting page 237 -> frame 92 into TLB slot 8
+Logical: 0xED68 | Physical: 0x5C68 | Value: 0
+Searching TLB for page: 220
+TLB HIT: Found page 220 in TLB slot 2 with frame 200
+Logical: 0xDC76 | Physical: 0xC876 | Value: 55
+Searching TLB for page: 236
+TLB MISS: Page 236 not found in TLB
+Inserting page 236 -> frame 28 into TLB slot 9
+Logical: 0xEC08 | Physical: 0x1C08 | Value: 0
+Searching TLB for page: 156
+TLB MISS: Page 156 not found in TLB
+Inserting page 156 -> frame 4 into TLB slot 10
+Logical: 0x9C39 | Physical: 0x0439 | Value: 0
+Searching TLB for page: 218
+TLB MISS: Page 218 not found in TLB
+Inserting page 218 -> frame 135 into TLB slot 11
+Logical: 0xDAC4 | Physical: 0x87C4 | Value: 0
+Searching TLB for page: 230
+TLB MISS: Page 230 not found in TLB
+Inserting page 230 -> frame 58 into TLB slot 12
+Logical: 0xE67A | Physical: 0x3A7A | Value: 57
+Searching TLB for page: 132
+TLB MISS: Page 132 not found in TLB
+Inserting page 132 -> frame 164 into TLB slot 13
+Logical: 0x84BE | Physical: 0xA4BE | Value: 33
+Searching TLB for page: 99
+TLB MISS: Page 99 not found in TLB
+Inserting page 99 -> frame 236 into TLB slot 14
+Logical: 0x639A | Physical: 0xEC9A | Value: 24
+Searching TLB for page: 222
+TLB MISS: Page 222 not found in TLB
+Inserting page 222 -> frame 146 into TLB slot 15
+Logical: 0xDED7 | Physical: 0x92D7 | Value: -75
+Searching TLB for page: 5
+TLB MISS: Page 5 not found in TLB
+Inserting page 5 -> frame 201 into TLB slot 0
+Logical: 0x0579 | Physical: 0xC979 | Value: 0
+Searching TLB for page: 59
+TLB MISS: Page 59 not found in TLB
+Inserting page 59 -> frame 126 into TLB slot 1
+Logical: 0x3B1A | Physical: 0x7E1A | Value: 14
+Searching TLB for page: 167
+TLB MISS: Page 167 not found in TLB
+Inserting page 167 -> frame 76 into TLB slot 2
+Logical: 0xA7D0 | Physical: 0x4CD0 | Value: 0
+Searching TLB for page: 241
+TLB MISS: Page 241 not found in TLB
+Inserting page 241 -> frame 87 into TLB slot 3
+Logical: 0xF183 | Physical: 0x5783 | Value: 96
+Searching TLB for page: 126
+TLB MISS: Page 126 not found in TLB
+Inserting page 126 -> frame 27 into TLB slot 4
+Logical: 0x7EBA | Physical: 0x1BBA | Value: 31
+Searching TLB for page: 251
+TLB MISS: Page 251 not found in TLB
+Inserting page 251 -> frame 19 into TLB slot 5
+Logical: 0xFB30 | Physical: 0x1330 | Value: 0
+Searching TLB for page: 118
+TLB MISS: Page 118 not found in TLB
+Inserting page 118 -> frame 230 into TLB slot 6
+Logical: 0x7641 | Physical: 0xE641 | Value: 1
+Searching TLB for page: 148
+TLB MISS: Page 148 not found in TLB
+Inserting page 148 -> frame 145 into TLB slot 7
+Logical: 0x94C2 | Physical: 0x91C2 | Value: 37
+Searching TLB for page: 87
+TLB MISS: Page 87 not found in TLB
+Inserting page 87 -> frame 44 into TLB slot 8
+Logical: 0x5784 | Physical: 0x2C84 | Value: 0
+Searching TLB for page: 14
+TLB MISS: Page 14 not found in TLB
+Inserting page 14 -> frame 39 into TLB slot 9
+Logical: 0x0EE0 | Physical: 0x27E0 | Value: 0
+Searching TLB for page: 65
+TLB MISS: Page 65 not found in TLB
+Inserting page 65 -> frame 187 into TLB slot 10
+Logical: 0x41F3 | Physical: 0xBBF3 | Value: 124
+Searching TLB for page: 90
+TLB MISS: Page 90 not found in TLB
+Inserting page 90 -> frame 140 into TLB slot 11
+Logical: 0x5A47 | Physical: 0x8C47 | Value: -111
+Searching TLB for page: 243
+TLB MISS: Page 243 not found in TLB
+Inserting page 243 -> frame 93 into TLB slot 12
+Logical: 0xF3D1 | Physical: 0x5DD1 | Value: 0
+Searching TLB for page: 235
+TLB MISS: Page 235 not found in TLB
+Inserting page 235 -> frame 225 into TLB slot 13
+Logical: 0xEBCC | Physical: 0xE1CC | Value: 0
+Searching TLB for page: 17
+TLB MISS: Page 17 not found in TLB
+Inserting page 17 -> frame 229 into TLB slot 14
+Logical: 0x11BE | Physical: 0xE5BE | Value: 4
+Searching TLB for page: 57
+TLB MISS: Page 57 not found in TLB
+Inserting page 57 -> frame 130 into TLB slot 15
+Logical: 0x39ED | Physical: 0x82ED | Value: 0
+Searching TLB for page: 175
+TLB MISS: Page 175 not found in TLB
+Inserting page 175 -> frame 51 into TLB slot 0
+Logical: 0xAFA4 | Physical: 0x33A4 | Value: 0
+Searching TLB for page: 132
+TLB MISS: Page 132 not found in TLB
+Inserting page 132 -> frame 164 into TLB slot 1
+Logical: 0x8484 | Physical: 0xA484 | Value: 0
+Searching TLB for page: 8
+TLB MISS: Page 8 not found in TLB
+Inserting page 8 -> frame 137 into TLB slot 2
+Logical: 0x085D | Physical: 0x895D | Value: 0
+Searching TLB for page: 75
+TLB MISS: Page 75 not found in TLB
+Inserting page 75 -> frame 55 into TLB slot 3
+Logical: 0x4B2D | Physical: 0x372D | Value: 0
+Searching TLB for page: 184
+TLB MISS: Page 184 not found in TLB
+Inserting page 184 -> frame 116 into TLB slot 4
+Logical: 0xB840 | Physical: 0x7440 | Value: 0
+Searching TLB for page: 93
+TLB MISS: Page 93 not found in TLB
+Inserting page 93 -> frame 154 into TLB slot 5
+Logical: 0x5DF0 | Physical: 0x9AF0 | Value: 0
+Searching TLB for page: 3
+TLB MISS: Page 3 not found in TLB
+Inserting page 3 -> frame 31 into TLB slot 6
+Logical: 0x03FE | Physical: 0x1FFE | Value: 0
+Searching TLB for page: 90
+TLB HIT: Found page 90 in TLB slot 11 with frame 140
+Logical: 0x5A23 | Physical: 0x8C23 | Value: -120
+Searching TLB for page: 97
+TLB MISS: Page 97 not found in TLB
+Inserting page 97 -> frame 205 into TLB slot 7
+Logical: 0x6138 | Physical: 0xCD38 | Value: 0
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 8
+Logical: 0xC05F | Physical: 0x215F | Value: 23
+Searching TLB for page: 19
+TLB MISS: Page 19 not found in TLB
+Inserting page 19 -> frame 53 into TLB slot 9
+Logical: 0x1324 | Physical: 0x3524 | Value: 0
+Searching TLB for page: 88
+TLB MISS: Page 88 not found in TLB
+Inserting page 88 -> frame 11 into TLB slot 10
+Logical: 0x5880 | Physical: 0x0B80 | Value: 0
+Searching TLB for page: 133
+TLB MISS: Page 133 not found in TLB
+Inserting page 133 -> frame 238 into TLB slot 11
+Logical: 0x8545 | Physical: 0xEE45 | Value: 0
+Searching TLB for page: 217
+TLB MISS: Page 217 not found in TLB
+Inserting page 217 -> frame 234 into TLB slot 12
+Logical: 0xD903 | Physical: 0xEA03 | Value: 64
+Searching TLB for page: 191
+TLB MISS: Page 191 not found in TLB
+Inserting page 191 -> frame 197 into TLB slot 13
+Logical: 0xBF33 | Physical: 0xC533 | Value: -52
+Searching TLB for page: 232
+TLB MISS: Page 232 not found in TLB
+Inserting page 232 -> frame 101 into TLB slot 14
+Logical: 0xE88D | Physical: 0x658D | Value: 0
+Searching TLB for page: 83
+TLB MISS: Page 83 not found in TLB
+Inserting page 83 -> frame 35 into TLB slot 15
+Logical: 0x5340 | Physical: 0x2340 | Value: 0
+Searching TLB for page: 83
+TLB HIT: Found page 83 in TLB slot 15 with frame 35
+Logical: 0x53A7 | Physical: 0x23A7 | Value: -23
+Searching TLB for page: 3
+TLB HIT: Found page 3 in TLB slot 6 with frame 31
+Logical: 0x032D | Physical: 0x1F2D | Value: 0
+Searching TLB for page: 75
+TLB HIT: Found page 75 in TLB slot 3 with frame 55
+Logical: 0x4BDB | Physical: 0x37DB | Value: -10
+Searching TLB for page: 7
+TLB MISS: Page 7 not found in TLB
+Inserting page 7 -> frame 129 into TLB slot 0
+Logical: 0x07CF | Physical: 0x81CF | Value: -13
+Searching TLB for page: 78
+TLB MISS: Page 78 not found in TLB
+Inserting page 78 -> frame 158 into TLB slot 1
+Logical: 0x4EBB | Physical: 0x9EBB | Value: -82
+Searching TLB for page: 84
+TLB MISS: Page 84 not found in TLB
+Inserting page 84 -> frame 204 into TLB slot 2
+Logical: 0x5411 | Physical: 0xCC11 | Value: 0
+Searching TLB for page: 53
+TLB MISS: Page 53 not found in TLB
+Inserting page 53 -> frame 207 into TLB slot 3
+Logical: 0x3566 | Physical: 0xCF66 | Value: 13
+Searching TLB for page: 75
+TLB MISS: Page 75 not found in TLB
+Inserting page 75 -> frame 55 into TLB slot 4
+Logical: 0x4B59 | Physical: 0x3759 | Value: 0
+Searching TLB for page: 228
+TLB MISS: Page 228 not found in TLB
+Inserting page 228 -> frame 60 into TLB slot 5
+Logical: 0xE473 | Physical: 0x3C73 | Value: 28
+Searching TLB for page: 161
+TLB MISS: Page 161 not found in TLB
+Inserting page 161 -> frame 97 into TLB slot 6
+Logical: 0xA166 | Physical: 0x6166 | Value: 40
+Searching TLB for page: 63
+TLB MISS: Page 63 not found in TLB
+Inserting page 63 -> frame 218 into TLB slot 7
+Logical: 0x3F17 | Physical: 0xDA17 | Value: -59
+Searching TLB for page: 53
+TLB HIT: Found page 53 in TLB slot 3 with frame 207
+Logical: 0x352B | Physical: 0xCF2B | Value: 74
+Searching TLB for page: 84
+TLB HIT: Found page 84 in TLB slot 2 with frame 204
+Logical: 0x540A | Physical: 0xCC0A | Value: 21
+Searching TLB for page: 52
+TLB MISS: Page 52 not found in TLB
+Inserting page 52 -> frame 141 into TLB slot 8
+Logical: 0x34BB | Physical: 0x8DBB | Value: 46
+Searching TLB for page: 178
+TLB MISS: Page 178 not found in TLB
+Inserting page 178 -> frame 30 into TLB slot 9
+Logical: 0xB20F | Physical: 0x1E0F | Value: -125
+Searching TLB for page: 191
+TLB HIT: Found page 191 in TLB slot 13 with frame 197
+Logical: 0xBF75 | Physical: 0xC575 | Value: 0
+Searching TLB for page: 253
+TLB MISS: Page 253 not found in TLB
+Inserting page 253 -> frame 8 into TLB slot 10
+Logical: 0xFD4B | Physical: 0x084B | Value: 82
+Searching TLB for page: 247
+TLB MISS: Page 247 not found in TLB
+Inserting page 247 -> frame 66 into TLB slot 11
+Logical: 0xF7FD | Physical: 0x42FD | Value: 0
+Searching TLB for page: 151
+TLB MISS: Page 151 not found in TLB
+Inserting page 151 -> frame 183 into TLB slot 12
+Logical: 0x9729 | Physical: 0xB729 | Value: 0
+Searching TLB for page: 231
+TLB MISS: Page 231 not found in TLB
+Inserting page 231 -> frame 40 into TLB slot 13
+Logical: 0xE734 | Physical: 0x2834 | Value: 0
+Searching TLB for page: 96
+TLB MISS: Page 96 not found in TLB
+Inserting page 96 -> frame 150 into TLB slot 14
+Logical: 0x6011 | Physical: 0x9611 | Value: 0
+Searching TLB for page: 225
+TLB MISS: Page 225 not found in TLB
+Inserting page 225 -> frame 239 into TLB slot 15
+Logical: 0xE129 | Physical: 0xEF29 | Value: 0
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 0
+Logical: 0x8EAC | Physical: 0x38AC | Value: 0 | [DIRTY]
+Searching TLB for page: 222
+TLB MISS: Page 222 not found in TLB
+Inserting page 222 -> frame 146 into TLB slot 1
+Logical: 0xDE94 | Physical: 0x9294 | Value: 0
+Searching TLB for page: 143
+TLB MISS: Page 143 not found in TLB
+Inserting page 143 -> frame 139 into TLB slot 2
+Logical: 0x8FCA | Physical: 0x8BCA | Value: 35
+Searching TLB for page: 23
+TLB MISS: Page 23 not found in TLB
+Inserting page 23 -> frame 36 into TLB slot 3
+Logical: 0x17D0 | Physical: 0x24D0 | Value: 0
+Searching TLB for page: 43
+TLB MISS: Page 43 not found in TLB
+Inserting page 43 -> frame 156 into TLB slot 4
+Logical: 0x2B3E | Physical: 0x9C3E | Value: 10
+Searching TLB for page: 234
+TLB MISS: Page 234 not found in TLB
+Inserting page 234 -> frame 41 into TLB slot 5
+Logical: 0xEADC | Physical: 0x29DC | Value: 0
+Searching TLB for page: 146
+TLB MISS: Page 146 not found in TLB
+Inserting page 146 -> frame 83 into TLB slot 6
+Logical: 0x92C8 | Physical: 0x53C8 | Value: 0
+Searching TLB for page: 58
+TLB MISS: Page 58 not found in TLB
+Inserting page 58 -> frame 96 into TLB slot 7
+Logical: 0x3AF8 | Physical: 0x60F8 | Value: 0
+Searching TLB for page: 176
+TLB MISS: Page 176 not found in TLB
+Inserting page 176 -> frame 191 into TLB slot 8
+Logical: 0xB0BF | Physical: 0xBFBF | Value: 47
+Searching TLB for page: 128
+TLB MISS: Page 128 not found in TLB
+Inserting page 128 -> frame 16 into TLB slot 9
+Logical: 0x800F | Physical: 0x100F | Value: 3
+Searching TLB for page: 228
+TLB MISS: Page 228 not found in TLB
+Inserting page 228 -> frame 60 into TLB slot 10
+Logical: 0xE416 | Physical: 0x3C16 | Value: 57
+Searching TLB for page: 237
+TLB MISS: Page 237 not found in TLB
+Inserting page 237 -> frame 92 into TLB slot 11
+Logical: 0xEDC9 | Physical: 0x5CC9 | Value: 0
+Searching TLB for page: 92
+TLB MISS: Page 92 not found in TLB
+Inserting page 92 -> frame 214 into TLB slot 12
+Logical: 0x5CA7 | Physical: 0xD6A7 | Value: 41
+Searching TLB for page: 95
+TLB MISS: Page 95 not found in TLB
+Inserting page 95 -> frame 6 into TLB slot 13
+Logical: 0x5F41 | Physical: 0x0641 | Value: 0
+Searching TLB for page: 87
+TLB MISS: Page 87 not found in TLB
+Inserting page 87 -> frame 44 into TLB slot 14
+Logical: 0x5723 | Physical: 0x2C23 | Value: -56
+Searching TLB for page: 67
+TLB MISS: Page 67 not found in TLB
+Inserting page 67 -> frame 240 into TLB slot 15
+Logical: 0x43DF | Physical: 0xF0DF | Value: -9
+Searching TLB for page: 62
+TLB MISS: Page 62 not found in TLB
+Inserting page 62 -> frame 82 into TLB slot 0
+Logical: 0x3E76 | Physical: 0x5276 | Value: 15
+Searching TLB for page: 80
+TLB MISS: Page 80 not found in TLB
+Inserting page 80 -> frame 222 into TLB slot 1
+Logical: 0x502E | Physical: 0xDE2E | Value: 20
+Searching TLB for page: 101
+TLB MISS: Page 101 not found in TLB
+Inserting page 101 -> frame 143 into TLB slot 2
+Logical: 0x6530 | Physical: 0x8F30 | Value: 0
+Searching TLB for page: 164
+TLB MISS: Page 164 not found in TLB
+Inserting page 164 -> frame 180 into TLB slot 3
+Logical: 0xA4F0 | Physical: 0xB4F0 | Value: 0
+Searching TLB for page: 36
+TLB MISS: Page 36 not found in TLB
+Inserting page 36 -> frame 89 into TLB slot 4
+Logical: 0x245F | Physical: 0x595F | Value: 23
+Searching TLB for page: 30
+TLB MISS: Page 30 not found in TLB
+Inserting page 30 -> frame 226 into TLB slot 5
+Logical: 0x1EB6 | Physical: 0xE2B6 | Value: 7
+Searching TLB for page: 14
+TLB MISS: Page 14 not found in TLB
+Inserting page 14 -> frame 39 into TLB slot 6
+Logical: 0x0EFB | Physical: 0x27FB | Value: -66
+Searching TLB for page: 119
+TLB MISS: Page 119 not found in TLB
+Inserting page 119 -> frame 63 into TLB slot 7
+Logical: 0x7747 | Physical: 0x3F47 | Value: -47
+Searching TLB for page: 254
+TLB MISS: Page 254 not found in TLB
+Inserting page 254 -> frame 189 into TLB slot 8
+Logical: 0xFE9B | Physical: 0xBD9B | Value: -90
+Searching TLB for page: 224
+TLB MISS: Page 224 not found in TLB
+Inserting page 224 -> frame 148 into TLB slot 9
+Logical: 0xE02B | Physical: 0x942B | Value: 10
+Searching TLB for page: 248
+TLB MISS: Page 248 not found in TLB
+Inserting page 248 -> frame 110 into TLB slot 10
+Logical: 0xF85B | Physical: 0x6E5B | Value: 22
+Searching TLB for page: 19
+TLB MISS: Page 19 not found in TLB
+Inserting page 19 -> frame 53 into TLB slot 11
+Logical: 0x1352 | Physical: 0x3552 | Value: 4
+Searching TLB for page: 35
+TLB MISS: Page 35 not found in TLB
+Inserting page 35 -> frame 188 into TLB slot 12
+Logical: 0x234D | Physical: 0xBC4D | Value: 0
+Searching TLB for page: 238
+TLB MISS: Page 238 not found in TLB
+Inserting page 238 -> frame 23 into TLB slot 13
+Logical: 0xEE69 | Physical: 0x1769 | Value: 0
+Searching TLB for page: 216
+TLB MISS: Page 216 not found in TLB
+Inserting page 216 -> frame 227 into TLB slot 14
+Logical: 0xD8F7 | Physical: 0xE3F7 | Value: 61
+Searching TLB for page: 196
+TLB MISS: Page 196 not found in TLB
+Inserting page 196 -> frame 54 into TLB slot 15
+Logical: 0xC4B9 | Physical: 0x36B9 | Value: 0
+Searching TLB for page: 25
+TLB MISS: Page 25 not found in TLB
+Inserting page 25 -> frame 113 into TLB slot 0
+Logical: 0x1950 | Physical: 0x7150 | Value: 0
+Searching TLB for page: 54
+TLB MISS: Page 54 not found in TLB
+Inserting page 54 -> frame 122 into TLB slot 1
+Logical: 0x36DA | Physical: 0x7ADA | Value: 13
+Searching TLB for page: 84
+TLB MISS: Page 84 not found in TLB
+Inserting page 84 -> frame 204 into TLB slot 2
+Logical: 0x541B | Physical: 0xCC1B | Value: 6
+Searching TLB for page: 153
+TLB MISS: Page 153 not found in TLB
+Inserting page 153 -> frame 217 into TLB slot 3
+Logical: 0x991B | Physical: 0xD91B | Value: 70
+Searching TLB for page: 146
+TLB MISS: Page 146 not found in TLB
+Inserting page 146 -> frame 83 into TLB slot 4
+Logical: 0x9287 | Physical: 0x5387 | Value: -95
+Searching TLB for page: 92
+TLB MISS: Page 92 not found in TLB
+Inserting page 92 -> frame 214 into TLB slot 5
+Logical: 0x5C90 | Physical: 0xD690 | Value: 0
+Searching TLB for page: 107
+TLB MISS: Page 107 not found in TLB
+Inserting page 107 -> frame 61 into TLB slot 6
+Logical: 0x6B30 | Physical: 0x3D30 | Value: 0
+Searching TLB for page: 110
+TLB MISS: Page 110 not found in TLB
+Inserting page 110 -> frame 136 into TLB slot 7
+Logical: 0x6E29 | Physical: 0x8829 | Value: 0
+Searching TLB for page: 90
+TLB MISS: Page 90 not found in TLB
+Inserting page 90 -> frame 140 into TLB slot 8
+Logical: 0x5A20 | Physical: 0x8C20 | Value: 0
+Searching TLB for page: 30
+TLB MISS: Page 30 not found in TLB
+Inserting page 30 -> frame 226 into TLB slot 9
+Logical: 0x1E86 | Physical: 0xE286 | Value: 7
+Searching TLB for page: 25
+TLB HIT: Found page 25 in TLB slot 0 with frame 113
+Logical: 0x1998 | Physical: 0x7198 | Value: 0
+Searching TLB for page: 170
+TLB MISS: Page 170 not found in TLB
+Inserting page 170 -> frame 49 into TLB slot 10
+Logical: 0xAA75 | Physical: 0x3175 | Value: 0
+Searching TLB for page: 137
+TLB MISS: Page 137 not found in TLB
+Inserting page 137 -> frame 155 into TLB slot 11
+Logical: 0x8929 | Physical: 0x9B29 | Value: 0
+Searching TLB for page: 136
+TLB MISS: Page 136 not found in TLB
+Inserting page 136 -> frame 104 into TLB slot 12
+Logical: 0x884A | Physical: 0x684A | Value: 34
+Searching TLB for page: 239
+TLB MISS: Page 239 not found in TLB
+Inserting page 239 -> frame 165 into TLB slot 13
+Logical: 0xEF71 | Physical: 0xA571 | Value: 0
+Searching TLB for page: 178
+TLB MISS: Page 178 not found in TLB
+Inserting page 178 -> frame 30 into TLB slot 14
+Logical: 0xB241 | Physical: 0x1E41 | Value: 0
+Searching TLB for page: 239
+TLB HIT: Found page 239 in TLB slot 13 with frame 165
+Logical: 0xEFF7 | Physical: 0xA5F7 | Value: -3
+Searching TLB for page: 179
+TLB MISS: Page 179 not found in TLB
+Inserting page 179 -> frame 199 into TLB slot 15
+Logical: 0xB3D0 | Physical: 0xC7D0 | Value: 0
+Searching TLB for page: 73
+TLB MISS: Page 73 not found in TLB
+Inserting page 73 -> frame 241 into TLB slot 0
+Logical: 0x4956 | Physical: 0xF156 | Value: 18
+Searching TLB for page: 246
+TLB MISS: Page 246 not found in TLB
+Inserting page 246 -> frame 86 into TLB slot 1
+Logical: 0xF60F | Physical: 0x560F | Value: -125
+Searching TLB for page: 109
+TLB MISS: Page 109 not found in TLB
+Inserting page 109 -> frame 13 into TLB slot 2
+Logical: 0x6D9B | Physical: 0x0D9B | Value: 102
+Searching TLB for page: 137
+TLB HIT: Found page 137 in TLB slot 11 with frame 155
+Logical: 0x899D | Physical: 0x9B9D | Value: 0
+Searching TLB for page: 200
+TLB MISS: Page 200 not found in TLB
+Inserting page 200 -> frame 127 into TLB slot 3
+Logical: 0xC81E | Physical: 0x7F1E | Value: 50
+Searching TLB for page: 56
+TLB MISS: Page 56 not found in TLB
+Inserting page 56 -> frame 22 into TLB slot 4
+Logical: 0x3845 | Physical: 0x1645 | Value: 0
+Searching TLB for page: 204
+TLB MISS: Page 204 not found in TLB
+Inserting page 204 -> frame 182 into TLB slot 5
+Logical: 0xCC12 | Physical: 0xB612 | Value: 51
+Searching TLB for page: 168
+TLB MISS: Page 168 not found in TLB
+Inserting page 168 -> frame 68 into TLB slot 6
+Logical: 0xA891 | Physical: 0x4491 | Value: 0
+Searching TLB for page: 10
+TLB MISS: Page 10 not found in TLB
+Inserting page 10 -> frame 210 into TLB slot 7
+Logical: 0x0A95 | Physical: 0xD295 | Value: 0
+Searching TLB for page: 187
+TLB MISS: Page 187 not found in TLB
+Inserting page 187 -> frame 100 into TLB slot 8
+Logical: 0xBB5B | Physical: 0x645B | Value: -42
+Searching TLB for page: 144
+TLB MISS: Page 144 not found in TLB
+Inserting page 144 -> frame 71 into TLB slot 9
+Logical: 0x904F | Physical: 0x474F | Value: 19
+Searching TLB for page: 211
+TLB MISS: Page 211 not found in TLB
+Inserting page 211 -> frame 202 into TLB slot 10
+Logical: 0xD332 | Physical: 0xCA32 | Value: 52
+Searching TLB for page: 39
+TLB MISS: Page 39 not found in TLB
+Inserting page 39 -> frame 235 into TLB slot 11
+Logical: 0x2746 | Physical: 0xEB46 | Value: 9
+Searching TLB for page: 168
+TLB HIT: Found page 168 in TLB slot 6 with frame 68
+Logical: 0xA82B | Physical: 0x442B | Value: 10
+Searching TLB for page: 45
+TLB MISS: Page 45 not found in TLB
+Inserting page 45 -> frame 162 into TLB slot 12
+Logical: 0x2D05 | Physical: 0xA205 | Value: 0
+Searching TLB for page: 69
+TLB MISS: Page 69 not found in TLB
+Inserting page 69 -> frame 38 into TLB slot 13
+Logical: 0x4514 | Physical: 0x2614 | Value: 0
+Searching TLB for page: 162
+TLB MISS: Page 162 not found in TLB
+Inserting page 162 -> frame 163 into TLB slot 14
+Logical: 0xA2D1 | Physical: 0xA3D1 | Value: 0
+Searching TLB for page: 108
+TLB MISS: Page 108 not found in TLB
+Inserting page 108 -> frame 172 into TLB slot 15
+Logical: 0x6CEB | Physical: 0xACEB | Value: 58
+Searching TLB for page: 222
+TLB MISS: Page 222 not found in TLB
+Inserting page 222 -> frame 146 into TLB slot 0
+Logical: 0xDE4D | Physical: 0x924D | Value: 0
+Searching TLB for page: 178
+TLB MISS: Page 178 not found in TLB
+Inserting page 178 -> frame 30 into TLB slot 1
+Logical: 0xB2CC | Physical: 0x1ECC | Value: 0
+Searching TLB for page: 107
+TLB MISS: Page 107 not found in TLB
+Inserting page 107 -> frame 61 into TLB slot 2
+Logical: 0x6B68 | Physical: 0x3D68 | Value: 0
+Searching TLB for page: 182
+TLB MISS: Page 182 not found in TLB
+Inserting page 182 -> frame 216 into TLB slot 3
+Logical: 0xB6FA | Physical: 0xD8FA | Value: 45
+Searching TLB for page: 151
+TLB MISS: Page 151 not found in TLB
+Inserting page 151 -> frame 183 into TLB slot 4
+Logical: 0x974E | Physical: 0xB74E | Value: 37
+Searching TLB for page: 113
+TLB MISS: Page 113 not found in TLB
+Inserting page 113 -> frame 64 into TLB slot 5
+Logical: 0x712C | Physical: 0x402C | Value: 0
+Searching TLB for page: 233
+TLB MISS: Page 233 not found in TLB
+Inserting page 233 -> frame 185 into TLB slot 6
+Logical: 0xE924 | Physical: 0xB924 | Value: 0
+Searching TLB for page: 44
+TLB MISS: Page 44 not found in TLB
+Inserting page 44 -> frame 212 into TLB slot 7
+Logical: 0x2C78 | Physical: 0xD478 | Value: 0
+Searching TLB for page: 82
+TLB MISS: Page 82 not found in TLB
+Inserting page 82 -> frame 147 into TLB slot 8
+Logical: 0x521A | Physical: 0x931A | Value: 20
+Searching TLB for page: 8
+TLB MISS: Page 8 not found in TLB
+Inserting page 8 -> frame 137 into TLB slot 9
+Logical: 0x0890 | Physical: 0x8990 | Value: 0
+Searching TLB for page: 71
+TLB MISS: Page 71 not found in TLB
+Inserting page 71 -> frame 9 into TLB slot 10
+Logical: 0x47D0 | Physical: 0x09D0 | Value: 0
+Searching TLB for page: 52
+TLB MISS: Page 52 not found in TLB
+Inserting page 52 -> frame 141 into TLB slot 11
+Logical: 0x3498 | Physical: 0x8D98 | Value: 0
+Searching TLB for page: 121
+TLB MISS: Page 121 not found in TLB
+Inserting page 121 -> frame 242 into TLB slot 12
+Logical: 0x792A | Physical: 0xF22A | Value: 30
+Searching TLB for page: 245
+TLB MISS: Page 245 not found in TLB
+Inserting page 245 -> frame 111 into TLB slot 13
+Logical: 0xF5EE | Physical: 0x6FEE | Value: 61
+Searching TLB for page: 119
+TLB MISS: Page 119 not found in TLB
+Inserting page 119 -> frame 63 into TLB slot 14
+Logical: 0x7793 | Physical: 0x3F93 | Value: -28
+Searching TLB for page: 7
+TLB MISS: Page 7 not found in TLB
+Inserting page 7 -> frame 129 into TLB slot 15
+Logical: 0x0779 | Physical: 0x8179 | Value: 0
+Searching TLB for page: 73
+TLB MISS: Page 73 not found in TLB
+Inserting page 73 -> frame 241 into TLB slot 0
+Logical: 0x49D8 | Physical: 0xF1D8 | Value: 0
+Searching TLB for page: 104
+TLB MISS: Page 104 not found in TLB
+Inserting page 104 -> frame 166 into TLB slot 1
+Logical: 0x6895 | Physical: 0xA695 | Value: 0
+Searching TLB for page: 216
+TLB MISS: Page 216 not found in TLB
+Inserting page 216 -> frame 227 into TLB slot 2
+Logical: 0xD8C3 | Physical: 0xE3C3 | Value: 48
+Searching TLB for page: 85
+TLB MISS: Page 85 not found in TLB
+Inserting page 85 -> frame 94 into TLB slot 3
+Logical: 0x558B | Physical: 0x5E8B | Value: 98
+Searching TLB for page: 251
+TLB MISS: Page 251 not found in TLB
+Inserting page 251 -> frame 19 into TLB slot 4
+Logical: 0xFB9D | Physical: 0x139D | Value: 0
+Searching TLB for page: 184
+TLB MISS: Page 184 not found in TLB
+Inserting page 184 -> frame 116 into TLB slot 5
+Logical: 0xB81E | Physical: 0x741E | Value: 46
+Searching TLB for page: 90
+TLB MISS: Page 90 not found in TLB
+Inserting page 90 -> frame 140 into TLB slot 6
+Logical: 0x5A84 | Physical: 0x8C84 | Value: 0
+Searching TLB for page: 28
+TLB MISS: Page 28 not found in TLB
+Inserting page 28 -> frame 168 into TLB slot 7
+Logical: 0x1C5E | Physical: 0xA85E | Value: 7
+Searching TLB for page: 49
+TLB MISS: Page 49 not found in TLB
+Inserting page 49 -> frame 121 into TLB slot 8
+Logical: 0x31A1 | Physical: 0x79A1 | Value: 0
+Searching TLB for page: 29
+TLB MISS: Page 29 not found in TLB
+Inserting page 29 -> frame 24 into TLB slot 9
+Logical: 0x1D62 | Physical: 0x1862 | Value: 7
+Searching TLB for page: 229
+TLB MISS: Page 229 not found in TLB
+Inserting page 229 -> frame 215 into TLB slot 10
+Logical: 0xE5BF | Physical: 0xD7BF | Value: 111
+Searching TLB for page: 136
+TLB MISS: Page 136 not found in TLB
+Inserting page 136 -> frame 104 into TLB slot 11
+Logical: 0x8864 | Physical: 0x6864 | Value: 0
+Searching TLB for page: 14
+TLB MISS: Page 14 not found in TLB
+Inserting page 14 -> frame 39 into TLB slot 12
+Logical: 0x0EDA | Physical: 0x27DA | Value: 3
+Searching TLB for page: 226
+TLB MISS: Page 226 not found in TLB
+Inserting page 226 -> frame 12 into TLB slot 13
+Logical: 0xE298 | Physical: 0x0C98 | Value: 0
+Searching TLB for page: 4
+TLB MISS: Page 4 not found in TLB
+Inserting page 4 -> frame 159 into TLB slot 14
+Logical: 0x04D7 | Physical: 0x9FD7 | Value: 53
+Searching TLB for page: 249
+TLB MISS: Page 249 not found in TLB
+Inserting page 249 -> frame 85 into TLB slot 15
+Logical: 0xF9CB | Physical: 0x55CB | Value: 114
+Searching TLB for page: 1
+TLB MISS: Page 1 not found in TLB
+Inserting page 1 -> frame 223 into TLB slot 0
+Logical: 0x017D | Physical: 0xDF7D | Value: 0
+Searching TLB for page: 237
+TLB MISS: Page 237 not found in TLB
+Inserting page 237 -> frame 92 into TLB slot 1
+Logical: 0xED3E | Physical: 0x5C3E | Value: 59
+Searching TLB for page: 190
+TLB MISS: Page 190 not found in TLB
+Inserting page 190 -> frame 128 into TLB slot 2
+Logical: 0xBE81 | Physical: 0x8081 | Value: 0
+Searching TLB for page: 163
+TLB MISS: Page 163 not found in TLB
+Inserting page 163 -> frame 151 into TLB slot 3
+Logical: 0xA3D2 | Physical: 0x97D2 | Value: 40
+Searching TLB for page: 148
+TLB MISS: Page 148 not found in TLB
+Inserting page 148 -> frame 145 into TLB slot 4
+Logical: 0x9489 | Physical: 0x9189 | Value: 0
+Searching TLB for page: 215
+TLB MISS: Page 215 not found in TLB
+Inserting page 215 -> frame 20 into TLB slot 5
+Logical: 0xD73B | Physical: 0x143B | Value: -50
+Searching TLB for page: 221
+TLB MISS: Page 221 not found in TLB
+Inserting page 221 -> frame 52 into TLB slot 6
+Logical: 0xDD73 | Physical: 0x3473 | Value: 92
+Searching TLB for page: 154
+TLB MISS: Page 154 not found in TLB
+Inserting page 154 -> frame 169 into TLB slot 7
+Logical: 0x9A6A | Physical: 0xA96A | Value: 38
+Searching TLB for page: 230
+TLB MISS: Page 230 not found in TLB
+Inserting page 230 -> frame 58 into TLB slot 8
+Logical: 0xE67B | Physical: 0x3A7B | Value: -98
+Searching TLB for page: 23
+TLB MISS: Page 23 not found in TLB
+Inserting page 23 -> frame 36 into TLB slot 9
+Logical: 0x178D | Physical: 0x248D | Value: 0
+Searching TLB for page: 81
+TLB MISS: Page 81 not found in TLB
+Inserting page 81 -> frame 152 into TLB slot 10
+Logical: 0x51B8 | Physical: 0x98B8 | Value: 0
+Searching TLB for page: 31
+TLB MISS: Page 31 not found in TLB
+Inserting page 31 -> frame 132 into TLB slot 11
+Logical: 0x1F8D | Physical: 0x848D | Value: 0
+Searching TLB for page: 166
+TLB MISS: Page 166 not found in TLB
+Inserting page 166 -> frame 81 into TLB slot 12
+Logical: 0xA689 | Physical: 0x5189 | Value: 0
+Searching TLB for page: 68
+TLB MISS: Page 68 not found in TLB
+Inserting page 68 -> frame 160 into TLB slot 13
+Logical: 0x4423 | Physical: 0xA023 | Value: 8
+Searching TLB for page: 209
+TLB MISS: Page 209 not found in TLB
+Inserting page 209 -> frame 3 into TLB slot 14
+Logical: 0xD142 | Physical: 0x0342 | Value: 52
+Searching TLB for page: 89
+TLB MISS: Page 89 not found in TLB
+Inserting page 89 -> frame 206 into TLB slot 15
+Logical: 0x5931 | Physical: 0xCE31 | Value: 0
+Searching TLB for page: 14
+TLB MISS: Page 14 not found in TLB
+Inserting page 14 -> frame 39 into TLB slot 0
+Logical: 0x0EC6 | Physical: 0x27C6 | Value: 3
+Searching TLB for page: 186
+TLB MISS: Page 186 not found in TLB
+Inserting page 186 -> frame 220 into TLB slot 1
+Logical: 0xBA8E | Physical: 0xDC8E | Value: 46
+Searching TLB for page: 86
+TLB MISS: Page 86 not found in TLB
+Inserting page 86 -> frame 221 into TLB slot 2
+Logical: 0x5678 | Physical: 0xDD78 | Value: 0
+Searching TLB for page: 87
+TLB MISS: Page 87 not found in TLB
+Inserting page 87 -> frame 44 into TLB slot 3
+Logical: 0x579B | Physical: 0x2C9B | Value: -25
+Searching TLB for page: 93
+TLB MISS: Page 93 not found in TLB
+Inserting page 93 -> frame 154 into TLB slot 4
+Logical: 0x5D3B | Physical: 0x9A3B | Value: 78
+Searching TLB for page: 234
+TLB MISS: Page 234 not found in TLB
+Inserting page 234 -> frame 41 into TLB slot 5
+Logical: 0xEA40 | Physical: 0x2940 | Value: 0
+Searching TLB for page: 242
+TLB MISS: Page 242 not found in TLB
+Inserting page 242 -> frame 243 into TLB slot 6
+Logical: 0xF2D6 | Physical: 0xF3D6 | Value: 60
+Searching TLB for page: 27
+TLB MISS: Page 27 not found in TLB
+Inserting page 27 -> frame 103 into TLB slot 7
+Logical: 0x1B3C | Physical: 0x673C | Value: 0
+Searching TLB for page: 248
+TLB MISS: Page 248 not found in TLB
+Inserting page 248 -> frame 110 into TLB slot 8
+Logical: 0xF8C4 | Physical: 0x6EC4 | Value: 0
+Searching TLB for page: 181
+TLB MISS: Page 181 not found in TLB
+Inserting page 181 -> frame 196 into TLB slot 9
+Logical: 0xB534 | Physical: 0xC434 | Value: 0 | [DIRTY]
+Searching TLB for page: 163
+TLB MISS: Page 163 not found in TLB
+Inserting page 163 -> frame 151 into TLB slot 10
+Logical: 0xA3D6 | Physical: 0x97D6 | Value: 40
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 11
+Logical: 0x8EAC | Physical: 0x38AC | Value: 1
+Searching TLB for page: 36
+TLB MISS: Page 36 not found in TLB
+Inserting page 36 -> frame 89 into TLB slot 12
+Logical: 0x246B | Physical: 0x596B | Value: 26
+Searching TLB for page: 121
+TLB MISS: Page 121 not found in TLB
+Inserting page 121 -> frame 242 into TLB slot 13
+Logical: 0x798A | Physical: 0xF28A | Value: 30
+Searching TLB for page: 87
+TLB HIT: Found page 87 in TLB slot 3 with frame 44
+Logical: 0x5749 | Physical: 0x2C49 | Value: 0
+Searching TLB for page: 181
+TLB HIT: Found page 181 in TLB slot 9 with frame 196
+Logical: 0xB57F | Physical: 0xC47F | Value: 95
+Searching TLB for page: 213
+TLB MISS: Page 213 not found in TLB
+Inserting page 213 -> frame 190 into TLB slot 14
+Logical: 0xD58F | Physical: 0xBE8F | Value: 99
+Searching TLB for page: 35
+TLB MISS: Page 35 not found in TLB
+Inserting page 35 -> frame 188 into TLB slot 15
+Logical: 0x23FE | Physical: 0xBCFE | Value: 8
+Searching TLB for page: 28
+TLB MISS: Page 28 not found in TLB
+Inserting page 28 -> frame 168 into TLB slot 0
+Logical: 0x1C59 | Physical: 0xA859 | Value: 0
+Searching TLB for page: 129
+TLB MISS: Page 129 not found in TLB
+Inserting page 129 -> frame 209 into TLB slot 1
+Logical: 0x817E | Physical: 0xD17E | Value: 32
+Searching TLB for page: 162
+TLB MISS: Page 162 not found in TLB
+Inserting page 162 -> frame 163 into TLB slot 2
+Logical: 0xA25D | Physical: 0xA35D | Value: 0
+Searching TLB for page: 102
+TLB MISS: Page 102 not found in TLB
+Inserting page 102 -> frame 192 into TLB slot 3
+Logical: 0x6666 | Physical: 0xC066 | Value: 25
+Searching TLB for page: 14
+TLB MISS: Page 14 not found in TLB
+Inserting page 14 -> frame 39 into TLB slot 4
+Logical: 0x0E0B | Physical: 0x270B | Value: -126
+Searching TLB for page: 70
+TLB MISS: Page 70 not found in TLB
+Inserting page 70 -> frame 73 into TLB slot 5
+Logical: 0x460C | Physical: 0x490C | Value: 0
+Searching TLB for page: 135
+TLB MISS: Page 135 not found in TLB
+Inserting page 135 -> frame 70 into TLB slot 6
+Logical: 0x8764 | Physical: 0x4664 | Value: 0
+Searching TLB for page: 202
+TLB MISS: Page 202 not found in TLB
+Inserting page 202 -> frame 106 into TLB slot 7
+Logical: 0xCAF9 | Physical: 0x6AF9 | Value: 0
+Searching TLB for page: 229
+TLB MISS: Page 229 not found in TLB
+Inserting page 229 -> frame 215 into TLB slot 8
+Logical: 0xE50A | Physical: 0xD70A | Value: 57
+Searching TLB for page: 226
+TLB MISS: Page 226 not found in TLB
+Inserting page 226 -> frame 12 into TLB slot 9
+Logical: 0xE286 | Physical: 0x0C86 | Value: 56
+Searching TLB for page: 112
+TLB MISS: Page 112 not found in TLB
+Inserting page 112 -> frame 5 into TLB slot 10
+Logical: 0x70B0 | Physical: 0x05B0 | Value: 0
+Searching TLB for page: 195
+TLB MISS: Page 195 not found in TLB
+Inserting page 195 -> frame 231 into TLB slot 11
+Logical: 0xC300 | Physical: 0xE700 | Value: 0
+Searching TLB for page: 71
+TLB MISS: Page 71 not found in TLB
+Inserting page 71 -> frame 9 into TLB slot 12
+Logical: 0x47AF | Physical: 0x09AF | Value: -21
+Searching TLB for page: 209
+TLB MISS: Page 209 not found in TLB
+Inserting page 209 -> frame 3 into TLB slot 13
+Logical: 0xD1A5 | Physical: 0x03A5 | Value: 0
+Searching TLB for page: 132
+TLB MISS: Page 132 not found in TLB
+Inserting page 132 -> frame 164 into TLB slot 14
+Logical: 0x84CC | Physical: 0xA4CC | Value: 0
+Searching TLB for page: 26
+TLB MISS: Page 26 not found in TLB
+Inserting page 26 -> frame 26 into TLB slot 15
+Logical: 0x1A55 | Physical: 0x1A55 | Value: 0
+Searching TLB for page: 250
+TLB MISS: Page 250 not found in TLB
+Inserting page 250 -> frame 17 into TLB slot 0
+Logical: 0xFA62 | Physical: 0x1162 | Value: 62
+Searching TLB for page: 2
+TLB MISS: Page 2 not found in TLB
+Inserting page 2 -> frame 67 into TLB slot 1
+Logical: 0x025E | Physical: 0x435E | Value: 0
+Searching TLB for page: 106
+TLB MISS: Page 106 not found in TLB
+Inserting page 106 -> frame 112 into TLB slot 2
+Logical: 0x6AF7 | Physical: 0x70F7 | Value: -67
+Searching TLB for page: 246
+TLB MISS: Page 246 not found in TLB
+Inserting page 246 -> frame 86 into TLB slot 3
+Logical: 0xF6A4 | Physical: 0x56A4 | Value: 0
+Searching TLB for page: 125
+TLB MISS: Page 125 not found in TLB
+Inserting page 125 -> frame 194 into TLB slot 4
+Logical: 0x7DE4 | Physical: 0xC2E4 | Value: 0
+Searching TLB for page: 247
+TLB MISS: Page 247 not found in TLB
+Inserting page 247 -> frame 66 into TLB slot 5
+Logical: 0xF7CD | Physical: 0x42CD | Value: 0
+Searching TLB for page: 113
+TLB MISS: Page 113 not found in TLB
+Inserting page 113 -> frame 64 into TLB slot 6
+Logical: 0x719D | Physical: 0x409D | Value: 0
+Searching TLB for page: 254
+TLB MISS: Page 254 not found in TLB
+Inserting page 254 -> frame 189 into TLB slot 7
+Logical: 0xFE38 | Physical: 0xBD38 | Value: 0
+Searching TLB for page: 151
+TLB MISS: Page 151 not found in TLB
+Inserting page 151 -> frame 183 into TLB slot 8
+Logical: 0x9761 | Physical: 0xB761 | Value: 0
+Searching TLB for page: 62
+TLB MISS: Page 62 not found in TLB
+Inserting page 62 -> frame 82 into TLB slot 9
+Logical: 0x3EA9 | Physical: 0x52A9 | Value: 0
+Searching TLB for page: 35
+TLB MISS: Page 35 not found in TLB
+Inserting page 35 -> frame 188 into TLB slot 10
+Logical: 0x2351 | Physical: 0xBC51 | Value: 0
+Searching TLB for page: 164
+TLB MISS: Page 164 not found in TLB
+Inserting page 164 -> frame 180 into TLB slot 11
+Logical: 0xA46A | Physical: 0xB46A | Value: 41
+Searching TLB for page: 181
+TLB MISS: Page 181 not found in TLB
+Inserting page 181 -> frame 196 into TLB slot 12
+Logical: 0xB534 | Physical: 0xC434 | Value: 1
+Searching TLB for page: 248
+TLB MISS: Page 248 not found in TLB
+Inserting page 248 -> frame 110 into TLB slot 13
+Logical: 0xF8A2 | Physical: 0x6EA2 | Value: 62
+Searching TLB for page: 143
+TLB MISS: Page 143 not found in TLB
+Inserting page 143 -> frame 139 into TLB slot 14
+Logical: 0x8F1C | Physical: 0x8B1C | Value: 0
+Searching TLB for page: 85
+TLB MISS: Page 85 not found in TLB
+Inserting page 85 -> frame 94 into TLB slot 15
+Logical: 0x55BB | Physical: 0x5EBB | Value: 110
+Searching TLB for page: 77
+TLB MISS: Page 77 not found in TLB
+Inserting page 77 -> frame 142 into TLB slot 0
+Logical: 0x4D79 | Physical: 0x8E79 | Value: 0
+Searching TLB for page: 142
+TLB MISS: Page 142 not found in TLB
+Inserting page 142 -> frame 56 into TLB slot 1
+Logical: 0x8E70 | Physical: 0x3870 | Value: 0
+Searching TLB for page: 33
+TLB MISS: Page 33 not found in TLB
+Inserting page 33 -> frame 78 into TLB slot 2
+Logical: 0x215D | Physical: 0x4E5D | Value: 0
+Searching TLB for page: 49
+TLB MISS: Page 49 not found in TLB
+Inserting page 49 -> frame 121 into TLB slot 3
+Logical: 0x31A8 | Physical: 0x79A8 | Value: 0
+Searching TLB for page: 191
+TLB MISS: Page 191 not found in TLB
+Inserting page 191 -> frame 197 into TLB slot 4
+Logical: 0xBF3B | Physical: 0xC53B | Value: -50
+Searching TLB for page: 153
+TLB MISS: Page 153 not found in TLB
+Inserting page 153 -> frame 217 into TLB slot 5
+Logical: 0x9926 | Physical: 0xD926 | Value: 38
+Searching TLB for page: 60
+TLB MISS: Page 60 not found in TLB
+Inserting page 60 -> frame 124 into TLB slot 6
+Logical: 0x3CDA | Physical: 0x7CDA | Value: 15
+Searching TLB for page: 192
+TLB MISS: Page 192 not found in TLB
+Inserting page 192 -> frame 33 into TLB slot 7
+Logical: 0xC035 | Physical: 0x2135 | Value: 0
+Searching TLB for page: 30
+TLB MISS: Page 30 not found in TLB
+Inserting page 30 -> frame 226 into TLB slot 8
+Logical: 0x1E33 | Physical: 0xE233 | Value: -116
+Searching TLB for page: 168
+TLB MISS: Page 168 not found in TLB
+Inserting page 168 -> frame 68 into TLB slot 9
+Logical: 0xA826 | Physical: 0x4426 | Value: 42
+Searching TLB for page: 236
+TLB MISS: Page 236 not found in TLB
+Inserting page 236 -> frame 28 into TLB slot 10
+Logical: 0xEC52 | Physical: 0x1C52 | Value: 59
+Searching TLB for page: 36
+TLB MISS: Page 36 not found in TLB
+Inserting page 36 -> frame 89 into TLB slot 11
+Logical: 0x2415 | Physical: 0x5915 | Value: 0
+Searching TLB for page: 186
+TLB MISS: Page 186 not found in TLB
+Inserting page 186 -> frame 220 into TLB slot 12
+Logical: 0xBA5A | Physical: 0xDC5A | Value: 46
+Searching TLB for page: 171
+TLB MISS: Page 171 not found in TLB
+Inserting page 171 -> frame 224 into TLB slot 13
+Logical: 0xABC5 | Physical: 0xE0C5 | Value: 0
+Searching TLB for page: 164
+TLB MISS: Page 164 not found in TLB
+Inserting page 164 -> frame 180 into TLB slot 14
+Logical: 0xA418 | Physical: 0xB418 | Value: 0
+Searching TLB for page: 107
+TLB MISS: Page 107 not found in TLB
+Inserting page 107 -> frame 61 into TLB slot 15
+Logical: 0x6B44 | Physical: 0x3D44 | Value: 0
+Searching TLB for page: 97
+TLB MISS: Page 97 not found in TLB
+Inserting page 97 -> frame 205 into TLB slot 0
+Logical: 0x61A7 | Physical: 0xCDA7 | Value: 105
+Searching TLB for page: 202
+TLB MISS: Page 202 not found in TLB
+Inserting page 202 -> frame 106 into TLB slot 1
+Logical: 0xCADD | Physical: 0x6ADD | Value: 0
+Searching TLB for page: 133
+TLB MISS: Page 133 not found in TLB
+Inserting page 133 -> frame 238 into TLB slot 2
+Logical: 0x8516 | Physical: 0xEE16 | Value: 33
+Searching TLB for page: 254
+TLB MISS: Page 254 not found in TLB
+Inserting page 254 -> frame 189 into TLB slot 3
+Logical: 0xFE83 | Physical: 0xBD83 | Value: -96
+Searching TLB for page: 234
+TLB MISS: Page 234 not found in TLB
+Inserting page 234 -> frame 41 into TLB slot 4
+Logical: 0xEA33 | Physical: 0x2933 | Value: -116
+Searching TLB for page: 36
+TLB HIT: Found page 36 in TLB slot 11 with frame 89
+Logical: 0x243D | Physical: 0x593D | Value: 0
+Searching TLB for page: 79
+TLB MISS: Page 79 not found in TLB
+Inserting page 79 -> frame 65 into TLB slot 5
+Logical: 0x4FC4 | Physical: 0x41C4 | Value: 0
+Searching TLB for page: 175
+TLB MISS: Page 175 not found in TLB
+Inserting page 175 -> frame 51 into TLB slot 6
+Logical: 0xAF3C | Physical: 0x333C | Value: 0
+Searching TLB for page: 199
+TLB MISS: Page 199 not found in TLB
+Inserting page 199 -> frame 167 into TLB slot 7
+Logical: 0xC730 | Physical: 0xA730 | Value: 0
+Searching TLB for page: 41
+TLB MISS: Page 41 not found in TLB
+Inserting page 41 -> frame 107 into TLB slot 8
+Logical: 0x2957 | Physical: 0x6B57 | Value: 85
+Searching TLB for page: 225
+TLB MISS: Page 225 not found in TLB
+Inserting page 225 -> frame 239 into TLB slot 9
+Logical: 0xE197 | Physical: 0xEF97 | Value: 101
+Searching TLB for page: 90
+TLB MISS: Page 90 not found in TLB
+Inserting page 90 -> frame 140 into TLB slot 10
+Logical: 0x5A9B | Physical: 0x8C9B | Value: -90
+Searching TLB for page: 106
+TLB MISS: Page 106 not found in TLB
+Inserting page 106 -> frame 112 into TLB slot 11
+Logical: 0x6A5B | Physical: 0x705B | Value: -106
+Searching TLB for page: 167
+TLB MISS: Page 167 not found in TLB
+Inserting page 167 -> frame 76 into TLB slot 12
+Logical: 0xA740 | Physical: 0x4C40 | Value: 0
+Searching TLB for page: 227
+TLB MISS: Page 227 not found in TLB
+Inserting page 227 -> frame 133 into TLB slot 13
+Logical: 0xE36B | Physical: 0x856B | Value: -38
+Searching TLB for page: 146
+TLB MISS: Page 146 not found in TLB
+Inserting page 146 -> frame 83 into TLB slot 14
+Logical: 0x92E6 | Physical: 0x53E6 | Value: 36
+Searching TLB for page: 71
+TLB MISS: Page 71 not found in TLB
+Inserting page 71 -> frame 9 into TLB slot 15
+Logical: 0x47FA | Physical: 0x09FA | Value: 17
+Searching TLB for page: 82
+TLB MISS: Page 82 not found in TLB
+Inserting page 82 -> frame 147 into TLB slot 0
+Logical: 0x52F6 | Physical: 0x93F6 | Value: 20
+Searching TLB for page: 46
+TLB MISS: Page 46 not found in TLB
+Inserting page 46 -> frame 233 into TLB slot 1
+Logical: 0x2ECF | Physical: 0xE9CF | Value: -77
+Searching TLB for page: 189
+TLB MISS: Page 189 not found in TLB
+Inserting page 189 -> frame 7 into TLB slot 2
+Logical: 0xBD0A | Physical: 0x070A | Value: 47
+Searching TLB for page: 43
+TLB MISS: Page 43 not found in TLB
+Inserting page 43 -> frame 156 into TLB slot 3
+Logical: 0x2B1C | Physical: 0x9C1C | Value: 0
+Searching TLB for page: 119
+TLB MISS: Page 119 not found in TLB
+Inserting page 119 -> frame 63 into TLB slot 4
+Logical: 0x775D | Physical: 0x3F5D | Value: 0
+Searching TLB for page: 91
+TLB MISS: Page 91 not found in TLB
+Inserting page 91 -> frame 80 into TLB slot 5
+Logical: 0x5B9D | Physical: 0x509D | Value: 0
+Searching TLB for page: 194
+TLB MISS: Page 194 not found in TLB
+Inserting page 194 -> frame 123 into TLB slot 6
+Logical: 0xC2B7 | Physical: 0x7BB7 | Value: -83
+Searching TLB for page: 117
+TLB MISS: Page 117 not found in TLB
+Inserting page 117 -> frame 2 into TLB slot 7
+Logical: 0x7550 | Physical: 0x0250 | Value: 0
+Searching TLB for page: 187
+TLB MISS: Page 187 not found in TLB
+Inserting page 187 -> frame 100 into TLB slot 8
+Logical: 0xBBC1 | Physical: 0x64C1 | Value: 0
+Searching TLB for page: 27
+TLB MISS: Page 27 not found in TLB
+Inserting page 27 -> frame 103 into TLB slot 9
+Logical: 0x1B2D | Physical: 0x672D | Value: 0
+Searching TLB for page: 8
+TLB MISS: Page 8 not found in TLB
+Inserting page 8 -> frame 137 into TLB slot 10
+Logical: 0x08FD | Physical: 0x89FD | Value: 0
+Searching TLB for page: 30
+TLB MISS: Page 30 not found in TLB
+Inserting page 30 -> frame 226 into TLB slot 11
+Logical: 0x1E38 | Physical: 0xE238 | Value: 0
+Searching TLB for page: 122
+TLB MISS: Page 122 not found in TLB
+Inserting page 122 -> frame 91 into TLB slot 12
+Logical: 0x7A1C | Physical: 0x5B1C | Value: 0
+Searching TLB for page: 66
+TLB MISS: Page 66 not found in TLB
+Inserting page 66 -> frame 0 into TLB slot 13
+Logical: 0x42AF | Physical: 0x00AF | Value: -85
+Searching TLB for page: 34
+TLB MISS: Page 34 not found in TLB
+Inserting page 34 -> frame 181 into TLB slot 14
+Logical: 0x22EC | Physical: 0xB5EC | Value: 0
+Searching TLB for page: 38
+TLB MISS: Page 38 not found in TLB
+Inserting page 38 -> frame 174 into TLB slot 15
+Logical: 0x26C9 | Physical: 0xAEC9 | Value: 0
+Searching TLB for page: 177
+TLB MISS: Page 177 not found in TLB
+Inserting page 177 -> frame 179 into TLB slot 0
+Logical: 0xB1FB | Physical: 0xB3FB | Value: 126
+Searching TLB for page: 47
+TLB MISS: Page 47 not found in TLB
+Inserting page 47 -> frame 10 into TLB slot 1
+Logical: 0x2F4B | Physical: 0x0A4B | Value: -46
+
+--- Stats ---
+Total Addresses: 1000
+Page Faults: 244
+Page Fault Rate: 24.40%
+TLB Hits: 54
+TLB Hit Rate: 5.40%
+Dirty Pages: 6

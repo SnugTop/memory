@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
+#include <string.h>  // Needed for strcmp
 #include "memory.h"
 
 int main(int argc, char *argv[]) {
@@ -18,6 +19,18 @@ int main(int argc, char *argv[]) {
     for (int i = 0; i < PAGE_TABLE_SIZE; i++) {
         page_table[i].valid = 0;
         page_table[i].dirty = 0;
+    }
+
+    // Use a character array instead of an undeclared "string" type
+    char mode[16] = "";
+    printf("Enter mode (2 for limited physical memory, anything else for full memory): ");
+    scanf("%15s", mode);
+
+    // Use strcmp to compare strings
+    if (strcmp(mode, "2") == 0) {
+        limit = true;
+    } else {
+        limit = false;
     }
 
     uint32_t logical_address;

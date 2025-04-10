@@ -1,4 +1,5 @@
-// include/memory.h
+//memory.h
+#include <stdbool.h>
 #ifndef MEMORY_H
 #define MEMORY_H
 
@@ -26,6 +27,10 @@ extern TLBEntry tlb[TLB_SIZE];
 extern int tlb_index;
 extern int next_free_frame;
 extern int total_addresses, page_faults, tlb_hits;
+extern bool limit;
+extern int framesFilled;
+extern bool frameWrite[256];
+extern int framesToPages[256];
 
 // Function declarations
 uint8_t get_page_number(uint32_t addr);
