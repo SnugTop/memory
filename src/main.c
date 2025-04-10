@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
+#include <string.h>  // Needed for strcmp
 #include "memory.h"
 
 int main(int argc, char *argv[]) {
@@ -20,17 +21,16 @@ int main(int argc, char *argv[]) {
         page_table[i].dirty = 0;
     }
 
-    //allows user to set to 128 or 256 physical frames
-    string mode = "";
-    scanf("%s", mode);
-    if (mode == "2") {
+    // Use a character array instead of an undeclared "string" type
+    char mode[16] = "";
+    printf("Enter mode (2 for limited physical memory, anything else for full memory): ");
+    scanf("%15s", mode);
+
+    // Use strcmp to compare strings
+    if (strcmp(mode, "2") == 0) {
         limit = true;
-        //set to mode limit = true with 128 frames in physical
-        //physical_memory keeps its original size; we just never use half of it 
-    }
-    else {
+    } else {
         limit = false;
-        //set to mode limit = false with 256 frames in physical
     }
 
     uint32_t logical_address;
