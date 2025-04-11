@@ -17,6 +17,8 @@ int handle_page_fault(int page_number) {
     if (limit && framesFilled >= 128) {
         // Identify the victim frame using FIFO (next_free_frame indicates the next slot to replace).
         int victim_frame = next_free_frame;
+        //remove one frame from framesFilled (will be added back at program's end)
+        framesFilled--;
         
         // If the victim frame has been written to, write its contents back to the backing store.
         if (frameWrite[victim_frame]) {
@@ -65,16 +67,13 @@ int handle_page_fault(int page_number) {
     int allocated_frame = next_free_frame;
     
     // Advance next_free_frame circularly.
+    // if limit is true and next_free_frame = 128, memory.c will reset it to 0
     next_free_frame++;
-    if (limit && next_free_frame >= 128) {
-        next_free_frame = 0;
-    }
-    
-    // If physical memory is not yet full (i.e. we are still filling empty frames),
-    // update framesFilled. In replacement mode (when framesFilled is already 128), we do not increment it.
-    if (!limit || framesFilled < 128) {
-        framesFilled++;
-    }
+
+    // Advance next_free_frame circularly.
+    // update framesFilled. In replacement mode (when framesFilled is already 128), we already decremented it
+    // thus we can still increement it
+    framesFilled++;
     
     return allocated_frame;
 }
