@@ -1,3 +1,4 @@
+//main.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
@@ -78,23 +79,6 @@ int main(int argc, char *argv[]) {
             dirty_count++;
     }
     printf("Dirty Pages: %d\n", dirty_count);
-
-    //temporary code to test if different modes work.
-    if (limit == true) {
-        printf("YES LIMIT\n");
-    }
-    else {
-        printf("NO LIMIT\n");
-    }
-    int frames = 0;
-    for (int count = 0; count < 256; count++) {
-        if (frameWrite[count]) {
-            frames++;
-        }
-    }
-    printf("%d\n", frames);
-    printf("%d\n", framesFilled); //should be the same
-    //end temporary code
 
     // Return 0 indicating normal program termination.
     return 0;
