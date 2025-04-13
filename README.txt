@@ -2,8 +2,11 @@ Memory Project -- COSC 3020 -- Project 4
 Cameron Daly, Anthony Duan
 
 List of files:
-backing_store.c -- 
-main.c -- 
+backing_store.c
+--> This file handles page faults, updating the page_table, replacing the "current" index in the TLB with the new page-frame pair, and increments the count of filled frames and the TLB index. The next free frame variable is also incremented; it is used to determine where to place the frame in the page table, as if it uses 128 frames and 128 are filled that variable cannot be incremented.
+--> If there is a 128-frame limit and all frames are filled, we write the victim frame's contents to the backing store and take it out of the TLB.
+main.c
+--> We read in command-line arguments, including whether to impose the 128-frame limit, and initialize the page table. We then read in each line and output the statistics.
 memory.c -- 
 memory.h -- 
 utils.c -- 
