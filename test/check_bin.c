@@ -14,7 +14,6 @@ int main(int argc, char *argv[]) {
     // Extract page number and offset
     uint8_t page = (logical_addr >> 8) & 0xFF;
     uint8_t offset = logical_addr & 0xFF;
-    uint32_t physical_addr = (page * 256) + offset;
 
     // Open BACKING_STORE.bin
     FILE *bs = fopen("BACKING_STORE.bin", "rb");
@@ -24,14 +23,14 @@ int main(int argc, char *argv[]) {
     }
 
     // Seek and read
-    fseek(bs, physical_addr, SEEK_SET);
+    fseek(bs, logical_addr, SEEK_SET);
     signed char value;
     fread(&value, sizeof(signed char), 1, bs);
     fclose(bs);
 
-    // Print full info
-    printf("Logical: 0x%04X | Page: 0x%02X | Offset: 0x%02X | Physical: 0x%04X | File Offset: %u | Value: %d\n",
-           logical_addr, page, offset, physical_addr, physical_addr, value);
+    // Clean output without "physical"
+    printf("Logical: 0x%04X | Page: 0x%02X | Offset: 0x%02X | File Offset: %u | Value: %d\n",
+           logical_addr, page, offset, logical_addr, value);
 
     return 0;
 }
