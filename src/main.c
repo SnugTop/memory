@@ -79,6 +79,23 @@ int main(int argc, char *argv[]) {
     }
     printf("Dirty Pages: %d\n", dirty_count);
 
+    //temporary code to test if different modes work.
+    if (limit == true) {
+        printf("YES LIMIT\n");
+    }
+    else {
+        printf("NO LIMIT\n");
+    }
+    int frames = 0;
+    for (int count = 0; count < 256; count++) {
+        if (frameWrite[count]) {
+            frames++;
+        }
+    }
+    printf("%d\n", frames);
+    printf("%d\n", framesFilled);
+    //end temporary code
+
     // Return 0 indicating normal program termination.
     return 0;
 }
