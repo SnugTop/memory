@@ -93,7 +93,7 @@ int main(int argc, char *argv[]) {
         }
     }
     printf("%d\n", frames);
-    printf("%d\n", framesFilled);
+    printf("%d\n", framesFilled); //should be the same
     //end temporary code
 
     // Return 0 indicating normal program termination.
