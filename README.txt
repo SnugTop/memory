@@ -31,3 +31,23 @@ Features implemented:
 * Upon beginning the program, a prompt will allow the user to select the option of limiting memory
 * Thus, it will be possible to test both modes
 * This is the second part we worked on; it was followed by testing
+
+Walk-through of code:
+1. In main.c, we open the file being passed in
+2. In main.c, command-line response to "Enter mode (2 for limited physical memory, anything else for full memory):" determines whether frame limit is 128 frames i.e. if limit = true
+3. We enter memory.c and translate each address, getting variables page_number, offset, and write_bit
+4. We then use utils.c for get_page_number(), get_offset(), and get_write_bit()
+5. If the page_number is not in the TLB, we do not increment tlb_hits, but we search in the page table, we handle the page fault via backing_store.c; either way, we end up with a new or used frame number
+6. These frame numbers start at 0 (first) and go up to at least 127 (128th)
+7. We use search_tlb() and look at the "valid" attribute of page_table[page_number] for the search
+8. If we have filled up all the frames and have limited memory, we select our victim frame, write it back, then remove corresponding page table / TLB entries.
+9. We set the new page table entry, and increment variables corresponding to which frame we place our page in, and how many frames are full.
+10. When setting a new page table entry, we set page_table[page_number].frame_number to the incremental variable referring to a frame
+11. We set the valid attribute of page_table[page_number] to true, and the dirty attribute to false
+12. We update the TLB via utils.c and insert_tlb()
+13. Back in memory.c, we increment framesFilled and page_faults.
+14. If we've passed the 128th frame with a 128-frame limit, we revert that incremental variable to the first frame
+15. We compute the physical_address
+16. If our write_bit is 1, we increment physical_memory[physical_address], and set frameWrite[frame_number] and dirty attribute of page_table[page_number] to true
+17. Returning to main.c, we increment the number of addresses, and compute the statistics.
+
