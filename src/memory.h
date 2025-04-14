@@ -16,8 +16,8 @@ typedef struct {
 
 typedef struct {
     int frame_number;
-    int valid;
-    int dirty;
+    bool valid;
+    bool dirty;
 } PageTableEntry;
 
 // Globals (extern so defined in memory.c)
