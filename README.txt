@@ -56,7 +56,7 @@ and implements page replacement when phyiscal memory is limited.
 * memory.h 
     --> we declare global variables and constants. 
 * utils.c 
-    --> contains helper methods to get page number, offset, write bit, and to modify TLB
+    --> Contains helper methods to get page number, offset, write bit, and to modify TLB
 
 The files in this are all in a directory that corresponds to their path in linux.
 
